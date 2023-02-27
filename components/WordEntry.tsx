@@ -2,7 +2,7 @@ export function WordEntryRow({ word }: { word: MarugotoWord }) {
   return (
     <div class="flex items-center justify-between p-4 bg-white rounded-lg shadow-lg">
       <div class="flex flex-col mr-4">
-        <p class="text-xl font-bold leading-tight">{word.kana}</p>
+        <p class="text-xl font-bold leading-tight">{word.kanji ?? word.kana}</p>
         <p class="text-lg font-medium text-gray-500 leading-tight">
           {word.romaji}
         </p>
