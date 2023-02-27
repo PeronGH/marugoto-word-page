@@ -19,7 +19,8 @@ export default function SearchAndResult() {
         <>
           <WordEntryRow
             word={w}
-            show={w.romaji.includes(search) || w.english.includes(search) ||
+            show={w.romaji.toLowerCase().includes(search) ||
+              w.english.toLowerCase().includes(search) ||
               w.kana.includes(search) || !!w.kanji?.includes(search)}
             extraClass="mb-4"
           />

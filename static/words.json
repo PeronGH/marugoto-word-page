@@ -9,8 +9,8 @@
     {
       "kana": "いいえ",
       "romaji": "iie",
-      "english": "Don't mention it./No problem.",
-      "level": "A1"
+      "english": "No.",
+      "level": "A2-1"
     },
     {
       "kana": "おさきに　しつれいします",
@@ -21,8 +21,8 @@
     {
       "kana": "おつかれさまでした",
       "romaji": "otsukaresama deshita",
-      "english": "Good work./Nice job.",
-      "level": "A1"
+      "english": "Good work./Nice job./You must be tired.",
+      "level": "A2-1"
     },
     {
       "kana": "おはようございます",
@@ -32,16 +32,16 @@
     },
     {
       "kana": "かんじ",
+      "kanji": "かんじ（漢字）",
       "romaji": "kanji",
       "english": "Kanji (Chinese script)",
-      "level": "A1"
+      "level": "A2-1"
     },
     {
       "kana": "こんにちは",
-      "kanji": "こんにちは",
       "romaji": "konnichiwa",
       "english": "Hello.",
-      "level": "A1"
+      "level": "A2-1"
     },
     {
       "kana": "こんばんは",
@@ -63,10 +63,9 @@
     },
     {
       "kana": "しんぶん",
-      "kanji": "しんぶん",
       "romaji": "shinbun",
       "english": "newspaper",
-      "level": "A1"
+      "level": "A2-2"
     },
     {
       "kana": "じゃあ、また",
@@ -88,10 +87,10 @@
     },
     {
       "kana": "にほんご",
-      "kanji": "日本ご",
+      "kanji": "日本語",
       "romaji": "Nihongo",
       "english": "Japanese language",
-      "level": "A1"
+      "level": "A2-1"
     },
     {
       "kana": "はい",
@@ -119,9 +118,9 @@
     },
     {
       "kana": "いって　ください",
-      "kanji": "言って　ください",
+      "kanji": "行って　ください",
       "romaji": "itte kudasai",
-      "english": "Please say (that again).",
+      "english": "Please go.",
       "level": "A1"
     },
     {
@@ -132,9 +131,10 @@
     },
     {
       "kana": "えいご",
+      "kanji": "英語",
       "romaji": "Eego",
       "english": "English language",
-      "level": "A1"
+      "level": "A2-1"
     },
     {
       "kana": "おくれます",
@@ -144,15 +144,17 @@
     },
     {
       "kana": "おねがいします",
+      "kanji": "お願いします",
       "romaji": "onegaishimasu",
-      "english": "Please.",
-      "level": "A1"
+      "english": "Please./Please do.",
+      "level": "A2-1"
     },
     {
       "kana": "おわります",
+      "kanji": "終わります",
       "romaji": "owarimasu",
       "english": "to finish",
-      "level": "A1"
+      "level": "A2-2"
     },
     {
       "kana": "かいて　ください",
@@ -170,15 +172,17 @@
     },
     {
       "kana": "きょうしつ",
+      "kanji": "教室",
       "romaji": "kyooshitsu",
       "english": "classroom",
-      "level": "A1"
+      "level": "A2-2"
     },
     {
       "kana": "くに",
+      "kanji": "国",
       "romaji": "kuni",
       "english": "country",
-      "level": "A1"
+      "level": "A2-1"
     },
     {
       "kana": "しつれいします",
@@ -194,9 +198,10 @@
     },
     {
       "kana": "せんせい",
+      "kanji": "先生",
       "romaji": "sensee",
       "english": "teacher/instructor",
-      "level": "A1"
+      "level": "A2-2"
     },
     {
       "kana": "ちょっと",
@@ -206,9 +211,10 @@
     },
     {
       "kana": "なまえ",
+      "kanji": "名前",
       "romaji": "namae",
       "english": "name",
-      "level": "A1"
+      "level": "A2-2"
     },
     {
       "kana": "にほん／にっぽん",
@@ -258,9 +264,10 @@
     },
     {
       "kana": "もう　すこし",
+      "kanji": "もう　少し",
       "romaji": "moo sukoshi",
       "english": "a little more",
-      "level": "A1"
+      "level": "A2-1"
     },
     {
       "kana": "もう　すこし　ゆっくり　いって　ください",
@@ -346,8 +353,8 @@
     {
       "kana": "～さん",
       "romaji": "～san",
-      "english": "Mr./Ms./Mrs./Miss",
-      "level": "A1"
+      "english": "Mr./Ms./Mrs.～",
+      "level": "A2-1"
     },
     {
       "kana": "～って　どういう　いみですか",
@@ -368,10 +375,11 @@
       "level": "A1"
     },
     {
-      "kana": "えっ",
+      "kana": "え",
+      "kanji": "絵",
       "romaji": "e",
-      "english": "What?/Pardon me?/Excuse me?",
-      "level": "A1"
+      "english": "picture",
+      "level": "A2-2"
     },
     {
       "kana": "おしごとは？",
@@ -393,27 +401,31 @@
     },
     {
       "kana": "かんこく",
+      "kanji": "韓国",
       "romaji": "Kankoku",
       "english": "South Korea",
-      "level": "A1"
+      "level": "A2-2"
     },
     {
       "kana": "かんこくご",
+      "kanji": "韓国語",
       "romaji": "Kankokugo",
       "english": "Korean language",
-      "level": "A1"
+      "level": "A2-2"
     },
     {
       "kana": "かんこくじん",
+      "kanji": "かんこく人",
       "romaji": "Kankokujin",
       "english": "Korean people",
-      "level": "A1"
+      "level": "A2-1"
     },
     {
       "kana": "がくせい",
+      "kanji": "学生",
       "romaji": "gakusee",
       "english": "student",
-      "level": "A1"
+      "level": "A2-1"
     },
     {
       "kana": "きょうし",
@@ -435,9 +447,10 @@
     },
     {
       "kana": "すこし",
+      "kanji": "少し",
       "romaji": "sukoshi",
       "english": "a little/a few",
-      "level": "A1"
+      "level": "A2-1"
     },
     {
       "kana": "そうですか",
@@ -447,27 +460,30 @@
     },
     {
       "kana": "ちゅうごく",
+      "kanji": "中国",
       "romaji": "Chuugoku",
       "english": "China",
-      "level": "A1"
+      "level": "A2-1"
     },
     {
       "kana": "ちゅうごくご",
+      "kanji": "中国語",
       "romaji": "Chuugokugo",
       "english": "Chinese language",
-      "level": "A1"
+      "level": "A2-1"
     },
     {
       "kana": "できます",
       "romaji": "dekimasu",
-      "english": "(I) can speak （language)",
-      "level": "A1"
+      "english": "can do",
+      "level": "A2-2"
     },
     {
-      "kana": "どうぞ　よろしく （おねがいします）",
+      "kana": "どうぞ よろしく （おねがいします）",
+      "kanji": "どうぞ よろしく （お願いします）",
       "romaji": "doozo yoroshiku (onegaishimasu)",
       "english": "Pleased to meet you.",
-      "level": "A1"
+      "level": "A2-2"
     },
     {
       "kana": "どちらから？",
@@ -495,9 +511,10 @@
     },
     {
       "kana": "わたし",
+      "kanji": "私",
       "romaji": "watashi",
       "english": "I/me",
-      "level": "A1"
+      "level": "A2-1"
     },
     {
       "kana": "アラビアご",
@@ -525,9 +542,10 @@
     },
     {
       "kana": "ドイツご",
+      "kanji": "ドイツ語",
       "romaji": "Doitsugo",
       "english": "German language",
-      "level": "A1"
+      "level": "A2-1"
     },
     {
       "kana": "～と　もうします",
@@ -537,21 +555,24 @@
     },
     {
       "kana": "あに",
+      "kanji": "兄",
       "romaji": "ani",
       "english": "(my) elder brother",
-      "level": "A1"
+      "level": "A2-2"
     },
     {
       "kana": "あね",
+      "kanji": "姉",
       "romaji": "ane",
       "english": "(my) elder sister",
-      "level": "A1"
+      "level": "A2-2"
     },
     {
       "kana": "いもうと",
+      "kanji": "妹",
       "romaji": "imooto",
       "english": "(my) younger sister",
-      "level": "A1"
+      "level": "A2-2"
     },
     {
       "kana": "おいくつですか",
@@ -561,28 +582,31 @@
     },
     {
       "kana": "おおさか",
-      "kanji": "おおさか",
+      "kanji": "大阪",
       "romaji": "Oosaka",
       "english": "Osaka (name of a place/prefecture in Japan)",
-      "level": "A1"
+      "level": "A2-2"
     },
     {
       "kana": "おっと",
+      "kanji": "夫",
       "romaji": "otto",
       "english": "(my) husband",
-      "level": "A1"
+      "level": "A2-2"
     },
     {
       "kana": "おとうと",
+      "kanji": "弟",
       "romaji": "otooto",
       "english": "(my) younger brother",
-      "level": "A1"
+      "level": "A2-2"
     },
     {
       "kana": "かぞく",
+      "kanji": "家族",
       "romaji": "kazoku",
       "english": "family",
-      "level": "A1"
+      "level": "A2-2"
     },
     {
       "kana": "かっこいい",
@@ -611,15 +635,16 @@
     },
     {
       "kana": "こども",
+      "kanji": "子ども",
       "romaji": "kodomo",
       "english": "child",
-      "level": "A1"
+      "level": "A2-1"
     },
     {
       "kana": "この",
       "romaji": "kono",
-      "english": "this [Noun]",
-      "level": "A1"
+      "english": "this～ [Noun]",
+      "level": "A2-1"
     },
     {
       "kana": "だれ",
@@ -635,15 +660,17 @@
     },
     {
       "kana": "ちち",
+      "kanji": "父",
       "romaji": "chichi",
       "english": "(my) father",
-      "level": "A1"
+      "level": "A2-1"
     },
     {
       "kana": "つま",
+      "kanji": "妻",
       "romaji": "tsuma",
       "english": "(my) wife",
-      "level": "A1"
+      "level": "A2-2"
     },
     {
       "kana": "とうきょう",
@@ -654,9 +681,10 @@
     },
     {
       "kana": "ともだち",
+      "kanji": "友だち",
       "romaji": "tomodachi",
       "english": "friend",
-      "level": "A1"
+      "level": "A2-1"
     },
     {
       "kana": "どこ",
@@ -666,34 +694,38 @@
     },
     {
       "kana": "はは",
+      "kanji": "母",
       "romaji": "haha",
       "english": "(my) mother",
-      "level": "A1"
+      "level": "A2-1"
     },
     {
       "kana": "ひと",
+      "kanji": "人",
       "romaji": "hito",
       "english": "person",
-      "level": "A1"
+      "level": "A2-1"
     },
     {
       "kana": "ひとり",
+      "kanji": "１人／一人",
       "romaji": "hitori",
       "english": "one person",
-      "level": "A1"
+      "level": "A2-2"
     },
     {
       "kana": "ふたり",
+      "kanji": "２人／二人",
       "romaji": "futari",
       "english": "two people",
-      "level": "A1"
+      "level": "A2-1"
     },
     {
       "kana": "ほっかいどう",
-      "kanji": "ほっかいどう",
+      "kanji": "北海道（ほっかいどう）",
       "romaji": "Hokkaidoo",
-      "english": "Hokkaidou (name of a place/prefecture in Japan)",
-      "level": "A1"
+      "english": "Hokkaido (name of a place/prefecture in Japan)",
+      "level": "A2-1"
     },
     {
       "kana": "わかい",
@@ -716,8 +748,8 @@
     {
       "kana": "～さい",
       "romaji": "～sai",
-      "english": "- years old",
-      "level": "A1"
+      "english": "～years old",
+      "level": "A2-2"
     },
     {
       "kana": "～に　すんで　います",
@@ -727,27 +759,29 @@
     },
     {
       "kana": "～にん",
+      "kanji": "～人",
       "romaji": "～nin",
       "english": "(counter for people)",
-      "level": "A1"
+      "level": "A2-2"
     },
     {
       "kana": "あさごはん",
+      "kanji": "朝ごはん",
       "romaji": "asa-gohan",
       "english": "breakfast",
-      "level": "A1"
+      "level": "A2-1"
     },
     {
       "kana": "あまり",
       "romaji": "amari",
-      "english": "rarely/seldom",
-      "level": "A1"
+      "english": "not so (Adj); rarely/seldom (Verb)",
+      "level": "A2-1"
     },
     {
       "kana": "いただきます",
       "romaji": "itadakimasu",
-      "english": "Thank you./I accept. (Said before starting to eat or drink./a polite way to say \"\"moraimasu\"\".",
-      "level": "A1"
+      "english": "Thank you./I accept. (Said before starting to eat or drink /a polite way to say \"\"moraimasu\"\".)",
+      "level": "A2-1"
     },
     {
       "kana": "いつも",
@@ -805,10 +839,11 @@
       "level": "A1"
     },
     {
-      "kana": "すき（な）",
+      "kana": "すき(な)",
+      "kanji": "好き(な)",
       "romaji": "suki(na)",
       "english": "like/favorite",
-      "level": "A1"
+      "level": "A2-2"
     },
     {
       "kana": "たべます",
@@ -819,10 +854,10 @@
     },
     {
       "kana": "たべもの",
-      "kanji": "たべもの",
+      "kanji": "食べ物",
       "romaji": "tabemono",
       "english": "food",
-      "level": "A1"
+      "level": "A2-1"
     },
     {
       "kana": "たまご",
@@ -839,9 +874,10 @@
     },
     {
       "kana": "なに",
+      "kanji": "何",
       "romaji": "nani",
       "english": "what",
-      "level": "A1"
+      "level": "A2-1"
     },
     {
       "kana": "にく",
@@ -859,10 +895,10 @@
     },
     {
       "kana": "のみもの",
-      "kanji": "のみもの",
+      "kanji": "飲み物",
       "romaji": "nomimono",
       "english": "drink",
-      "level": "A1"
+      "level": "A2-1"
     },
     {
       "kana": "みず",
@@ -879,15 +915,16 @@
     },
     {
       "kana": "やさい",
+      "kanji": "野菜",
       "romaji": "yasai",
       "english": "vegetable",
-      "level": "A1"
+      "level": "A2-1"
     },
     {
       "kana": "よく",
       "romaji": "yoku",
-      "english": "often",
-      "level": "A1"
+      "english": "well",
+      "level": "A2-2"
     },
     {
       "kana": "インタビュー",
@@ -922,8 +959,8 @@
     {
       "kana": "いちばん",
       "romaji": "ichiban",
-      "english": "the best/the most/number one",
-      "level": "A1"
+      "english": "first (place)",
+      "level": "A2-2"
     },
     {
       "kana": "いらっしゃいませ",
@@ -945,9 +982,10 @@
     },
     {
       "kana": "きょう",
+      "kanji": "今日",
       "romaji": "kyoo",
       "english": "today",
-      "level": "A1"
+      "level": "A2-1"
     },
     {
       "kana": "ください",
@@ -994,47 +1032,52 @@
     },
     {
       "kana": "はやい",
+      "kanji": "早い",
       "romaji": "hayai",
-      "english": "quick/early",
-      "level": "A1"
+      "english": "early",
+      "level": "A2-2"
     },
     {
       "kana": "ひとつ",
+      "kanji": "１つ／一つ",
       "romaji": "hitotsu",
       "english": "one (for thing)",
-      "level": "A1"
+      "level": "A2-1"
     },
     {
       "kana": "ふたつ",
-      "kanji": "ふたつ",
+      "kanji": "２つ／二つ",
       "romaji": "futatsu",
       "english": "two (for things)",
-      "level": "A1"
+      "level": "A2-1"
     },
     {
       "kana": "みせ",
+      "kanji": "店",
       "romaji": "mise",
       "english": "store",
-      "level": "A1"
+      "level": "A2-1"
     },
     {
       "kana": "みっつ",
-      "kanji": "みっつ",
+      "kanji": "３つ／三つ",
       "romaji": "mittsu",
       "english": "three (for thing)",
-      "level": "A1"
+      "level": "A2-2"
     },
     {
       "kana": "やすい",
+      "kanji": "安い",
       "romaji": "yasui",
       "english": "inexpensive/cheap",
-      "level": "A1"
+      "level": "A2-1"
     },
     {
       "kana": "りょうり",
+      "kanji": "料理",
       "romaji": "ryoori",
       "english": "dish/cooking",
-      "level": "A1"
+      "level": "A2-1"
     },
     {
       "kana": "アイス",
@@ -1105,8 +1148,8 @@
     {
       "kana": "～つ",
       "romaji": "～tsu",
-      "english": "(counter for things)",
-      "level": "A1"
+      "english": "(counter for counting things)",
+      "level": "A2-1"
     },
     {
       "kana": "～を　ください",
@@ -1116,9 +1159,10 @@
     },
     {
       "kana": "あかるい",
+      "kanji": "明るい",
       "romaji": "akarui",
       "english": "bright",
-      "level": "A1"
+      "level": "A2-2"
     },
     {
       "kana": "あそびに　きて　ください",
@@ -1137,14 +1181,15 @@
     {
       "kana": "あります",
       "romaji": "arimasu",
-      "english": "there is/are/to have/ (party, event, festival) to be held",
-      "level": "A1"
+      "english": "there is/are/to have/(party, event, festival) to be held",
+      "level": "A2-1"
     },
     {
       "kana": "いえ",
+      "kanji": "家",
       "romaji": "ie",
       "english": "house",
-      "level": "A1"
+      "level": "A2-1"
     },
     {
       "kana": "いくつ",
@@ -1181,9 +1226,10 @@
     },
     {
       "kana": "おきなわ",
+      "kanji": "沖縄",
       "romaji": "Okinawa",
       "english": "Okinawa (name of a place/prefecture in Japan)",
-      "level": "A1"
+      "level": "A2-2"
     },
     {
       "kana": "くらい",
@@ -1212,9 +1258,10 @@
     },
     {
       "kana": "ちかく",
+      "kanji": "近く",
       "romaji": "chikaku",
       "english": "nearby",
-      "level": "A1"
+      "level": "A2-2"
     },
     {
       "kana": "ひとりで",
@@ -1224,9 +1271,10 @@
     },
     {
       "kana": "ひろい",
+      "kanji": "広い",
       "romaji": "hiroi",
       "english": "wide/spacious",
-      "level": "A1"
+      "level": "A2-1"
     },
     {
       "kana": "ふるい",
@@ -1250,10 +1298,10 @@
     },
     {
       "kana": "やすみ",
-      "kanji": "やすみ",
+      "kanji": "休み",
       "romaji": "yasumi",
       "english": "holiday/a break/a rest/day off",
-      "level": "A1"
+      "level": "A2-1"
     },
     {
       "kana": "よっつ",
@@ -1271,8 +1319,8 @@
     {
       "kana": "エアコン",
       "romaji": "eakon",
-      "english": "air conditioner",
-      "level": "A1"
+      "english": "air conditioner/air conditioning",
+      "level": "A2-2"
     },
     {
       "kana": "ソファ",
@@ -1336,9 +1384,10 @@
     },
     {
       "kana": "うえ",
+      "kanji": "上",
       "romaji": "ue",
       "english": "on/above",
-      "level": "A1"
+      "level": "A2-1"
     },
     {
       "kana": "おじゃまします",
@@ -1361,8 +1410,8 @@
     {
       "kana": "ここ",
       "romaji": "koko",
-      "english": "(this) here",
-      "level": "A1"
+      "english": "here",
+      "level": "A2-1"
     },
     {
       "kana": "こちら",
@@ -1378,15 +1427,17 @@
     },
     {
       "kana": "した",
+      "kanji": "下",
       "romaji": "shita",
       "english": "under/below",
-      "level": "A1"
+      "level": "A2-2"
     },
     {
       "kana": "しゃしん",
+      "kanji": "写真",
       "romaji": "shashin",
       "english": "photograph",
-      "level": "A1"
+      "level": "A2-1"
     },
     {
       "kana": "それ",
@@ -1408,9 +1459,10 @@
     },
     {
       "kana": "とけい",
+      "kanji": "時計",
       "romaji": "tokee",
       "english": "clock",
-      "level": "A1"
+      "level": "A2-1"
     },
     {
       "kana": "どうぞ　あがって　ください",
@@ -1420,9 +1472,10 @@
     },
     {
       "kana": "なか",
+      "kanji": "中",
       "romaji": "naka",
       "english": "in/inside",
-      "level": "A1"
+      "level": "A2-1"
     },
     {
       "kana": "にわ",
@@ -1444,10 +1497,10 @@
     },
     {
       "kana": "ほん",
-      "kanji": "ほん",
+      "kanji": "本",
       "romaji": "hon",
       "english": "book",
-      "level": "A1"
+      "level": "A2-1"
     },
     {
       "kana": "よこ",
@@ -1469,9 +1522,10 @@
     },
     {
       "kana": "あさ",
+      "kanji": "朝",
       "romaji": "asa",
       "english": "morning",
-      "level": "A1"
+      "level": "A2-1"
     },
     {
       "kana": "あびます",
@@ -1488,21 +1542,24 @@
     },
     {
       "kana": "いそがしい",
+      "kanji": "忙しい",
       "romaji": "isogashii",
       "english": "busy",
-      "level": "A1"
+      "level": "A2-2"
     },
     {
       "kana": "うち",
+      "kanji": "家",
       "romaji": "uchi",
       "english": "house/one's own house (home)",
-      "level": "A1"
+      "level": "A2-2"
     },
     {
       "kana": "おきます",
+      "kanji": "起きます",
       "romaji": "okimasu",
       "english": "to get up",
-      "level": "A1"
+      "level": "A2-2"
     },
     {
       "kana": "おそい",
@@ -1512,47 +1569,51 @@
     },
     {
       "kana": "かいしゃ",
-      "kanji": "かいしゃ",
+      "kanji": "会社",
       "romaji": "kaisha",
       "english": "company/firm",
-      "level": "A1"
+      "level": "A2-1"
     },
     {
       "kana": "かえります",
+      "kanji": "帰ります",
       "romaji": "kaerimasu",
       "english": "to go home",
-      "level": "A1"
+      "level": "A2-2"
     },
     {
       "kana": "かきます",
-      "kanji": "書きます",
       "romaji": "kakimasu",
-      "english": "to write",
-      "level": "A1"
+      "english": "to draw",
+      "level": "A2-2"
     },
     {
       "kana": "がっこう",
+      "kanji": "学校",
       "romaji": "gakkoo",
       "english": "school",
-      "level": "A1"
+      "level": "A2-2"
     },
     {
       "kana": "ごご",
+      "kanji": "午後",
       "romaji": "gogo",
       "english": "p.m./afternoon",
-      "level": "A1"
+      "level": "A2-1"
     },
     {
       "kana": "ごぜん",
+      "kanji": "午前",
       "romaji": "gozen",
       "english": "a.m./morning",
-      "level": "A1"
+      "level": "A2-2"
     },
     {
       "kana": "しごと",
+      "kanji": "仕事",
       "romaji": "shigoto",
       "english": "job/work",
-      "level": "A1"
+      "level": "A2-1"
     },
     {
       "kana": "します",
@@ -1562,9 +1623,10 @@
     },
     {
       "kana": "せいかつ",
+      "kanji": "生活",
       "romaji": "seekatsu",
       "english": "life",
-      "level": "A1"
+      "level": "A2-2"
     },
     {
       "kana": "なんじ",
@@ -1593,9 +1655,10 @@
     },
     {
       "kana": "ひる",
+      "kanji": "昼",
       "romaji": "hiru",
       "english": "daytime/noon",
-      "level": "A1"
+      "level": "A2-1"
     },
     {
       "kana": "ひるごはん",
@@ -1605,10 +1668,10 @@
     },
     {
       "kana": "まいにち",
-      "kanji": "まいにち",
+      "kanji": "毎日",
       "romaji": "mainichi",
       "english": "every day",
-      "level": "A1"
+      "level": "A2-1"
     },
     {
       "kana": "よみます",
@@ -1619,9 +1682,10 @@
     },
     {
       "kana": "よる",
+      "kanji": "夜",
       "romaji": "yoru",
       "english": "evening/night",
-      "level": "A1"
+      "level": "A2-1"
     },
     {
       "kana": "シャワー",
@@ -1651,15 +1715,15 @@
       "kana": "～じ",
       "kanji": "～時",
       "romaji": "～ji",
-      "english": "o'clock",
-      "level": "A1"
+      "english": "～o'clock",
+      "level": "A2-1"
     },
     {
       "kana": "～はん",
       "kanji": "～半",
       "romaji": "～han",
-      "english": "half past/half",
-      "level": "A1"
+      "english": "half-past～/～thirty",
+      "level": "A2-1"
     },
     {
       "kana": "あした",
@@ -1713,17 +1777,17 @@
     },
     {
       "kana": "きのう",
-      "kanji": "きのう",
+      "kanji": "機能",
       "romaji": "kinoo",
-      "english": "yesterday",
-      "level": "A1"
+      "english": "function",
+      "level": "A2-2"
     },
     {
       "kana": "きます",
       "kanji": "来ます",
       "romaji": "kimasu",
       "english": "to come",
-      "level": "A1"
+      "level": "A2-2"
     },
     {
       "kana": "きんようび",
@@ -1747,10 +1811,10 @@
     },
     {
       "kana": "しょくじ",
-      "kanji": "しょくじ",
+      "kanji": "食事",
       "romaji": "shokuji",
       "english": "meal",
-      "level": "A1"
+      "level": "A2-1"
     },
     {
       "kana": "すいようび",
@@ -1761,28 +1825,29 @@
     },
     {
       "kana": "せんしゅう",
+      "kanji": "先週",
       "romaji": "senshuu",
       "english": "last week",
-      "level": "A1"
+      "level": "A2-1"
     },
     {
       "kana": "たんじょうび",
-      "kanji": "たんじょうび",
+      "kanji": "誕生日",
       "romaji": "tanjoobi",
       "english": "birthday",
-      "level": "A1"
+      "level": "A2-1"
     },
     {
-      "kana": "だいじょうぶ（な）",
+      "kana": "だいじょうぶ(な)",
       "romaji": "daijoobu(na)",
       "english": "okay/all right",
-      "level": "A1"
+      "level": "A2-2"
     },
     {
-      "kana": "だめ（な）",
+      "kana": "だめ(な)",
       "romaji": "dame(na)",
       "english": "no good/not permitted/impossible",
-      "level": "A1"
+      "level": "A2-2"
     },
     {
       "kana": "どようび",
@@ -1800,9 +1865,10 @@
     },
     {
       "kana": "はくぶつかん",
+      "kanji": "博物館",
       "romaji": "hakubutsukan",
       "english": "museum",
-      "level": "A1"
+      "level": "A2-2"
     },
     {
       "kana": "びじゅつかん",
@@ -1831,10 +1897,10 @@
     },
     {
       "kana": "らいしゅう",
-      "kanji": "らいしゅう",
+      "kanji": "来週",
       "romaji": "raishuu",
       "english": "next week",
-      "level": "A1"
+      "level": "A2-1"
     },
     {
       "kana": "コンサート",
@@ -1893,16 +1959,11 @@
       "level": "A1"
     },
     {
-      "kana": "え",
-      "romaji": "e",
-      "english": "picture",
-      "level": "A1"
-    },
-    {
       "kana": "えいが",
+      "kanji": "映画",
       "romaji": "eega",
       "english": "movie/film",
-      "level": "A1"
+      "level": "A2-2"
     },
     {
       "kana": "おりがみ",
@@ -1912,40 +1973,37 @@
     },
     {
       "kana": "おんがく",
+      "kanji": "音楽",
       "romaji": "ongaku",
       "english": "music",
-      "level": "A1"
-    },
-    {
-      "kana": "かきます",
-      "romaji": "kakimasu",
-      "english": "to draw",
-      "level": "A1"
+      "level": "A2-1"
     },
     {
       "kana": "がいこくご",
+      "kanji": "外国語",
       "romaji": "gaikokugo",
       "english": "foreign language",
-      "level": "A1"
+      "level": "A2-1"
     },
     {
       "kana": "ききます",
       "kanji": "聞きます",
       "romaji": "kikimasu",
-      "english": "to listen",
-      "level": "A1"
+      "english": "to ask",
+      "level": "A2-2"
     },
     {
       "kana": "さどう",
+      "kanji": "茶道",
       "romaji": "sadoo",
       "english": "tea ceremony",
-      "level": "A1"
+      "level": "A2-2"
     },
     {
       "kana": "さんぽ",
       "romaji": "sanpo",
-      "english": "a walk/a stroll",
-      "level": "A1"
+      "english": "walk/stroll",
+      "level": "A2-1"
     },
     {
       "kana": "しゅみ",
@@ -1973,16 +2031,17 @@
     },
     {
       "kana": "そと",
+      "kanji": "外",
       "romaji": "soto",
       "english": "out/outside/outdoors",
-      "level": "A1"
+      "level": "A2-1"
     },
     {
-      "kana": "だいすき（な）",
-      "kanji": "だいすき（な）",
+      "kana": "だいすき(な)",
+      "kanji": "大好き(な)",
       "romaji": "daisuki(na)",
       "english": "like very much",
-      "level": "A1"
+      "level": "A2-2"
     },
     {
       "kana": "ときどき",
@@ -1998,15 +2057,16 @@
     },
     {
       "kana": "どくしょ",
+      "kanji": "読書",
       "romaji": "dokusho",
       "english": "reading",
-      "level": "A1"
+      "level": "A2-1"
     },
     {
       "kana": "どんな",
       "romaji": "donna",
-      "english": "What kind of -?",
-      "level": "A1"
+      "english": "What kind of～?",
+      "level": "A2-1"
     },
     {
       "kana": "はいく",
@@ -2016,10 +2076,10 @@
     },
     {
       "kana": "ひ",
-      "kanji": "ひ",
+      "kanji": "日",
       "romaji": "hi",
       "english": "day",
-      "level": "A1"
+      "level": "A2-1"
     },
     {
       "kana": "ぶんがく",
@@ -2152,14 +2212,15 @@
       "kana": "～ねん",
       "kanji": "～年",
       "romaji": "～nen",
-      "english": "year",
-      "level": "A1"
+      "english": "(counter for year)",
+      "level": "A2-1"
     },
     {
-      "kana": "Jポップ",
+      "kana": "Ｊポップ",
+      "kanji": "Jポップ",
       "romaji": "J-poppu",
-      "english": "Japanese pop music",
-      "level": "A1"
+      "english": "J-pop (Japanese pop music)",
+      "level": "A2-2"
     },
     {
       "kana": "いいですね",
@@ -2176,10 +2237,9 @@
     },
     {
       "kana": "いっしょに",
-      "kanji": "いっしょに",
       "romaji": "issho ni",
       "english": "together",
-      "level": "A1"
+      "level": "A2-1"
     },
     {
       "kana": "えん",
@@ -2196,9 +2256,10 @@
     },
     {
       "kana": "きもの",
+      "kanji": "着物",
       "romaji": "kimono",
       "english": "kimono",
-      "level": "A1"
+      "level": "A2-2"
     },
     {
       "kana": "ざんねんです",
@@ -2233,14 +2294,15 @@
     {
       "kana": "たぶん",
       "romaji": "tabun",
-      "english": "perhaps/maybe",
-      "level": "A1"
+      "english": "perhaps/maybe/probably",
+      "level": "A2-1"
     },
     {
       "kana": "はなび",
+      "kanji": "はなび(花火)",
       "romaji": "hanabi",
       "english": "fireworks",
-      "level": "A1"
+      "level": "A2-1"
     },
     {
       "kana": "はなびたいかい",
@@ -2263,9 +2325,10 @@
     },
     {
       "kana": "むりょう",
+      "kanji": "無料",
       "romaji": "muryoo",
       "english": "free of charge",
-      "level": "A1"
+      "level": "A2-2"
     },
     {
       "kana": "もちろん",
@@ -2286,10 +2349,10 @@
       "level": "A1"
     },
     {
-      "kana": "ショー",
+      "kana": "しょう",
       "romaji": "shoo",
-      "english": "show",
-      "level": "A1"
+      "english": "award, prize",
+      "level": "A2-2"
     },
     {
       "kana": "ジャパン",
@@ -2353,15 +2416,17 @@
     },
     {
       "kana": "うえの",
+      "kanji": "上野（うえの）",
       "romaji": "Ueno",
       "english": "Ueno (name of a place in Tokyo, Japan)",
-      "level": "A1"
+      "level": "A2-1"
     },
     {
       "kana": "えき",
+      "kanji": "駅",
       "romaji": "eki",
       "english": "station",
-      "level": "A1"
+      "level": "A2-1"
     },
     {
       "kana": "おきゃくさん",
@@ -2383,9 +2448,10 @@
     },
     {
       "kana": "くうこう",
+      "kanji": "空港",
       "romaji": "kuukoo",
       "english": "airport",
-      "level": "A1"
+      "level": "A2-1"
     },
     {
       "kana": "ここで　いいです",
@@ -2395,9 +2461,10 @@
     },
     {
       "kana": "じてんしゃ",
+      "kanji": "自転車",
       "romaji": "jitensha",
       "english": "bicycle",
-      "level": "A1"
+      "level": "A2-2"
     },
     {
       "kana": "せんそうじ",
@@ -2425,9 +2492,10 @@
     },
     {
       "kana": "でんしゃ",
+      "kanji": "電車",
       "romaji": "densha",
       "english": "train",
-      "level": "A1"
+      "level": "A2-1"
     },
     {
       "kana": "とうきょうタワー",
@@ -2462,9 +2530,10 @@
     },
     {
       "kana": "のります",
+      "kanji": "乗ります",
       "romaji": "norimasu",
       "english": "to get on/to ride",
-      "level": "A1"
+      "level": "A2-1"
     },
     {
       "kana": "のりもの",
@@ -2473,23 +2542,25 @@
       "level": "A1"
     },
     {
-      "kana": "べんり（な）",
+      "kana": "べんり(な)",
+      "kanji": "便利(な)",
       "romaji": "benri(na)",
       "english": "convenient",
-      "level": "A1"
+      "level": "A2-2"
     },
     {
       "kana": "まち",
+      "kanji": "町",
       "romaji": "machi",
       "english": "town",
-      "level": "A1"
+      "level": "A2-1"
     },
     {
-      "kana": "らく(な）",
+      "kana": "らく(な)",
       "kanji": "らく（な）",
       "romaji": "raku(na)",
       "english": "easy",
-      "level": "A1"
+      "level": "A2-2"
     },
     {
       "kana": "カード",
@@ -2536,8 +2607,8 @@
     {
       "kana": "～ぐらい",
       "romaji": "～gurai",
-      "english": "about-",
-      "level": "A1"
+      "english": "about",
+      "level": "A2-1"
     },
     {
       "kana": "～ふん／ぷん",
@@ -2553,23 +2624,18 @@
       "level": "A1"
     },
     {
-      "kana": "いって　ください",
-      "kanji": "行って　ください",
-      "romaji": "itte kudasai",
-      "english": "Please go.",
-      "level": "A1"
-    },
-    {
       "kana": "いま",
+      "kanji": "今",
       "romaji": "ima",
       "english": "now",
-      "level": "A1"
+      "level": "A2-1"
     },
     {
       "kana": "うしろ",
+      "kanji": "後ろ",
       "romaji": "ushiro",
       "english": "back/behind",
-      "level": "A1"
+      "level": "A2-2"
     },
     {
       "kana": "えいぎょうじかん",
@@ -2580,16 +2646,16 @@
     },
     {
       "kana": "おてら／てら",
+      "kanji": "お寺／寺",
       "romaji": "otera/tera",
       "english": "temple",
-      "level": "A1"
+      "level": "A2-2"
     },
     {
       "kana": "ぎんこう",
-      "kanji": "ぎんこう",
       "romaji": "ginkoo",
       "english": "bank",
-      "level": "A1"
+      "level": "A2-1"
     },
     {
       "kana": "しゅくじつ",
@@ -2599,9 +2665,10 @@
     },
     {
       "kana": "じんじゃ",
+      "kanji": "神社",
       "romaji": "jinja",
       "english": "shrine",
-      "level": "A1"
+      "level": "A2-2"
     },
     {
       "kana": "そして",
@@ -2611,9 +2678,10 @@
     },
     {
       "kana": "たかい",
+      "kanji": "高い",
       "romaji": "takai",
-      "english": "high",
-      "level": "A1"
+      "english": "expensive",
+      "level": "A2-2"
     },
     {
       "kana": "ていきゅうび",
@@ -2624,9 +2692,10 @@
     },
     {
       "kana": "とおり",
+      "kanji": "通り",
       "romaji": "toori",
       "english": "street",
-      "level": "A1"
+      "level": "A2-1"
     },
     {
       "kana": "となり",
@@ -2648,9 +2717,10 @@
     },
     {
       "kana": "ひだり",
+      "kanji": "左",
       "romaji": "hidari",
       "english": "left",
-      "level": "A1"
+      "level": "A2-1"
     },
     {
       "kana": "へいじつ",
@@ -2661,9 +2731,10 @@
     },
     {
       "kana": "まえ",
+      "kanji": "前",
       "romaji": "mae",
-      "english": "front",
-      "level": "A1"
+      "english": "before/ago",
+      "level": "A2-2"
     },
     {
       "kana": "まっすぐ",
@@ -2673,9 +2744,10 @@
     },
     {
       "kana": "みぎ",
+      "kanji": "右",
       "romaji": "migi",
       "english": "right",
-      "level": "A1"
+      "level": "A2-1"
     },
     {
       "kana": "もしもし",
@@ -2684,16 +2756,18 @@
       "level": "A1"
     },
     {
-      "kana": "ゆうめい（な）",
+      "kana": "ゆうめい(な)",
+      "kanji": "有名(な)",
       "romaji": "yuumee(na)",
       "english": "famous",
-      "level": "A1"
+      "level": "A2-2"
     },
     {
       "kana": "わたしたち",
+      "kanji": "私たち",
       "romaji": "watashitachi",
       "english": "we/us",
-      "level": "A1"
+      "level": "A2-1"
     },
     {
       "kana": "ビル",
@@ -2709,15 +2783,16 @@
     },
     {
       "kana": "あきはばら",
+      "kanji": "秋葉原（あきはばら）",
       "romaji": "Akihabara",
       "english": "Akihabara (name of a place in Tokyo, Japan)",
-      "level": "A1"
+      "level": "A2-1"
     },
     {
       "kana": "あげます",
       "romaji": "agemasu",
-      "english": "to give",
-      "level": "A1"
+      "english": "to raise",
+      "level": "A2-2"
     },
     {
       "kana": "あれ",
@@ -2739,10 +2814,10 @@
       "level": "A1"
     },
     {
-      "kana": "おしゃれ（な）",
+      "kana": "おしゃれ(な)",
       "romaji": "oshare(na)",
       "english": "fashionable",
-      "level": "A1"
+      "level": "A2-2"
     },
     {
       "kana": "おみやげ",
@@ -2771,9 +2846,10 @@
     },
     {
       "kana": "ぎんざ",
+      "kanji": "銀座（ぎんざ）",
       "romaji": "Ginza",
       "english": "Ginza (name of a place in Tokyo, Japan)",
-      "level": "A1"
+      "level": "A2-1"
     },
     {
       "kana": "こうやって",
@@ -2815,9 +2891,10 @@
     },
     {
       "kana": "はらじゅく",
+      "kanji": "原宿（はらじゅく）",
       "romaji": "Harajuku",
       "english": "Harajuku (name of a place in Tokyo, Japan)",
-      "level": "A1"
+      "level": "A2-1"
     },
     {
       "kana": "ふう",
@@ -2862,16 +2939,17 @@
       "level": "A1"
     },
     {
-      "kana": "～ほん／ぽん／ぼん",
+      "kana": "～ほん／ぼん／ぽん",
+      "kanji": "～本",
       "romaji": "～hon/pon/bon",
       "english": "(counter for thin and long things)",
-      "level": "A1"
+      "level": "A2-2"
     },
     {
       "kana": "～まい",
       "romaji": "～mai",
-      "english": "(counter for thin and flat things)",
-      "level": "A1"
+      "english": "(counter for a flat thing)",
+      "level": "A2-2"
     },
     {
       "kana": "L",
@@ -2899,15 +2977,17 @@
     },
     {
       "kana": "あか",
+      "kanji": "赤",
       "romaji": "aka",
       "english": "red",
-      "level": "A1"
+      "level": "A2-1"
     },
     {
       "kana": "いろ",
+      "kanji": "色",
       "romaji": "iro",
       "english": "colour",
-      "level": "A1"
+      "level": "A2-1"
     },
     {
       "kana": "きいろ",
@@ -2947,20 +3027,15 @@
     },
     {
       "kana": "しろ",
+      "kanji": "白",
       "romaji": "shiro",
       "english": "white",
-      "level": "A1"
+      "level": "A2-1"
     },
     {
       "kana": "じゃあ、いいです",
       "romaji": "jaa, ii desu",
       "english": "Well then, no thank you./Well, never mind.",
-      "level": "A1"
-    },
-    {
-      "kana": "たかい",
-      "romaji": "takai",
-      "english": "expensive",
       "level": "A1"
     },
     {
@@ -2976,10 +3051,10 @@
       "level": "A1"
     },
     {
-      "kana": "まあまあ(な）",
+      "kana": "まあまあ(な)",
       "romaji": "maamaa(na)",
-      "english": "so-so",
-      "level": "A1"
+      "english": "so so",
+      "level": "A2-2"
     },
     {
       "kana": "みどり",
@@ -3082,7 +3157,7 @@
       "kanji": "会います",
       "romaji": "aimasu",
       "english": "to meet",
-      "level": "A1"
+      "level": "A2-2"
     },
     {
       "kana": "あそびます",
@@ -3092,9 +3167,10 @@
     },
     {
       "kana": "うたいます",
+      "kanji": "歌います",
       "romaji": "utaimasu",
       "english": "to sing",
-      "level": "A1"
+      "level": "A2-2"
     },
     {
       "kana": "うれしい",
@@ -3104,15 +3180,17 @@
     },
     {
       "kana": "おおい",
+      "kanji": "多い",
       "romaji": "ooi",
-      "english": "lots of (people)",
-      "level": "A1"
+      "english": "lots of ～",
+      "level": "A2-2"
     },
     {
       "kana": "おさけ／さけ",
+      "kanji": "お酒／酒",
       "romaji": "osake/sake",
       "english": "alcohol/sake (Japanese rice wine)",
-      "level": "A1"
+      "level": "A2-2"
     },
     {
       "kana": "かちます",
@@ -3134,22 +3212,24 @@
       "level": "A1"
     },
     {
-      "kana": "そうじ",
+      "kana": "そうじ(します)",
       "romaji": "sooji",
       "english": "cleaning",
-      "level": "A1"
+      "level": "A2-2"
     },
     {
-      "kana": "たいへん（な）",
+      "kana": "たいへん(な)",
+      "kanji": "たいへん（な）",
       "romaji": "taihen(na)",
       "english": "terrible/tough/hard work",
-      "level": "A1"
+      "level": "A2-2"
     },
     {
       "kana": "たのしい",
+      "kanji": "楽しい",
       "romaji": "tanoshii",
       "english": "fun/enjoyable",
-      "level": "A1"
+      "level": "A2-1"
     },
     {
       "kana": "つかれます",
@@ -3234,35 +3314,38 @@
     },
     {
       "kana": "きょうと",
+      "kanji": "京都",
       "romaji": "Kyooto",
       "english": "Kyoto (name of a place in Japan)",
-      "level": "A1"
+      "level": "A2-2"
     },
     {
       "kana": "きょねん",
+      "kanji": "去年",
       "romaji": "kyonen",
       "english": "last year",
-      "level": "A1"
+      "level": "A2-2"
     },
     {
       "kana": "くるま",
+      "kanji": "車",
       "romaji": "kuruma",
       "english": "car",
-      "level": "A1"
+      "level": "A2-1"
     },
     {
       "kana": "ことし",
-      "kanji": "ことし",
+      "kanji": "今年",
       "romaji": "kotoshi",
       "english": "this year",
-      "level": "A1"
+      "level": "A2-2"
     },
     {
       "kana": "しんじゅく",
-      "kanji": "しんじゅく",
+      "kanji": "新宿（しんじゅく）",
       "romaji": "Shinjuku",
       "english": "Shinjuku (name of a place in Tokyo, Japan)",
-      "level": "A1"
+      "level": "A2-1"
     },
     {
       "kana": "それから",
@@ -3274,13 +3357,13 @@
       "kana": "つぎ",
       "romaji": "tsugi",
       "english": "next",
-      "level": "A1"
+      "level": "A2-2"
     },
     {
       "kana": "てんぷら",
       "romaji": "tenpura",
       "english": "tempura",
-      "level": "A1"
+      "level": "A2-2"
     },
     {
       "kana": "でも",
@@ -3290,15 +3373,17 @@
     },
     {
       "kana": "とまります",
+      "kanji": "止まります",
       "romaji": "tomarimasu",
-      "english": "to stop over/to stay at (a hotel)",
-      "level": "A1"
+      "english": "to stop",
+      "level": "A2-1"
     },
     {
       "kana": "ながい",
+      "kanji": "長い",
       "romaji": "nagai",
       "english": "long",
-      "level": "A1"
+      "level": "A2-2"
     },
     {
       "kana": "ひこうき",
@@ -3314,9 +3399,10 @@
     },
     {
       "kana": "ふね",
+      "kanji": "船",
       "romaji": "fune",
       "english": "ship",
-      "level": "A1"
+      "level": "A2-2"
     },
     {
       "kana": "モノレール",
@@ -3331,49 +3417,11 @@
       "level": "A1"
     },
     {
-      "kana": "あに",
-      "romaji": "ani",
-      "english": "(my) elder brother",
-      "level": "A2-1"
-    },
-    {
-      "kana": "あね",
-      "romaji": "ane",
-      "english": "(my) elder sister",
-      "level": "A2-1"
-    },
-    {
-      "kana": "いきます",
-      "kanji": "行きます",
-      "romaji": "ikimasu",
-      "english": "to go",
-      "level": "A2-1"
-    },
-    {
-      "kana": "いもうと",
-      "romaji": "imooto",
-      "english": "(my) younger sister",
-      "level": "A2-1"
-    },
-    {
       "kana": "いもうとさん",
+      "kanji": "妹さん",
       "romaji": "imootosan",
       "english": "(someone else's) younger sister",
-      "level": "A2-1"
-    },
-    {
-      "kana": "うち",
-      "kanji": "うち（家）",
-      "romaji": "uchi",
-      "english": "house/one's own house (home)",
-      "level": "A2-1"
-    },
-    {
-      "kana": "えいご",
-      "kanji": "英語",
-      "romaji": "Eego",
-      "english": "English language",
-      "level": "A2-1"
+      "level": "A2-2"
     },
     {
       "kana": "おかあさん",
@@ -3407,22 +3455,10 @@
       "level": "A2-1"
     },
     {
-      "kana": "おっと",
-      "romaji": "otto",
-      "english": "(my) husband",
-      "level": "A2-1"
-    },
-    {
       "kana": "おとうさん",
       "kanji": "お父さん",
       "romaji": "otoosan",
       "english": "(someone else's) father",
-      "level": "A2-1"
-    },
-    {
-      "kana": "おとうと",
-      "romaji": "otooto",
-      "english": "(my) younger brother",
       "level": "A2-1"
     },
     {
@@ -3439,9 +3475,10 @@
     },
     {
       "kana": "おねえさん",
+      "kanji": "お姉さん",
       "romaji": "oneesan",
       "english": "(someone else's) elder sister",
-      "level": "A2-1"
+      "level": "A2-2"
     },
     {
       "kana": "おば",
@@ -3462,50 +3499,9 @@
       "level": "A2-1"
     },
     {
-      "kana": "かいしゃ",
-      "kanji": "会社",
-      "romaji": "kaisha",
-      "english": "company/firm",
-      "level": "A2-1"
-    },
-    {
-      "kana": "かぞく",
-      "romaji": "kazoku",
-      "english": "family",
-      "level": "A2-1"
-    },
-    {
-      "kana": "かんこくご",
-      "kanji": "かんこく語",
-      "romaji": "Kankokugo",
-      "english": "Korean language",
-      "level": "A2-1"
-    },
-    {
-      "kana": "かんこくじん",
-      "kanji": "かんこく人",
-      "romaji": "Kankokujin",
-      "english": "Korean people",
-      "level": "A2-1"
-    },
-    {
-      "kana": "がくせい",
-      "kanji": "学生",
-      "romaji": "gakusee",
-      "english": "student",
-      "level": "A2-1"
-    },
-    {
       "kana": "きょうだい",
       "romaji": "kyoodai",
       "english": "brothers and sisters",
-      "level": "A2-1"
-    },
-    {
-      "kana": "くるま",
-      "kanji": "車",
-      "romaji": "kuruma",
-      "english": "car",
       "level": "A2-1"
     },
     {
@@ -3515,42 +3511,17 @@
       "level": "A2-1"
     },
     {
-      "kana": "しごと",
-      "kanji": "仕事",
-      "romaji": "shigoto",
-      "english": "job/work",
-      "level": "A2-1"
-    },
-    {
-      "kana": "します",
-      "romaji": "shimasu",
-      "english": "to do",
-      "level": "A2-1"
-    },
-    {
-      "kana": "しゅふ",
-      "romaji": "shufu",
-      "english": "housewife/homemaker",
-      "level": "A2-1"
-    },
-    {
       "kana": "しんせき",
       "romaji": "shinseki",
       "english": "relative(s)",
       "level": "A2-1"
     },
     {
-      "kana": "すこし",
-      "kanji": "少し",
-      "romaji": "sukoshi",
-      "english": "a little/a few",
-      "level": "A2-1"
-    },
-    {
       "kana": "すみます",
+      "kanji": "住みます",
       "romaji": "sumimasu",
       "english": "to live",
-      "level": "A2-1"
+      "level": "A2-2"
     },
     {
       "kana": "そふ",
@@ -3565,69 +3536,9 @@
       "level": "A2-1"
     },
     {
-      "kana": "ちち",
-      "kanji": "父",
-      "romaji": "chichi",
-      "english": "(my) father",
-      "level": "A2-1"
-    },
-    {
-      "kana": "ちゅうごく",
-      "kanji": "中国",
-      "romaji": "Chuugoku",
-      "english": "China",
-      "level": "A2-1"
-    },
-    {
-      "kana": "ちゅうごくご",
-      "kanji": "中国語",
-      "romaji": "Chuugokugo",
-      "english": "Chinese language",
-      "level": "A2-1"
-    },
-    {
-      "kana": "つま",
-      "romaji": "tsuma",
-      "english": "(my) wife",
-      "level": "A2-1"
-    },
-    {
-      "kana": "できます",
-      "romaji": "dekimasu",
-      "english": "I can speak （language)",
-      "level": "A2-1"
-    },
-    {
-      "kana": "でんしゃ",
-      "kanji": "電車",
-      "romaji": "densha",
-      "english": "train",
-      "level": "A2-1"
-    },
-    {
-      "kana": "とうきょう",
-      "kanji": "東京",
-      "romaji": "Tookyoo",
-      "english": "Tokyo",
-      "level": "A2-1"
-    },
-    {
-      "kana": "どうやって",
-      "romaji": "doo yatte",
-      "english": "how",
-      "level": "A2-1"
-    },
-    {
       "kana": "どのぐらい",
       "romaji": "dono gurai",
       "english": "how long",
-      "level": "A2-1"
-    },
-    {
-      "kana": "にほんご",
-      "kanji": "日本語",
-      "romaji": "Nihongo",
-      "english": "Japanese language",
       "level": "A2-1"
     },
     {
@@ -3639,28 +3550,16 @@
     },
     {
       "kana": "はたらきます",
+      "kanji": "働きます",
       "romaji": "hatarakimasu",
       "english": "to work",
-      "level": "A2-1"
+      "level": "A2-2"
     },
     {
       "kana": "はなします",
       "kanji": "話します",
       "romaji": "hanashimasu",
       "english": "to talk/to speak",
-      "level": "A2-1"
-    },
-    {
-      "kana": "はは",
-      "kanji": "母",
-      "romaji": "haha",
-      "english": "(my) mother",
-      "level": "A2-1"
-    },
-    {
-      "kana": "びょういん",
-      "romaji": "byooin",
-      "english": "hospital",
       "level": "A2-1"
     },
     {
@@ -3696,29 +3595,10 @@
     },
     {
       "kana": "りょうしん",
+      "kanji": "両親",
       "romaji": "ryooshin",
       "english": "parents",
-      "level": "A2-1"
-    },
-    {
-      "kana": "わたし",
-      "kanji": "私",
-      "romaji": "watashi",
-      "english": "I/me",
-      "level": "A2-1"
-    },
-    {
-      "kana": "わたしたち",
-      "kanji": "私たち",
-      "romaji": "watashitachi",
-      "english": "we/us",
-      "level": "A2-1"
-    },
-    {
-      "kana": "アメリカ",
-      "romaji": "Amerika",
-      "english": "America/U.S.A.",
-      "level": "A2-1"
+      "level": "A2-2"
     },
     {
       "kana": "イタリア",
@@ -3746,18 +3626,6 @@
       "level": "A2-1"
     },
     {
-      "kana": "ホテル",
-      "romaji": "hoteru",
-      "english": "hotel",
-      "level": "A2-1"
-    },
-    {
-      "kana": "～ぐらい",
-      "romaji": "～gurai",
-      "english": "about",
-      "level": "A2-1"
-    },
-    {
       "kana": "～ご",
       "kanji": "～語",
       "romaji": "～go",
@@ -3765,30 +3633,10 @@
       "level": "A2-1"
     },
     {
-      "kana": "～さん",
-      "romaji": "～san",
-      "english": "Mr./Ms./Mrs.～",
-      "level": "A2-1"
-    },
-    {
       "kana": "～じん",
       "kanji": "～人",
       "romaji": "～jin",
       "english": "people of～ (country)",
-      "level": "A2-1"
-    },
-    {
-      "kana": "～にん",
-      "kanji": "～人",
-      "romaji": "～nin",
-      "english": "(counter for counting people)",
-      "level": "A2-1"
-    },
-    {
-      "kana": "～ふん／ぷん",
-      "kanji": "～分",
-      "romaji": "～fun/pun",
-      "english": "～minute(s)",
       "level": "A2-1"
     },
     {
@@ -3816,19 +3664,6 @@
       "level": "A2-1"
     },
     {
-      "kana": "え",
-      "kanji": "絵",
-      "romaji": "e",
-      "english": "picture",
-      "level": "A2-1"
-    },
-    {
-      "kana": "えいが",
-      "romaji": "eega",
-      "english": "movie/film",
-      "level": "A2-1"
-    },
-    {
       "kana": "えんげき",
       "romaji": "engeki",
       "english": "drama",
@@ -3841,74 +3676,15 @@
       "level": "A2-1"
     },
     {
-      "kana": "おんがく",
-      "kanji": "音楽",
-      "romaji": "ongaku",
-      "english": "music",
-      "level": "A2-1"
-    },
-    {
-      "kana": "かきます",
-      "romaji": "kakimasu",
-      "english": "to draw",
-      "level": "A2-1"
-    },
-    {
-      "kana": "かっこいい",
-      "romaji": "kakkoii",
-      "english": "cool/good-looking",
-      "level": "A2-1"
-    },
-    {
-      "kana": "がいこくご",
-      "kanji": "外国語",
-      "romaji": "gaikokugo",
-      "english": "foreign language",
-      "level": "A2-1"
-    },
-    {
-      "kana": "ききます",
-      "kanji": "聞きます",
-      "romaji": "kikimasu",
-      "english": "to listen",
-      "level": "A2-1"
-    },
-    {
       "kana": "きって",
       "romaji": "kitte",
       "english": "stamp",
       "level": "A2-1"
     },
     {
-      "kana": "こども",
-      "kanji": "子ども",
-      "romaji": "kodomo",
-      "english": "child",
-      "level": "A2-1"
-    },
-    {
-      "kana": "さんぽ",
-      "romaji": "sanpo",
-      "english": "walk/stroll",
-      "level": "A2-1"
-    },
-    {
       "kana": "しあい",
       "romaji": "shiai",
       "english": "game/match (sports)",
-      "level": "A2-1"
-    },
-    {
-      "kana": "しゃしん",
-      "kanji": "写真",
-      "romaji": "shashin",
-      "english": "photograph",
-      "level": "A2-1"
-    },
-    {
-      "kana": "しゅみ",
-      "romaji": "shumi",
-      "english": "hobby/interest",
       "level": "A2-1"
     },
     {
@@ -3927,13 +3703,6 @@
       "kana": "すいえい",
       "romaji": "suiee",
       "english": "swimming",
-      "level": "A2-1"
-    },
-    {
-      "kana": "すき（な）",
-      "kanji": "好き（な）",
-      "romaji": "suki(na)",
-      "english": "like/favorite",
       "level": "A2-1"
     },
     {
@@ -3981,81 +3750,15 @@
       "level": "A2-1"
     },
     {
-      "kana": "ともだち",
-      "kanji": "友だち",
-      "romaji": "tomodachi",
-      "english": "friend",
-      "level": "A2-1"
-    },
-    {
-      "kana": "とります",
-      "romaji": "torimasu",
-      "english": "to take (a photo)",
-      "level": "A2-1"
-    },
-    {
-      "kana": "どくしょ",
-      "kanji": "読書",
-      "romaji": "dokusho",
-      "english": "reading",
-      "level": "A2-1"
-    },
-    {
-      "kana": "どんな",
-      "romaji": "donna",
-      "english": "What kind of～?",
-      "level": "A2-1"
-    },
-    {
-      "kana": "なに",
-      "kanji": "何",
-      "romaji": "nani",
-      "english": "what",
-      "level": "A2-1"
-    },
-    {
       "kana": "なります",
       "romaji": "narimasu",
       "english": "to be/to become",
       "level": "A2-1"
     },
     {
-      "kana": "にほん／にっぽん",
-      "kanji": "日本",
-      "romaji": "Nihon/Nippon",
-      "english": "Japan",
-      "level": "A2-1"
-    },
-    {
-      "kana": "にんぎょう",
-      "romaji": "ningyoo",
-      "english": "doll",
-      "level": "A2-1"
-    },
-    {
       "kana": "ひま（な）",
       "romaji": "hima(na)",
       "english": "free/not occupied",
-      "level": "A2-1"
-    },
-    {
-      "kana": "みます",
-      "kanji": "見ます",
-      "romaji": "mimasu",
-      "english": "to see/to look at",
-      "level": "A2-1"
-    },
-    {
-      "kana": "よく",
-      "romaji": "yoku",
-      "english": "often",
-      "level": "A2-1"
-    },
-    {
-      "kana": "りょうり",
-      "kanji": "料理",
-      "romaji": "ryoori",
-      "english": "dish/cooking",
       "level": "A2-1"
     },
     {
@@ -4066,39 +3769,15 @@
       "level": "A2-1"
     },
     {
-      "kana": "わかい",
-      "romaji": "wakai",
-      "english": "young",
-      "level": "A2-1"
-    },
-    {
       "kana": "アクセサリー",
       "romaji": "akusesarii",
       "english": "accessories",
       "level": "A2-1"
     },
     {
-      "kana": "カラオケ",
-      "romaji": "karaoke",
-      "english": "karaoke",
-      "level": "A2-1"
-    },
-    {
-      "kana": "カレー",
-      "romaji": "karee",
-      "english": "curry",
-      "level": "A2-1"
-    },
-    {
       "kana": "ガーデニング",
       "romaji": "gaadeningu",
       "english": "gardening",
-      "level": "A2-1"
-    },
-    {
-      "kana": "クラシック",
-      "romaji": "kurashikku",
-      "english": "classical music",
       "level": "A2-1"
     },
     {
@@ -4117,12 +3796,6 @@
       "kana": "サイクリング",
       "romaji": "saikuringu",
       "english": "cycling",
-      "level": "A2-1"
-    },
-    {
-      "kana": "サッカー",
-      "romaji": "sakkaa",
-      "english": "soccer/(association) football",
       "level": "A2-1"
     },
     {
@@ -4182,9 +3855,10 @@
     },
     {
       "kana": "あきまつり",
+      "kanji": "秋まつり",
       "romaji": "aki-matsuri",
       "english": "autumn festival",
-      "level": "A2-1"
+      "level": "A2-2"
     },
     {
       "kana": "あじさい",
@@ -4200,39 +3874,15 @@
     },
     {
       "kana": "あつい",
+      "kanji": "暑い",
       "romaji": "atsui",
       "english": "hot",
-      "level": "A2-1"
-    },
-    {
-      "kana": "あります",
-      "romaji": "arimasu",
-      "english": "there is/are/to have/(party, event, festival) to be held",
-      "level": "A2-1"
-    },
-    {
-      "kana": "いちばん",
-      "romaji": "ichiban",
-      "english": "the best/the most/number one",
-      "level": "A2-1"
-    },
-    {
-      "kana": "いつ",
-      "romaji": "itsu",
-      "english": "when",
-      "level": "A2-1"
+      "level": "A2-2"
     },
     {
       "kana": "いねかり",
       "romaji": "inekari",
       "english": "rice reaping",
-      "level": "A2-1"
-    },
-    {
-      "kana": "いま",
-      "kanji": "今",
-      "romaji": "ima",
-      "english": "now",
       "level": "A2-1"
     },
     {
@@ -4245,19 +3895,6 @@
       "kana": "うぐいす",
       "romaji": "uguisu",
       "english": "bush warbler",
-      "level": "A2-1"
-    },
-    {
-      "kana": "おいしい",
-      "romaji": "oishii",
-      "english": "delicious/tasty",
-      "level": "A2-1"
-    },
-    {
-      "kana": "おおさか",
-      "kanji": "大阪（おおさか）",
-      "romaji": "Oosaka",
-      "english": "Osaka (name of a place/prefecture in Japan)",
       "level": "A2-1"
     },
     {
@@ -4276,25 +3913,6 @@
       "kana": "きせつ",
       "romaji": "kisetsu",
       "english": "season",
-      "level": "A2-1"
-    },
-    {
-      "kana": "きれい（な）",
-      "romaji": "kiree(na)",
-      "english": "beautiful",
-      "level": "A2-1"
-    },
-    {
-      "kana": "くだもの",
-      "romaji": "kudamono",
-      "english": "fruit",
-      "level": "A2-1"
-    },
-    {
-      "kana": "くに",
-      "kanji": "国",
-      "romaji": "kuni",
-      "english": "country",
       "level": "A2-1"
     },
     {
@@ -4317,15 +3935,10 @@
     },
     {
       "kana": "さむい",
+      "kanji": "寒い",
       "romaji": "samui",
       "english": "cold",
-      "level": "A2-1"
-    },
-    {
-      "kana": "じゃあ",
-      "romaji": "jaa",
-      "english": "well/then",
-      "level": "A2-1"
+      "level": "A2-2"
     },
     {
       "kana": "じょやのかね",
@@ -4364,13 +3977,6 @@
       "level": "A2-1"
     },
     {
-      "kana": "たべもの",
-      "kanji": "食べ物",
-      "romaji": "tabemono",
-      "english": "food",
-      "level": "A2-1"
-    },
-    {
       "kana": "たんぼ",
       "romaji": "tanbo",
       "english": "rice field",
@@ -4380,12 +3986,6 @@
       "kana": "だいたい",
       "romaji": "daitai",
       "english": "generally/roughly",
-      "level": "A2-1"
-    },
-    {
-      "kana": "だめ（な）",
-      "romaji": "dame(na)",
-      "english": "no good/not permitted/impossible",
       "level": "A2-1"
     },
     {
@@ -4441,10 +4041,11 @@
       "level": "A2-1"
     },
     {
-      "kana": "にがて（な）",
+      "kana": "にがて(な)",
+      "kanji": "苦手(な)",
       "romaji": "nigate(na)",
-      "english": "to be poor at",
-      "level": "A2-1"
+      "english": "to be poor at/dislike/to have trouble",
+      "level": "A2-2"
     },
     {
       "kana": "にゅうがくしき",
@@ -4457,21 +4058,14 @@
       "kanji": "花",
       "romaji": "hana",
       "english": "flower(s)",
-      "level": "A2-1"
-    },
-    {
-      "kana": "はなび",
-      "kanji": "はなび(花火)",
-      "romaji": "hanabi",
-      "english": "fireworks",
-      "level": "A2-1"
+      "level": "A2-2"
     },
     {
       "kana": "はなみ",
-      "kanji": "はなみ(花見)",
+      "kanji": "花見",
       "romaji": "hanami",
       "english": "cherry-blossom viewing",
-      "level": "A2-1"
+      "level": "A2-2"
     },
     {
       "kana": "はる",
@@ -4519,12 +4113,6 @@
       "level": "A2-1"
     },
     {
-      "kana": "まつり",
-      "romaji": "matsuri",
-      "english": "festival/celebration",
-      "level": "A2-1"
-    },
-    {
       "kana": "むしあつい",
       "romaji": "mushiatsui",
       "english": "hot and humid",
@@ -4537,28 +4125,9 @@
       "level": "A2-1"
     },
     {
-      "kana": "コート",
-      "romaji": "kooto",
-      "english": "coat",
-      "level": "A2-1"
-    },
-    {
       "kana": "スキー",
       "romaji": "sukii",
       "english": "ski",
-      "level": "A2-1"
-    },
-    {
-      "kana": "～がつ",
-      "kanji": "～月",
-      "romaji": "～gatsu",
-      "english": "month",
-      "level": "A2-1"
-    },
-    {
-      "kana": "～ごろ",
-      "romaji": "～goro",
-      "english": "about",
       "level": "A2-1"
     },
     {
@@ -4568,29 +4137,10 @@
       "level": "A2-1"
     },
     {
-      "kana": "あした",
-      "romaji": "ashita",
-      "english": "tomorrow",
-      "level": "A2-1"
-    },
-    {
       "kana": "あめ",
-      "kanji": "雨",
       "romaji": "ame",
-      "english": "rain/rainy",
-      "level": "A2-1"
-    },
-    {
-      "kana": "いい",
-      "romaji": "ii",
-      "english": "nice/good",
-      "level": "A2-1"
-    },
-    {
-      "kana": "います",
-      "romaji": "imasu",
-      "english": "to be (existence)",
-      "level": "A2-1"
+      "english": "(hard) candy",
+      "level": "A2-2"
     },
     {
       "kana": "ええ",
@@ -4612,12 +4162,6 @@
       "level": "A2-1"
     },
     {
-      "kana": "おはようございます",
-      "romaji": "ohayoo gozaimasu",
-      "english": "Good morning.",
-      "level": "A2-1"
-    },
-    {
       "kana": "おひさしぶりです",
       "romaji": "ohisashiburi desu",
       "english": "It's been a long time./Long time no see.",
@@ -4631,24 +4175,11 @@
       "level": "A2-1"
     },
     {
-      "kana": "きのう",
-      "romaji": "kinoo",
-      "english": "yesterday",
-      "level": "A2-1"
-    },
-    {
-      "kana": "きもちが　いいです",
-      "kanji": "きもちが　いいです（気持ちが　いいです）",
+      "kana": "きもちが いいです",
+      "kanji": "気持ちが いいです",
       "romaji": "kimochi ga ii desu",
       "english": "I feel good./It feels good.",
-      "level": "A2-1"
-    },
-    {
-      "kana": "きょう",
-      "kanji": "今日",
-      "romaji": "kyoo",
-      "english": "today",
-      "level": "A2-1"
+      "level": "A2-2"
     },
     {
       "kana": "くもり",
@@ -4663,30 +4194,17 @@
       "level": "A2-1"
     },
     {
-      "kana": "げんき（な）",
-      "kanji": "元気（な）",
+      "kana": "げんき(な)",
+      "kanji": "元気(な)",
       "romaji": "genki(na)",
       "english": "vigorous",
-      "level": "A2-1"
+      "level": "A2-2"
     },
     {
       "kana": "こっち",
       "romaji": "kocchi",
-      "english": "this side",
-      "level": "A2-1"
-    },
-    {
-      "kana": "こんにちは",
-      "romaji": "konnichiwa",
-      "english": "Hello.",
-      "level": "A2-1"
-    },
-    {
-      "kana": "ごご",
-      "kanji": "午後",
-      "romaji": "gogo",
-      "english": "p.m./afternoon",
-      "level": "A2-1"
+      "english": "this one",
+      "level": "A2-2"
     },
     {
       "kana": "さっぽろ",
@@ -4703,39 +4221,15 @@
     },
     {
       "kana": "せかい",
+      "kanji": "世界",
       "romaji": "sekai",
       "english": "world",
-      "level": "A2-1"
-    },
-    {
-      "kana": "せんしゅう",
-      "kanji": "先週",
-      "romaji": "senshuu",
-      "english": "last week",
-      "level": "A2-1"
-    },
-    {
-      "kana": "そして",
-      "romaji": "soshite",
-      "english": "and",
-      "level": "A2-1"
+      "level": "A2-2"
     },
     {
       "kana": "そっち",
       "romaji": "socchi",
       "english": "that way/over there",
-      "level": "A2-1"
-    },
-    {
-      "kana": "たいへん（な）",
-      "romaji": "taihen(na)",
-      "english": "terrible/tough/hard work",
-      "level": "A2-1"
-    },
-    {
-      "kana": "たぶん",
-      "romaji": "tabun",
-      "english": "perhaps/maybe/probably",
       "level": "A2-1"
     },
     {
@@ -4761,12 +4255,6 @@
       "kana": "どう",
       "romaji": "doo",
       "english": "how",
-      "level": "A2-1"
-    },
-    {
-      "kana": "はい",
-      "romaji": "hai",
-      "english": "yes",
       "level": "A2-1"
     },
     {
@@ -4797,36 +4285,10 @@
       "level": "A2-1"
     },
     {
-      "kana": "ほっかいどう",
-      "kanji": "北海道（ほっかいどう）",
-      "romaji": "Hokkaidoo",
-      "english": "Hokkaido (name of a place/prefecture in Japan)",
-      "level": "A2-1"
-    },
-    {
-      "kana": "まいにち",
-      "kanji": "毎日",
-      "romaji": "mainichi",
-      "english": "every day",
-      "level": "A2-1"
-    },
-    {
-      "kana": "もしもし",
-      "romaji": "moshimoshi",
-      "english": "Hello(?) (on the telephone)",
-      "level": "A2-1"
-    },
-    {
       "kana": "ゆき",
       "kanji": "雪",
       "romaji": "yuki",
       "english": "snow",
-      "level": "A2-1"
-    },
-    {
-      "kana": "よく",
-      "romaji": "yoku",
-      "english": "well",
       "level": "A2-1"
     },
     {
@@ -4851,12 +4313,6 @@
       "kana": "ジャカルタ",
       "romaji": "Jakaruta",
       "english": "Jakarta",
-      "level": "A2-1"
-    },
-    {
-      "kana": "ソウル",
-      "romaji": "Sooru",
-      "english": "Seoul",
       "level": "A2-1"
     },
     {
@@ -4897,20 +4353,6 @@
       "level": "A2-1"
     },
     {
-      "kana": "あきはばら",
-      "kanji": "秋葉原（あきはばら）",
-      "romaji": "Akihabara",
-      "english": "Akihabara (name of a place in Tokyo, Japan)",
-      "level": "A2-1"
-    },
-    {
-      "kana": "あさ",
-      "kanji": "朝",
-      "romaji": "asa",
-      "english": "morning",
-      "level": "A2-1"
-    },
-    {
       "kana": "あたり",
       "romaji": "atari",
       "english": "around/in the neighborhood",
@@ -4935,25 +4377,6 @@
       "level": "A2-1"
     },
     {
-      "kana": "いっしょに",
-      "romaji": "issho ni",
-      "english": "together",
-      "level": "A2-1"
-    },
-    {
-      "kana": "いつも",
-      "romaji": "itsumo",
-      "english": "always",
-      "level": "A2-1"
-    },
-    {
-      "kana": "うえの",
-      "kanji": "上野（うえの）",
-      "romaji": "Ueno",
-      "english": "Ueno (name of a place in Tokyo, Japan)",
-      "level": "A2-1"
-    },
-    {
       "kana": "うおいちば",
       "romaji": "uo-ichiba",
       "english": "a fish market",
@@ -4961,29 +4384,10 @@
     },
     {
       "kana": "うります",
+      "kanji": "売ります",
       "romaji": "urimasu",
       "english": "to sell",
-      "level": "A2-1"
-    },
-    {
-      "kana": "えき",
-      "kanji": "駅",
-      "romaji": "eki",
-      "english": "station",
-      "level": "A2-1"
-    },
-    {
-      "kana": "おおい",
-      "kanji": "多い",
-      "romaji": "ooi",
-      "english": "lots of (people)",
-      "level": "A2-1"
-    },
-    {
-      "kana": "おしゃれ（な）",
-      "romaji": "oshare(na)",
-      "english": "fashionable",
-      "level": "A2-1"
+      "level": "A2-2"
     },
     {
       "kana": "おだいば",
@@ -4993,60 +4397,17 @@
       "level": "A2-1"
     },
     {
-      "kana": "おもしろい",
-      "romaji": "omoshiroi",
-      "english": "funny/interesting",
-      "level": "A2-1"
-    },
-    {
-      "kana": "かわいい",
-      "romaji": "kawaii",
-      "english": "cute",
-      "level": "A2-1"
-    },
-    {
-      "kana": "ぎんざ",
-      "kanji": "銀座（ぎんざ）",
-      "romaji": "Ginza",
-      "english": "Ginza (name of a place in Tokyo, Japan)",
-      "level": "A2-1"
-    },
-    {
-      "kana": "こうえん",
-      "romaji": "kooen",
-      "english": "park",
-      "level": "A2-1"
-    },
-    {
       "kana": "こうきょ",
       "romaji": "kookyo",
       "english": "the Imperial Palace",
       "level": "A2-1"
     },
     {
-      "kana": "ここ",
-      "romaji": "koko",
-      "english": "here",
-      "level": "A2-1"
-    },
-    {
-      "kana": "この",
-      "romaji": "kono",
-      "english": "this～ [Noun]",
-      "level": "A2-1"
-    },
-    {
-      "kana": "しずか（な）",
+      "kana": "しずか(な)",
+      "kanji": "静か(な)",
       "romaji": "shizuka(na)",
       "english": "quiet",
-      "level": "A2-1"
-    },
-    {
-      "kana": "しんじゅく",
-      "kanji": "新宿（しんじゅく）",
-      "romaji": "Shinjuku",
-      "english": "Shinjuku (name of a place in Tokyo, Japan)",
-      "level": "A2-1"
+      "level": "A2-2"
     },
     {
       "kana": "ぜひ",
@@ -5055,35 +4416,9 @@
       "level": "A2-1"
     },
     {
-      "kana": "たかい",
-      "kanji": "高い",
-      "romaji": "takai",
-      "english": "expensive",
-      "level": "A2-1"
-    },
-    {
       "kana": "たくさん",
       "romaji": "takusan",
       "english": "many/much",
-      "level": "A2-1"
-    },
-    {
-      "kana": "たのしい",
-      "kanji": "楽しい",
-      "romaji": "tanoshii",
-      "english": "fun/enjoyable",
-      "level": "A2-1"
-    },
-    {
-      "kana": "ちかく",
-      "romaji": "chikaku",
-      "english": "nearby",
-      "level": "A2-1"
-    },
-    {
-      "kana": "ちょっと",
-      "romaji": "chotto",
-      "english": "a little/a few/a moment",
       "level": "A2-1"
     },
     {
@@ -5095,10 +4430,10 @@
     },
     {
       "kana": "でんきてん",
-      "kanji": "でんきてん(電気店)",
+      "kanji": "電気店",
       "romaji": "denkiten",
       "english": "electronics store",
-      "level": "A2-1"
+      "level": "A2-2"
     },
     {
       "kana": "でんきやさん",
@@ -5107,21 +4442,9 @@
       "level": "A2-1"
     },
     {
-      "kana": "とおい",
-      "romaji": "tooi",
-      "english": "far",
-      "level": "A2-1"
-    },
-    {
       "kana": "ところ",
       "romaji": "tokoro",
       "english": "place",
-      "level": "A2-1"
-    },
-    {
-      "kana": "にぎやか（な）",
-      "romaji": "nigiyaka(na)",
-      "english": "busy/lively",
       "level": "A2-1"
     },
     {
@@ -5132,69 +4455,16 @@
       "level": "A2-1"
     },
     {
-      "kana": "はやい",
-      "romaji": "hayai",
-      "english": "early/quick",
-      "level": "A2-1"
-    },
-    {
-      "kana": "はらじゅく",
-      "kanji": "原宿（はらじゅく）",
-      "romaji": "Harajuku",
-      "english": "Harajuku (name of a place in Tokyo, Japan)",
-      "level": "A2-1"
-    },
-    {
-      "kana": "ひと",
-      "kanji": "人",
-      "romaji": "hito",
-      "english": "person",
-      "level": "A2-1"
-    },
-    {
-      "kana": "ひろい",
-      "kanji": "広い",
-      "romaji": "hiroi",
-      "english": "wide/spacious",
-      "level": "A2-1"
-    },
-    {
       "kana": "ふく",
+      "kanji": "服",
       "romaji": "fuku",
       "english": "clothes",
-      "level": "A2-1"
+      "level": "A2-2"
     },
     {
       "kana": "ふべん（な）",
       "romaji": "fuben(na)",
       "english": "inconvenient",
-      "level": "A2-1"
-    },
-    {
-      "kana": "べんり（な）",
-      "romaji": "benri(na)",
-      "english": "convenient",
-      "level": "A2-1"
-    },
-    {
-      "kana": "まち",
-      "kanji": "町",
-      "romaji": "machi",
-      "english": "town",
-      "level": "A2-1"
-    },
-    {
-      "kana": "みせ",
-      "kanji": "店",
-      "romaji": "mise",
-      "english": "store",
-      "level": "A2-1"
-    },
-    {
-      "kana": "やすい",
-      "kanji": "安い",
-      "romaji": "yasui",
-      "english": "inexpensive/cheap",
       "level": "A2-1"
     },
     {
@@ -5228,30 +4498,6 @@
       "level": "A2-1"
     },
     {
-      "kana": "テレビ",
-      "romaji": "terebi",
-      "english": "television",
-      "level": "A2-1"
-    },
-    {
-      "kana": "デパート",
-      "romaji": "depaato",
-      "english": "department store",
-      "level": "A2-1"
-    },
-    {
-      "kana": "バス",
-      "romaji": "basu",
-      "english": "bus",
-      "level": "A2-1"
-    },
-    {
-      "kana": "ファッション",
-      "romaji": "fasshon",
-      "english": "fashion",
-      "level": "A2-1"
-    },
-    {
       "kana": "あおい",
       "kanji": "青い",
       "romaji": "aoi",
@@ -5272,40 +4518,9 @@
       "level": "A2-1"
     },
     {
-      "kana": "あの",
-      "romaji": "ano",
-      "english": "that [Noun]",
-      "level": "A2-1"
-    },
-    {
-      "kana": "あれ",
-      "romaji": "are",
-      "english": "That (far from both the speaker and the listener)",
-      "level": "A2-1"
-    },
-    {
-      "kana": "いいえ",
-      "romaji": "iie",
-      "english": "No.",
-      "level": "A2-1"
-    },
-    {
-      "kana": "おおきい",
-      "kanji": "大きい",
-      "romaji": "ookii",
-      "english": "big",
-      "level": "A2-1"
-    },
-    {
       "kana": "かど",
       "romaji": "kado",
       "english": "corner",
-      "level": "A2-1"
-    },
-    {
-      "kana": "ぎんこう",
-      "romaji": "ginkoo",
-      "english": "bank",
       "level": "A2-1"
     },
     {
@@ -5334,22 +4549,9 @@
       "level": "A2-1"
     },
     {
-      "kana": "すみません",
-      "romaji": "sumimasen",
-      "english": "Excuse me./I'm sorry.",
-      "level": "A2-1"
-    },
-    {
       "kana": "たいしかん",
       "romaji": "taishikan",
       "english": "embassy",
-      "level": "A2-1"
-    },
-    {
-      "kana": "たかい",
-      "kanji": "高い",
-      "romaji": "takai",
-      "english": "high",
       "level": "A2-1"
     },
     {
@@ -5359,48 +4561,9 @@
       "level": "A2-1"
     },
     {
-      "kana": "とおり",
-      "kanji": "通り",
-      "romaji": "toori",
-      "english": "street",
-      "level": "A2-1"
-    },
-    {
-      "kana": "となり",
-      "romaji": "tonari",
-      "english": "next to/beside",
-      "level": "A2-1"
-    },
-    {
-      "kana": "どこ",
-      "romaji": "doko",
-      "english": "where",
-      "level": "A2-1"
-    },
-    {
-      "kana": "はくぶつかん",
-      "romaji": "hakubutsukan",
-      "english": "museum",
-      "level": "A2-1"
-    },
-    {
       "kana": "はし",
       "romaji": "hashi",
-      "english": "bridge",
-      "level": "A2-1"
-    },
-    {
-      "kana": "ひだり",
-      "kanji": "左",
-      "romaji": "hidari",
-      "english": "left",
-      "level": "A2-1"
-    },
-    {
-      "kana": "ひとつ",
-      "kanji": "１つ／一つ",
-      "romaji": "hitotsu",
-      "english": "one (for thing)",
+      "english": "chopsticks",
       "level": "A2-1"
     },
     {
@@ -5408,13 +4571,6 @@
       "kanji": "１つめ／一つ目",
       "romaji": "hitotsu-me",
       "english": "the first～",
-      "level": "A2-1"
-    },
-    {
-      "kana": "ふたつ",
-      "kanji": "２つ／二つ",
-      "romaji": "futatsu",
-      "english": "two (for things)",
       "level": "A2-1"
     },
     {
@@ -5437,12 +4593,6 @@
       "level": "A2-1"
     },
     {
-      "kana": "まっすぐ",
-      "romaji": "massugu",
-      "english": "straight",
-      "level": "A2-1"
-    },
-    {
       "kana": "まるい",
       "romaji": "marui",
       "english": "round",
@@ -5453,13 +4603,6 @@
       "kanji": "見えます",
       "romaji": "miemasu",
       "english": "to be visible/can be seen",
-      "level": "A2-1"
-    },
-    {
-      "kana": "みぎ",
-      "kanji": "右",
-      "romaji": "migi",
-      "english": "right",
       "level": "A2-1"
     },
     {
@@ -5488,21 +4631,9 @@
       "level": "A2-1"
     },
     {
-      "kana": "ビル",
-      "romaji": "biru",
-      "english": "building",
-      "level": "A2-1"
-    },
-    {
       "kana": "（どうも）ありがとうございます",
       "romaji": "(doomo) arigatoo gozaimasu",
       "english": "Thank you very much.",
-      "level": "A2-1"
-    },
-    {
-      "kana": "～つ",
-      "romaji": "～tsu",
-      "english": "(counter for counting things)",
       "level": "A2-1"
     },
     {
@@ -5513,37 +4644,11 @@
       "level": "A2-1"
     },
     {
-      "kana": "あいます",
-      "kanji": "会います",
-      "romaji": "aimasu",
-      "english": "to meet a friend",
-      "level": "A2-1"
-    },
-    {
       "kana": "いりぐち",
-      "kanji": "いりぐち（入り口）",
+      "kanji": "入り口",
       "romaji": "iriguchi",
       "english": "entrance",
-      "level": "A2-1"
-    },
-    {
-      "kana": "おくれます",
-      "romaji": "okuremasu",
-      "english": "be late/be delayed",
-      "level": "A2-1"
-    },
-    {
-      "kana": "おそい",
-      "romaji": "osoi",
-      "english": "late/slow",
-      "level": "A2-1"
-    },
-    {
-      "kana": "きます",
-      "kanji": "来ます",
-      "romaji": "kimasu",
-      "english": "to come",
-      "level": "A2-1"
+      "level": "A2-2"
     },
     {
       "kana": "じかん",
@@ -5566,12 +4671,6 @@
       "level": "A2-1"
     },
     {
-      "kana": "だいじょうぶ（な）",
-      "romaji": "daijoobu(na)",
-      "english": "okay/all right",
-      "level": "A2-1"
-    },
-    {
       "kana": "でかけます",
       "kanji": "出かけます",
       "romaji": "dekakemasu",
@@ -5579,44 +4678,10 @@
       "level": "A2-1"
     },
     {
-      "kana": "とまります",
-      "kanji": "止まります",
-      "romaji": "tomarimasu",
-      "english": "to stop",
-      "level": "A2-1"
-    },
-    {
-      "kana": "どようび",
-      "kanji": "土よう日",
-      "romaji": "doyoobi",
-      "english": "Saturday",
-      "level": "A2-1"
-    },
-    {
-      "kana": "にちようび",
-      "kanji": "日よう日",
-      "romaji": "nichiyoobi",
-      "english": "Sunday",
-      "level": "A2-1"
-    },
-    {
       "kana": "ばしょ",
       "kanji": "場所",
       "romaji": "basho",
       "english": "place/venue",
-      "level": "A2-1"
-    },
-    {
-      "kana": "まえ",
-      "kanji": "前",
-      "romaji": "mae",
-      "english": "front",
-      "level": "A2-1"
-    },
-    {
-      "kana": "また",
-      "romaji": "mata",
-      "english": "again/once more/another time/also/too/and/moreover",
       "level": "A2-1"
     },
     {
@@ -5653,22 +4718,9 @@
       "level": "A2-1"
     },
     {
-      "kana": "コーヒーショップ",
-      "romaji": "koohii-shoppu",
-      "english": "coffee shop",
-      "level": "A2-1"
-    },
-    {
       "kana": "ロビー",
       "romaji": "robii",
       "english": "lobby",
-      "level": "A2-1"
-    },
-    {
-      "kana": "～じ",
-      "kanji": "～時",
-      "romaji": "～ji",
-      "english": "～o'clock",
       "level": "A2-1"
     },
     {
@@ -5686,12 +4738,6 @@
       "level": "A2-1"
     },
     {
-      "kana": "ありがとうございました",
-      "romaji": "arigatoo gozaimashita",
-      "english": "Thank you.",
-      "level": "A2-1"
-    },
-    {
       "kana": "おすし",
       "romaji": "osushi",
       "english": "Sushi",
@@ -5701,33 +4747,6 @@
       "kana": "おすすめ",
       "romaji": "osusume",
       "english": "recommendation",
-      "level": "A2-1"
-    },
-    {
-      "kana": "おみやげ",
-      "romaji": "omiyage",
-      "english": "souvenir",
-      "level": "A2-1"
-    },
-    {
-      "kana": "かいます",
-      "kanji": "買います",
-      "romaji": "kaimasu",
-      "english": "to buy",
-      "level": "A2-1"
-    },
-    {
-      "kana": "さかな",
-      "kanji": "魚",
-      "romaji": "sakana",
-      "english": "fish",
-      "level": "A2-1"
-    },
-    {
-      "kana": "しょくじ",
-      "kanji": "食事",
-      "romaji": "shokuji",
-      "english": "meal",
       "level": "A2-1"
     },
     {
@@ -5749,36 +4768,17 @@
       "level": "A2-1"
     },
     {
-      "kana": "たべます",
-      "kanji": "食べます",
-      "romaji": "tabemasu",
-      "english": "to eat",
-      "level": "A2-1"
-    },
-    {
-      "kana": "ちいさい",
-      "kanji": "小さい",
-      "romaji": "chiisai",
-      "english": "small",
-      "level": "A2-1"
-    },
-    {
       "kana": "ちかい",
       "romaji": "chikai",
       "english": "near",
       "level": "A2-1"
     },
     {
-      "kana": "てんぷら",
-      "romaji": "tenpura",
-      "english": "tempura (battered, deep-fried fish and vegetables)",
-      "level": "A2-1"
-    },
-    {
       "kana": "どうぶつ",
+      "kanji": "動物",
       "romaji": "doobutsu",
       "english": "animal",
-      "level": "A2-1"
+      "level": "A2-2"
     },
     {
       "kana": "どうぶつえん",
@@ -5793,35 +4793,9 @@
       "level": "A2-1"
     },
     {
-      "kana": "のります",
-      "kanji": "乗ります",
-      "romaji": "norimasu",
-      "english": "to get on/to ride",
-      "level": "A2-1"
-    },
-    {
-      "kana": "びじゅつかん",
-      "romaji": "bijutsukan",
-      "english": "art museum",
-      "level": "A2-1"
-    },
-    {
-      "kana": "ふね",
-      "romaji": "fune",
-      "english": "ship",
-      "level": "A2-1"
-    },
-    {
       "kana": "まだ",
       "romaji": "mada",
       "english": "not yet",
-      "level": "A2-1"
-    },
-    {
-      "kana": "みず",
-      "kanji": "水",
-      "romaji": "mizu",
-      "english": "water",
       "level": "A2-1"
     },
     {
@@ -5833,14 +4807,8 @@
     {
       "kana": "もう",
       "romaji": "moo",
-      "english": "already",
-      "level": "A2-1"
-    },
-    {
-      "kana": "もちろん",
-      "romaji": "mochiron",
-      "english": "of course",
-      "level": "A2-1"
+      "english": "more",
+      "level": "A2-2"
     },
     {
       "kana": "やけい",
@@ -5855,19 +4823,6 @@
       "level": "A2-1"
     },
     {
-      "kana": "ゆうめい（な）",
-      "romaji": "yuumee(na)",
-      "english": "famous",
-      "level": "A2-1"
-    },
-    {
-      "kana": "よる",
-      "kanji": "夜",
-      "romaji": "yoru",
-      "english": "evening/night",
-      "level": "A2-1"
-    },
-    {
       "kana": "りょうがえ",
       "romaji": "ryoogae",
       "english": "exchanging money",
@@ -5875,9 +4830,10 @@
     },
     {
       "kana": "れきし",
+      "kanji": "歴史",
       "romaji": "rekishi",
       "english": "history",
-      "level": "A2-1"
+      "level": "A2-2"
     },
     {
       "kana": "スカイツリー",
@@ -5889,18 +4845,6 @@
       "kana": "ライトアップ",
       "romaji": "raito-appu",
       "english": "to be illuminated/to be lit up",
-      "level": "A2-1"
-    },
-    {
-      "kana": "ラーメン",
-      "romaji": "raamen",
-      "english": "ramen noodles",
-      "level": "A2-1"
-    },
-    {
-      "kana": "あまり",
-      "romaji": "amari",
-      "english": "not so (Adj); rarely/seldom (Verb)",
       "level": "A2-1"
     },
     {
@@ -5919,15 +4863,17 @@
     },
     {
       "kana": "いみ",
+      "kanji": "意味",
       "romaji": "imi",
       "english": "meaning",
-      "level": "A2-1"
+      "level": "A2-2"
     },
     {
       "kana": "おしえます",
+      "kanji": "教えます",
       "romaji": "oshiemasu",
-      "english": "to tell (one's telephone number)",
-      "level": "A2-1"
+      "english": "to tell / to teach",
+      "level": "A2-2"
     },
     {
       "kana": "おぼえます",
@@ -5936,30 +4882,17 @@
       "level": "A2-1"
     },
     {
-      "kana": "かきます",
-      "kanji": "書きます",
-      "romaji": "kakimasu",
-      "english": "to write",
-      "level": "A2-1"
-    },
-    {
       "kana": "かします",
+      "kanji": "貸します",
       "romaji": "kashimasu",
       "english": "to lend",
-      "level": "A2-1"
+      "level": "A2-2"
     },
     {
-      "kana": "かんじ",
-      "kanji": "かんじ（漢字）",
-      "romaji": "kanji",
-      "english": "Kanji (Chinese script)",
-      "level": "A2-1"
-    },
-    {
-      "kana": "かんたん（な）",
+      "kana": "かんたん(な)",
       "romaji": "kantan(na)",
       "english": "easy",
-      "level": "A2-1"
+      "level": "A2-2"
     },
     {
       "kana": "がいこく",
@@ -6035,18 +4968,6 @@
       "level": "A2-1"
     },
     {
-      "kana": "どうぞ",
-      "romaji": "doozo",
-      "english": "Please./Here you are.",
-      "level": "A2-1"
-    },
-    {
-      "kana": "なまえ",
-      "romaji": "namae",
-      "english": "name",
-      "level": "A2-1"
-    },
-    {
       "kana": "にます",
       "romaji": "nimasu",
       "english": "to be similar",
@@ -6056,12 +4977,6 @@
       "kana": "はつおん",
       "romaji": "hatsuon",
       "english": "pronunciation",
-      "level": "A2-1"
-    },
-    {
-      "kana": "ひらがな",
-      "romaji": "hiragana",
-      "english": "HIRAGANA (one of Japanese scripts)",
       "level": "A2-1"
     },
     {
@@ -6097,47 +5012,15 @@
       "level": "A2-1"
     },
     {
-      "kana": "もう",
-      "romaji": "moo",
-      "english": "more",
-      "level": "A2-1"
-    },
-    {
-      "kana": "もう　いちど",
-      "romaji": "moo ichido",
-      "english": "once again",
-      "level": "A2-1"
-    },
-    {
       "kana": "もじ",
       "romaji": "moji",
       "english": "letter/character",
       "level": "A2-1"
     },
     {
-      "kana": "やすみ",
-      "kanji": "休み",
-      "romaji": "yasumi",
-      "english": "holiday/a break/a rest/day off",
-      "level": "A2-1"
-    },
-    {
-      "kana": "よみます",
-      "kanji": "読みます",
-      "romaji": "yomimasu",
-      "english": "to read",
-      "level": "A2-1"
-    },
-    {
       "kana": "れんしゅう",
       "romaji": "renshuu",
       "english": "practice/exercise",
-      "level": "A2-1"
-    },
-    {
-      "kana": "カタカナ",
-      "romaji": "katakana",
-      "english": "KATAKANA (one of the Japanese scripts)",
       "level": "A2-1"
     },
     {
@@ -6148,13 +5031,6 @@
       "level": "A2-1"
     },
     {
-      "kana": "ドイツご",
-      "kanji": "ドイツ語",
-      "romaji": "Doitsugo",
-      "english": "German language",
-      "level": "A2-1"
-    },
-    {
       "kana": "フランスご",
       "kanji": "フランス語",
       "romaji": "Furansugo",
@@ -6162,35 +5038,17 @@
       "level": "A2-1"
     },
     {
-      "kana": "リスト",
-      "romaji": "risuto",
-      "english": "list",
-      "level": "A2-1"
-    },
-    {
-      "kana": "～ねん",
-      "kanji": "～年",
-      "romaji": "～nen",
-      "english": "(counter for year)",
-      "level": "A2-1"
-    },
-    {
       "kana": "いつか",
+      "kanji": "５日／五日",
       "romaji": "itsuka",
-      "english": "sometime/someday",
-      "level": "A2-1"
+      "english": "the fifth day of the month",
+      "level": "A2-2"
     },
     {
       "kana": "いれます",
       "kanji": "入れます",
       "romaji": "iremasu",
       "english": "to put in",
-      "level": "A2-1"
-    },
-    {
-      "kana": "うた",
-      "romaji": "uta",
-      "english": "song",
       "level": "A2-1"
     },
     {
@@ -6212,22 +5070,9 @@
       "level": "A2-1"
     },
     {
-      "kana": "かんこく",
-      "kanji": "韓国（かんこく）",
-      "romaji": "Kankoku",
-      "english": "South Korea",
-      "level": "A2-1"
-    },
-    {
       "kana": "きっぷ",
       "romaji": "kippu",
       "english": "ticket",
-      "level": "A2-1"
-    },
-    {
-      "kana": "きょうし",
-      "romaji": "kyooshi",
-      "english": "teacher/instructor",
       "level": "A2-1"
     },
     {
@@ -6246,12 +5091,6 @@
       "kana": "ことば",
       "romaji": "kotoba",
       "english": "language/word",
-      "level": "A2-1"
-    },
-    {
-      "kana": "ざっし",
-      "romaji": "zasshi",
-      "english": "magazine",
       "level": "A2-1"
     },
     {
@@ -6281,19 +5120,6 @@
       "level": "A2-1"
     },
     {
-      "kana": "せいかつ",
-      "romaji": "seekatsu",
-      "english": "life",
-      "level": "A2-1"
-    },
-    {
-      "kana": "だいすき（な）",
-      "kanji": "だいすき（な）（大好きな）",
-      "romaji": "daisuki(na)",
-      "english": "like very much",
-      "level": "A2-1"
-    },
-    {
       "kana": "つうやく",
       "romaji": "tsuuyaku",
       "english": "interpreter",
@@ -6320,22 +5146,9 @@
       "level": "A2-1"
     },
     {
-      "kana": "ときどき",
-      "romaji": "tokidoki",
-      "english": "sometimes",
-      "level": "A2-1"
-    },
-    {
       "kana": "どうしたんですか",
       "romaji": "doo shitan desu ka",
       "english": "What's the matter?",
-      "level": "A2-1"
-    },
-    {
-      "kana": "なか",
-      "kanji": "中",
-      "romaji": "naka",
-      "english": "in/inside",
       "level": "A2-1"
     },
     {
@@ -6355,15 +5168,8 @@
       "kana": "はなし",
       "kanji": "話",
       "romaji": "hanashi",
-      "english": "talk/conversation",
-      "level": "A2-1"
-    },
-    {
-      "kana": "ほん",
-      "kanji": "本",
-      "romaji": "hon",
-      "english": "book",
-      "level": "A2-1"
+      "english": "story",
+      "level": "A2-2"
     },
     {
       "kana": "ほんとう",
@@ -6372,10 +5178,10 @@
       "level": "A2-1"
     },
     {
-      "kana": "ほんやく",
+      "kana": "ほんやく(します)",
       "romaji": "hon'yaku",
-      "english": "translation",
-      "level": "A2-1"
+      "english": "translation, (to translate)",
+      "level": "A2-2"
     },
     {
       "kana": "まず",
@@ -6454,9 +5260,10 @@
     },
     {
       "kana": "タイじん",
+      "kanji": "タイ人",
       "romaji": "Taijin",
       "english": "Thai people",
-      "level": "A2-1"
+      "level": "A2-2"
     },
     {
       "kana": "タコス",
@@ -6465,21 +5272,9 @@
       "level": "A2-1"
     },
     {
-      "kana": "ダンス",
-      "romaji": "dansu",
-      "english": "dance",
-      "level": "A2-1"
-    },
-    {
       "kana": "チヂミ",
       "romaji": "chijimi",
       "english": "Chijimi (name of a Korean food similar to a pancake)",
-      "level": "A2-1"
-    },
-    {
-      "kana": "ドイツ",
-      "romaji": "Doitsu",
-      "english": "Germany",
       "level": "A2-1"
     },
     {
@@ -6563,17 +5358,10 @@
       "level": "A2-1"
     },
     {
-      "kana": "～に　きょうみが　あります",
+      "kana": "～に　きょうみが あります",
       "romaji": "～ni kyoomi ga arimasu",
       "english": "to be interested in～.",
-      "level": "A2-1"
-    },
-    {
-      "kana": "あか",
-      "kanji": "赤",
-      "romaji": "aka",
-      "english": "red",
-      "level": "A2-1"
+      "level": "A2-2"
     },
     {
       "kana": "いろいろ",
@@ -6592,20 +5380,13 @@
       "kana": "おちゃ",
       "kanji": "お茶",
       "romaji": "ocha",
-      "english": "tea/Japanese tea",
-      "level": "A2-1"
+      "english": "tea ceremony",
+      "level": "A2-2"
     },
     {
       "kana": "おにぎり",
       "romaji": "onigiri",
       "english": "onigiri (rice ball)",
-      "level": "A2-1"
-    },
-    {
-      "kana": "おねがいします",
-      "kanji": "お願いします",
-      "romaji": "onegaishimasu",
-      "english": "Please./Please do.",
       "level": "A2-1"
     },
     {
@@ -6633,26 +5414,6 @@
       "level": "A2-1"
     },
     {
-      "kana": "しろ",
-      "kanji": "白",
-      "romaji": "shiro",
-      "english": "white",
-      "level": "A2-1"
-    },
-    {
-      "kana": "そと",
-      "kanji": "外",
-      "romaji": "soto",
-      "english": "out/outside/outdoors",
-      "level": "A2-1"
-    },
-    {
-      "kana": "それから",
-      "romaji": "sorekara",
-      "english": "and then",
-      "level": "A2-1"
-    },
-    {
       "kana": "たまごやき",
       "kanji": "卵やき",
       "romaji": "tamago-yaki",
@@ -6667,29 +5428,10 @@
     },
     {
       "kana": "にほんしゅ",
-      "kanji": "にほんしゅ(日本酒)",
+      "kanji": "日本酒",
       "romaji": "nihonshu",
       "english": "Japanese sake/rice wine",
-      "level": "A2-1"
-    },
-    {
-      "kana": "のみもの",
-      "kanji": "飲み物",
-      "romaji": "nomimono",
-      "english": "drink",
-      "level": "A2-1"
-    },
-    {
-      "kana": "はし",
-      "romaji": "hashi",
-      "english": "chopsticks",
-      "level": "A2-1"
-    },
-    {
-      "kana": "ほか",
-      "romaji": "hoka",
-      "english": "other",
-      "level": "A2-1"
+      "level": "A2-2"
     },
     {
       "kana": "もちます",
@@ -6700,17 +5442,9 @@
     },
     {
       "kana": "もの",
-      "kanji": "物",
       "romaji": "mono",
       "english": "thing(s)/goods",
-      "level": "A2-1"
-    },
-    {
-      "kana": "らいしゅう",
-      "kanji": "来週",
-      "romaji": "raishuu",
-      "english": "next week",
-      "level": "A2-1"
+      "level": "A2-2"
     },
     {
       "kana": "りんご",
@@ -6740,12 +5474,6 @@
       "kana": "シート",
       "romaji": "shiito",
       "english": "(waterproof tarpaulin) sheet",
-      "level": "A2-1"
-    },
-    {
-      "kana": "ジュース",
-      "romaji": "juusu",
-      "english": "juice",
       "level": "A2-1"
     },
     {
@@ -6816,12 +5544,6 @@
       "level": "A2-1"
     },
     {
-      "kana": "いただきます",
-      "romaji": "itadakimasu",
-      "english": "Thank you./I accept. (Said before starting to eat or drink /a polite way to say \"\"moraimasu\"\".)",
-      "level": "A2-1"
-    },
-    {
       "kana": "いっぱい",
       "romaji": "ippai",
       "english": "full/having had enough",
@@ -6888,34 +5610,9 @@
       "level": "A2-1"
     },
     {
-      "kana": "ぜんぜん",
-      "romaji": "zenzen",
-      "english": "not at all",
-      "level": "A2-1"
-    },
-    {
-      "kana": "それ",
-      "romaji": "sore",
-      "english": "that",
-      "level": "A2-1"
-    },
-    {
-      "kana": "たまご",
-      "kanji": "卵",
-      "romaji": "tamago",
-      "english": "egg",
-      "level": "A2-1"
-    },
-    {
       "kana": "つけもの",
       "romaji": "tsukemono",
       "english": "pickles",
-      "level": "A2-1"
-    },
-    {
-      "kana": "でも",
-      "romaji": "demo",
-      "english": "but",
       "level": "A2-1"
     },
     {
@@ -6941,13 +5638,6 @@
       "kana": "もう　けっこうです",
       "romaji": "moo kekkoo desu",
       "english": "No, thank you. (to reply \"How about another cup/piece?\")",
-      "level": "A2-1"
-    },
-    {
-      "kana": "もう　すこし",
-      "kanji": "もう　少し",
-      "romaji": "moo sukoshi",
-      "english": "a little more",
       "level": "A2-1"
     },
     {
@@ -7042,22 +5732,9 @@
       "level": "A2-1"
     },
     {
-      "kana": "あたらしい",
-      "kanji": "新しい",
-      "romaji": "atarashii",
-      "english": "new",
-      "level": "A2-1"
-    },
-    {
       "kana": "いかがでしたか",
       "romaji": "ikaga deshita ka",
       "english": "How was it?",
-      "level": "A2-1"
-    },
-    {
-      "kana": "おつかれさまでした",
-      "romaji": "otsukaresama deshita",
-      "english": "Good work./Nice job./You must be tired.",
       "level": "A2-1"
     },
     {
@@ -7074,10 +5751,10 @@
     },
     {
       "kana": "かいぎ",
-      "kanji": "会議（かいぎ）",
+      "kanji": "会議",
       "romaji": "kaigi",
       "english": "meeting",
-      "level": "A2-1"
+      "level": "A2-2"
     },
     {
       "kana": "かいてき（な）",
@@ -7089,13 +5766,6 @@
       "kana": "かぎ",
       "romaji": "kagi",
       "english": "key",
-      "level": "A2-1"
-    },
-    {
-      "kana": "くうこう",
-      "kanji": "空港",
-      "romaji": "kuukoo",
-      "english": "airport",
       "level": "A2-1"
     },
     {
@@ -7121,9 +5791,10 @@
     },
     {
       "kana": "しります",
+      "kanji": "知ります",
       "romaji": "shirimasu",
       "english": "to know",
-      "level": "A2-1"
+      "level": "A2-2"
     },
     {
       "kana": "じさ",
@@ -7151,17 +5822,10 @@
       "level": "A2-1"
     },
     {
-      "kana": "つかれます",
-      "romaji": "tsukaremasu",
-      "english": "to get tired",
-      "level": "A2-1"
-    },
-    {
       "kana": "つきます",
-      "kanji": "つきます(着きます)",
       "romaji": "tsukimasu",
       "english": "to arrive",
-      "level": "A2-1"
+      "level": "A2-2"
     },
     {
       "kana": "でます",
@@ -7191,12 +5855,6 @@
       "level": "A2-1"
     },
     {
-      "kana": "ながい",
-      "romaji": "nagai",
-      "english": "long",
-      "level": "A2-1"
-    },
-    {
       "kana": "なし（ない）",
       "romaji": "nashi (nai)",
       "english": "none",
@@ -7209,30 +5867,16 @@
       "level": "A2-1"
     },
     {
-      "kana": "ひる",
-      "kanji": "昼",
-      "romaji": "hiru",
-      "english": "daytime/noon",
-      "level": "A2-1"
-    },
-    {
-      "kana": "びん",
-      "kanji": "便",
+      "kana": "ビン",
       "romaji": "bin",
-      "english": "(airline) flight",
-      "level": "A2-1"
+      "english": "bottle",
+      "level": "A2-2"
     },
     {
       "kana": "ほんしゃ",
       "kanji": "本社",
       "romaji": "honsha",
       "english": "head office",
-      "level": "A2-1"
-    },
-    {
-      "kana": "まあまあ（な）",
-      "romaji": "maamaa(na)",
-      "english": "so so",
       "level": "A2-1"
     },
     {
@@ -7273,12 +5917,6 @@
       "level": "A2-1"
     },
     {
-      "kana": "シャワー",
-      "romaji": "shawaa",
-      "english": "shower",
-      "level": "A2-1"
-    },
-    {
       "kana": "スケジュール",
       "romaji": "sukejuuru",
       "english": "schedule",
@@ -7309,12 +5947,6 @@
       "level": "A2-1"
     },
     {
-      "kana": "レストラン",
-      "romaji": "resutoran",
-      "english": "restaurant",
-      "level": "A2-1"
-    },
-    {
       "kana": "ローマ",
       "romaji": "Rooma",
       "english": "Rome",
@@ -7329,10 +5961,9 @@
     },
     {
       "kana": "～さま",
-      "kanji": "～様",
       "romaji": "～sama",
       "english": "Mr. ; Ms.(NAME+sama]…is a very polite expression to call someone, and used not only with person's name but with one's his/her post.)",
-      "level": "A2-1"
+      "level": "A2-2"
     },
     {
       "kana": "～にち／か",
@@ -7342,30 +5973,18 @@
       "level": "A2-1"
     },
     {
-      "kana": "～はん",
-      "kanji": "～半",
-      "romaji": "～han",
-      "english": "half-past～/～thirty",
-      "level": "A2-1"
-    },
-    {
-      "kana": "～ほん／ぽん／ぼん",
-      "kanji": "～ほん／ぽん／ぼん(～本)",
-      "romaji": "～hon/pon/bon",
-      "english": "(a counter for thin and long thing)",
-      "level": "A2-1"
-    },
-    {
       "kana": "うけつけ",
+      "kanji": "受付",
       "romaji": "uketsuke",
       "english": "front desk/reception",
-      "level": "A2-1"
+      "level": "A2-2"
     },
     {
-      "kana": "おせわに　なりました",
+      "kana": "おせわに なりました",
+      "kanji": "お世話に　なりました",
       "romaji": "osewa ni narimashita",
       "english": "Thank you for everything.",
-      "level": "A2-1"
+      "level": "A2-2"
     },
     {
       "kana": "かります",
@@ -7381,21 +6000,9 @@
       "level": "A2-1"
     },
     {
-      "kana": "こちら",
-      "romaji": "kochira",
-      "english": "this way/this place (polite equivalent of ここ）",
-      "level": "A2-1"
-    },
-    {
       "kana": "こちらこそ",
       "romaji": "kochirakoso",
       "english": "Same to you.",
-      "level": "A2-1"
-    },
-    {
-      "kana": "これ",
-      "romaji": "kore",
-      "english": "this",
       "level": "A2-1"
     },
     {
@@ -7412,14 +6019,15 @@
     },
     {
       "kana": "じぶん",
+      "kanji": "自分",
       "romaji": "jibun",
       "english": "oneself",
-      "level": "A2-1"
+      "level": "A2-2"
     },
     {
-      "kana": "じむ",
+      "kana": "ジム",
       "romaji": "jimu",
-      "english": "office work",
+      "english": "gym",
       "level": "A2-1"
     },
     {
@@ -7435,21 +6043,9 @@
       "level": "A2-1"
     },
     {
-      "kana": "はじめまして",
-      "romaji": "hajimemashite",
-      "english": "How do you do?/Nice to meet you.",
-      "level": "A2-1"
-    },
-    {
       "kana": "ひしょ",
       "romaji": "hisho",
       "english": "secretary",
-      "level": "A2-1"
-    },
-    {
-      "kana": "べんきょうちゅう",
-      "romaji": "benkyoo-chuu",
-      "english": "in the middle of studying",
       "level": "A2-1"
     },
     {
@@ -7527,12 +6123,6 @@
       "level": "A2-1"
     },
     {
-      "kana": "あげます",
-      "romaji": "agemasu",
-      "english": "to raise",
-      "level": "A2-1"
-    },
-    {
       "kana": "あし",
       "kanji": "足",
       "romaji": "ashi",
@@ -7553,12 +6143,6 @@
       "level": "A2-1"
     },
     {
-      "kana": "いそがしい",
-      "romaji": "isogashii",
-      "english": "busy",
-      "level": "A2-1"
-    },
-    {
       "kana": "いたい",
       "romaji": "itai",
       "english": "painful/sore",
@@ -7568,13 +6152,6 @@
       "kana": "う",
       "romaji": "u",
       "english": "Ow!",
-      "level": "A2-1"
-    },
-    {
-      "kana": "うえ",
-      "kanji": "上",
-      "romaji": "ue",
-      "english": "on/above",
       "level": "A2-1"
     },
     {
@@ -7591,16 +6168,11 @@
       "level": "A2-1"
     },
     {
-      "kana": "おふろ",
-      "romaji": "ofuro",
-      "english": "bathroom/bath",
-      "level": "A2-1"
-    },
-    {
       "kana": "おわり",
+      "kanji": "終わり",
       "romaji": "owari",
       "english": "end/finish",
-      "level": "A2-1"
+      "level": "A2-2"
     },
     {
       "kana": "かお",
@@ -7611,8 +6183,8 @@
     {
       "kana": "かた",
       "romaji": "kata",
-      "english": "shoulder",
-      "level": "A2-1"
+      "english": "person (formal form)",
+      "level": "A2-2"
     },
     {
       "kana": "からだ",
@@ -7659,12 +6231,6 @@
       "level": "A2-1"
     },
     {
-      "kana": "こうやって",
-      "romaji": "koo yatte",
-      "english": "like this",
-      "level": "A2-1"
-    },
-    {
       "kana": "こし",
       "romaji": "koshi",
       "english": "lower back/waist/hips",
@@ -7678,9 +6244,10 @@
     },
     {
       "kana": "ごはん",
+      "kanji": "ご飯",
       "romaji": "gohan",
-      "english": "meal",
-      "level": "A2-1"
+      "english": "meal / rice",
+      "level": "A2-2"
     },
     {
       "kana": "さいきん",
@@ -7732,22 +6299,9 @@
       "level": "A2-1"
     },
     {
-      "kana": "ねます",
-      "romaji": "nemasu",
-      "english": "to go to bed",
-      "level": "A2-1"
-    },
-    {
       "kana": "ねられません",
       "romaji": "neraremasen",
       "english": "I can't sleep.",
-      "level": "A2-1"
-    },
-    {
-      "kana": "のみます",
-      "kanji": "飲みます",
-      "romaji": "nomimasu",
-      "english": "to drink",
       "level": "A2-1"
     },
     {
@@ -7759,14 +6313,8 @@
     {
       "kana": "はきます",
       "romaji": "hakimasu",
-      "english": "to breathe out/to expel (air)",
-      "level": "A2-1"
-    },
-    {
-      "kana": "はな",
-      "romaji": "hana",
-      "english": "nose",
-      "level": "A2-1"
+      "english": "to put on/to wear (on the feet)",
+      "level": "A2-2"
     },
     {
       "kana": "はやく",
@@ -7813,35 +6361,15 @@
       "level": "A2-1"
     },
     {
-      "kana": "やすみます",
-      "kanji": "休みます",
-      "romaji": "yasumimasu",
-      "english": "to be absent/to take a day off/to take a rest",
-      "level": "A2-1"
-    },
-    {
       "kana": "やります",
       "romaji": "yarimasu",
-      "english": "to do",
-      "level": "A2-1"
-    },
-    {
-      "kana": "ゆっくり",
-      "romaji": "yukkuri",
-      "english": "slowly",
-      "level": "A2-1"
+      "english": "to run (a shop)",
+      "level": "A2-2"
     },
     {
       "kana": "ストレス",
       "romaji": "sutoresu",
       "english": "stress",
-      "level": "A2-1"
-    },
-    {
-      "kana": "あさごはん",
-      "kanji": "朝ごはん",
-      "romaji": "asa-gohan",
-      "english": "breakfast",
       "level": "A2-1"
     },
     {
@@ -7896,12 +6424,6 @@
       "level": "A2-1"
     },
     {
-      "kana": "つぎ",
-      "romaji": "tsugi",
-      "english": "next/following",
-      "level": "A2-1"
-    },
-    {
       "kana": "なにか",
       "kanji": "何か",
       "romaji": "nani ka",
@@ -7930,13 +6452,6 @@
       "level": "A2-1"
     },
     {
-      "kana": "やさい",
-      "kanji": "野菜",
-      "romaji": "yasai",
-      "english": "vegetable",
-      "level": "A2-1"
-    },
-    {
       "kana": "アンケート",
       "romaji": "ankeeto",
       "english": "questionnaire",
@@ -7961,21 +6476,9 @@
       "level": "A2-1"
     },
     {
-      "kana": "ジム",
-      "romaji": "jimu",
-      "english": "gym",
-      "level": "A2-1"
-    },
-    {
       "kana": "ジョギング",
       "romaji": "jogingu",
       "english": "jogging",
-      "level": "A2-1"
-    },
-    {
-      "kana": "スポーツ",
-      "romaji": "supootsu",
-      "english": "sports",
       "level": "A2-1"
     },
     {
@@ -8016,22 +6519,9 @@
     },
     {
       "kana": "あかちゃん",
-      "kanji": "あかちゃん（赤ちゃん）",
       "romaji": "akachan",
       "english": "baby",
-      "level": "A2-1"
-    },
-    {
-      "kana": "あげます",
-      "romaji": "agemasu",
-      "english": "to give",
-      "level": "A2-1"
-    },
-    {
-      "kana": "あそびます",
-      "romaji": "asobimasu",
-      "english": "to play",
-      "level": "A2-1"
+      "level": "A2-2"
     },
     {
       "kana": "いいでしょう",
@@ -8040,18 +6530,11 @@
       "level": "A2-1"
     },
     {
-      "kana": "いろ",
-      "kanji": "色",
-      "romaji": "iro",
-      "english": "colour",
-      "level": "A2-1"
-    },
-    {
       "kana": "うまれます",
-      "kanji": "うまれます（生まれます）",
+      "kanji": "生まれます",
       "romaji": "umaremasu",
       "english": "to be born",
-      "level": "A2-1"
+      "level": "A2-2"
     },
     {
       "kana": "おいわい",
@@ -8062,9 +6545,10 @@
     },
     {
       "kana": "おなじ",
+      "kanji": "同じ",
       "romaji": "onaji",
       "english": "same",
-      "level": "A2-1"
+      "level": "A2-2"
     },
     {
       "kana": "おもちゃ",
@@ -8091,18 +6575,11 @@
       "level": "A2-1"
     },
     {
-      "kana": "きに　いります",
-      "kanji": "きに　いります(気に　入ります)",
+      "kana": "きに いります",
+      "kanji": "気に　いります",
       "romaji": "ki ni irimasu",
       "english": "to like～.",
-      "level": "A2-1"
-    },
-    {
-      "kana": "きます",
-      "kanji": "着ます",
-      "romaji": "kimasu",
-      "english": "to wear/to put on",
-      "level": "A2-1"
+      "level": "A2-2"
     },
     {
       "kana": "けっこん",
@@ -8112,10 +6589,10 @@
       "level": "A2-1"
     },
     {
-      "kana": "しゅうしょく",
+      "kana": "しゅうしょく(します)",
       "romaji": "shuushoku",
       "english": "getting a job",
-      "level": "A2-1"
+      "level": "A2-2"
     },
     {
       "kana": "しゅっさん",
@@ -8124,42 +6601,29 @@
       "level": "A2-1"
     },
     {
-      "kana": "じょうず（な）",
-      "kanji": "じょうず（な）（上手な）",
+      "kana": "じょうず(な)",
+      "kanji": "上手(な)",
       "romaji": "joozu(na)",
       "english": "be good at",
-      "level": "A2-1"
+      "level": "A2-2"
     },
     {
-      "kana": "すてき（な）",
+      "kana": "すてき(な)",
       "romaji": "suteki(na)",
       "english": "lovely",
-      "level": "A2-1"
+      "level": "A2-2"
     },
     {
-      "kana": "そつぎょう",
+      "kana": "そつぎょう(します)",
+      "kanji": "卒業(します)",
       "romaji": "sotsugyoo",
-      "english": "graduation",
-      "level": "A2-1"
+      "english": "graduation (to graduate)",
+      "level": "A2-2"
     },
     {
       "kana": "たとえば",
       "romaji": "tatoeba",
       "english": "for example",
-      "level": "A2-1"
-    },
-    {
-      "kana": "たんじょうび",
-      "kanji": "誕生日",
-      "romaji": "tanjoobi",
-      "english": "birthday",
-      "level": "A2-1"
-    },
-    {
-      "kana": "とけい",
-      "kanji": "時計",
-      "romaji": "tokee",
-      "english": "clock",
       "level": "A2-1"
     },
     {
@@ -8172,19 +6636,6 @@
       "kana": "にゅうがく",
       "romaji": "nyuugaku",
       "english": "entering school",
-      "level": "A2-1"
-    },
-    {
-      "kana": "ひ",
-      "kanji": "日",
-      "romaji": "hi",
-      "english": "day",
-      "level": "A2-1"
-    },
-    {
-      "kana": "へや",
-      "romaji": "heya",
-      "english": "room",
       "level": "A2-1"
     },
     {
@@ -8209,12 +6660,6 @@
       "kana": "コーヒーカップ",
       "romaji": "koohii-kappu",
       "english": "coffee cup",
-      "level": "A2-1"
-    },
-    {
-      "kana": "シャツ",
-      "romaji": "shatsu",
-      "english": "shirt",
       "level": "A2-1"
     },
     {
@@ -8260,22 +6705,9 @@
       "level": "A2-1"
     },
     {
-      "kana": "いえ",
-      "kanji": "家",
-      "romaji": "ie",
-      "english": "house",
-      "level": "A2-1"
-    },
-    {
       "kana": "いつまでも",
       "romaji": "itsumademo",
       "english": "forever",
-      "level": "A2-1"
-    },
-    {
-      "kana": "うれしい",
-      "romaji": "ureshii",
-      "english": "happy/glad/delighted",
       "level": "A2-1"
     },
     {
@@ -8323,10 +6755,11 @@
       "level": "A2-1"
     },
     {
-      "kana": "しあわせ（な）",
+      "kana": "しあわせ(な)",
+      "kanji": "幸せ(な)",
       "romaji": "shiawase(na)",
       "english": "happy",
-      "level": "A2-1"
+      "level": "A2-2"
     },
     {
       "kana": "たいせつに　します",
@@ -8341,23 +6774,11 @@
       "level": "A2-1"
     },
     {
-      "kana": "ひつよう（な）",
+      "kana": "ひつよう(な)",
+      "kanji": "必要(な)",
       "romaji": "hitsuyoo(na)",
       "english": "necessary",
-      "level": "A2-1"
-    },
-    {
-      "kana": "ふたり",
-      "kanji": "２人／二人",
-      "romaji": "futari",
-      "english": "two people",
-      "level": "A2-1"
-    },
-    {
-      "kana": "ほしい",
-      "romaji": "hoshii",
-      "english": "I want～",
-      "level": "A2-1"
+      "level": "A2-2"
     },
     {
       "kana": "みんな",
@@ -8367,15 +6788,10 @@
     },
     {
       "kana": "よろこびます",
+      "kanji": "喜びます",
       "romaji": "yorokobimasu",
       "english": "to be pleased",
-      "level": "A2-1"
-    },
-    {
-      "kana": "カード",
-      "romaji": "kaado",
-      "english": "card",
-      "level": "A2-1"
+      "level": "A2-2"
     },
     {
       "kana": "クラス",
@@ -8384,88 +6800,15 @@
       "level": "A2-1"
     },
     {
-      "kana": "パーティー",
-      "romaji": "paathii",
-      "english": "party",
-      "level": "A2-1"
-    },
-    {
-      "kana": "あかるい",
-      "kanji": "明るい",
-      "romaji": "akarui",
-      "english": "bright",
-      "level": "A2-2"
-    },
-    {
-      "kana": "あたらしい",
-      "kanji": "新しい",
-      "romaji": "atarashii",
-      "english": "new",
-      "level": "A2-2"
-    },
-    {
-      "kana": "いい",
-      "romaji": "ii",
-      "english": "nice/good",
-      "level": "A2-2"
-    },
-    {
-      "kana": "いきます",
-      "kanji": "行きます",
-      "romaji": "ikimasu",
-      "english": "to go",
-      "level": "A2-2"
-    },
-    {
-      "kana": "いつか",
-      "romaji": "itsuka",
-      "english": "sometime/someday",
-      "level": "A2-2"
-    },
-    {
-      "kana": "いみ",
-      "kanji": "意味",
-      "romaji": "imi",
-      "english": "meaning",
-      "level": "A2-2"
-    },
-    {
-      "kana": "うえ",
-      "kanji": "上",
-      "romaji": "ue",
-      "english": "on/above",
-      "level": "A2-2"
-    },
-    {
       "kana": "うふふ",
       "romaji": "ufufu",
       "english": "hehehe(chuckle/giggle/titter)",
       "level": "A2-2"
     },
     {
-      "kana": "うまれます",
-      "kanji": "生まれます",
-      "romaji": "umaremasu",
-      "english": "to be born",
-      "level": "A2-2"
-    },
-    {
-      "kana": "えいが",
-      "kanji": "映画",
-      "romaji": "eega",
-      "english": "movie/film",
-      "level": "A2-2"
-    },
-    {
       "kana": "ええと／えっと／ええっと",
       "romaji": "eeto/etto/eetto",
       "english": "well…/umm…",
-      "level": "A2-2"
-    },
-    {
-      "kana": "え／えっ",
-      "romaji": "e",
-      "english": "eh?/huh?/well! (used to show a little surprise)",
       "level": "A2-2"
     },
     {
@@ -8476,76 +6819,15 @@
       "level": "A2-2"
     },
     {
-      "kana": "おなじ",
-      "kanji": "同じ",
-      "romaji": "onaji",
-      "english": "same",
-      "level": "A2-2"
-    },
-    {
-      "kana": "かいしゃ",
-      "kanji": "会社",
-      "romaji": "kaisha",
-      "english": "company/firm",
-      "level": "A2-2"
-    },
-    {
-      "kana": "かいます",
-      "kanji": "買います",
-      "romaji": "kaimasu",
-      "english": "to buy",
-      "level": "A2-2"
-    },
-    {
-      "kana": "かぞく",
-      "kanji": "家族",
-      "romaji": "kazoku",
-      "english": "family",
-      "level": "A2-2"
-    },
-    {
-      "kana": "がっこう",
-      "kanji": "学校",
-      "romaji": "gakkoo",
-      "english": "school",
-      "level": "A2-2"
-    },
-    {
-      "kana": "きょうだい",
-      "romaji": "kyoodai",
-      "english": "brothers and sisters",
-      "level": "A2-2"
-    },
-    {
       "kana": "きょうみ",
       "romaji": "kyoomi",
       "english": "interest",
       "level": "A2-2"
     },
     {
-      "kana": "くに",
-      "kanji": "国",
-      "romaji": "kuni",
-      "english": "country",
-      "level": "A2-2"
-    },
-    {
       "kana": "けんこう(な)",
       "romaji": "kenkoo(na)",
       "english": "healthy",
-      "level": "A2-2"
-    },
-    {
-      "kana": "こ",
-      "kanji": "子",
-      "romaji": "ko",
-      "english": "child",
-      "level": "A2-2"
-    },
-    {
-      "kana": "こと",
-      "romaji": "koto",
-      "english": "things/matters",
       "level": "A2-2"
     },
     {
@@ -8562,12 +6844,6 @@
       "level": "A2-2"
     },
     {
-      "kana": "さいきん",
-      "romaji": "saikin",
-      "english": "recently",
-      "level": "A2-2"
-    },
-    {
       "kana": "さいたま",
       "romaji": "Saitama",
       "english": "Saitama (name of a place/prefecture, in Japan)",
@@ -8581,32 +6857,6 @@
       "level": "A2-2"
     },
     {
-      "kana": "しごと",
-      "kanji": "仕事",
-      "romaji": "shigoto",
-      "english": "job/work",
-      "level": "A2-2"
-    },
-    {
-      "kana": "した",
-      "kanji": "下",
-      "romaji": "shita",
-      "english": "under/below",
-      "level": "A2-2"
-    },
-    {
-      "kana": "します",
-      "romaji": "shimasu",
-      "english": "to do",
-      "level": "A2-2"
-    },
-    {
-      "kana": "しゅみ",
-      "romaji": "shumi",
-      "english": "hobby/interest",
-      "level": "A2-2"
-    },
-    {
       "kana": "じこしょうかい（します）",
       "kanji": "自己紹介（します）",
       "romaji": "jikoshookai (shimasu)",
@@ -8614,88 +6864,9 @@
       "level": "A2-2"
     },
     {
-      "kana": "じてんしゃ",
-      "kanji": "自転車",
-      "romaji": "jitensha",
-      "english": "bicycle",
-      "level": "A2-2"
-    },
-    {
-      "kana": "すき(な)",
-      "kanji": "好き(な)",
-      "romaji": "suki(na)",
-      "english": "like/favorite",
-      "level": "A2-2"
-    },
-    {
-      "kana": "すみます",
-      "kanji": "住みます",
-      "romaji": "sumimasu",
-      "english": "to live",
-      "level": "A2-2"
-    },
-    {
-      "kana": "すみません",
-      "romaji": "sumimasen",
-      "english": "Excuse me./I'm sorry.",
-      "level": "A2-2"
-    },
-    {
-      "kana": "ぜひ",
-      "romaji": "zehi",
-      "english": "by all means",
-      "level": "A2-2"
-    },
-    {
-      "kana": "たんじょうび",
-      "kanji": "誕生日",
-      "romaji": "tanjoobi",
-      "english": "birthday",
-      "level": "A2-2"
-    },
-    {
       "kana": "だから",
       "romaji": "dakara",
       "english": "so/that's why/because",
-      "level": "A2-2"
-    },
-    {
-      "kana": "でんきてん",
-      "kanji": "電気店",
-      "romaji": "denkiten",
-      "english": "electronics store",
-      "level": "A2-2"
-    },
-    {
-      "kana": "でんしゃ",
-      "kanji": "電車",
-      "romaji": "densha",
-      "english": "train",
-      "level": "A2-2"
-    },
-    {
-      "kana": "とうきょう",
-      "kanji": "東京",
-      "romaji": "Tookyoo",
-      "english": "Tokyo",
-      "level": "A2-2"
-    },
-    {
-      "kana": "とおい",
-      "romaji": "tooi",
-      "english": "far",
-      "level": "A2-2"
-    },
-    {
-      "kana": "とくに",
-      "romaji": "toku ni",
-      "english": "especially",
-      "level": "A2-2"
-    },
-    {
-      "kana": "ところ",
-      "romaji": "tokoro",
-      "english": "place",
       "level": "A2-2"
     },
     {
@@ -8706,30 +6877,9 @@
       "level": "A2-2"
     },
     {
-      "kana": "ともだち",
-      "kanji": "友だち",
-      "romaji": "tomodachi",
-      "english": "friend",
-      "level": "A2-2"
-    },
-    {
       "kana": "どういう",
       "romaji": "dooyuu",
       "english": "What kind of～? / how",
-      "level": "A2-2"
-    },
-    {
-      "kana": "どうぞ よろしく （おねがいします）",
-      "kanji": "どうぞ よろしく （お願いします）",
-      "romaji": "doozo yoroshiku (onegaishimasu)",
-      "english": "Pleased to meet you.",
-      "level": "A2-2"
-    },
-    {
-      "kana": "どくしょ",
-      "kanji": "読書",
-      "romaji": "dokusho",
-      "english": "reading",
       "level": "A2-2"
     },
     {
@@ -8739,49 +6889,9 @@
       "level": "A2-2"
     },
     {
-      "kana": "どんな",
-      "romaji": "donna",
-      "english": "What kind of～?",
-      "level": "A2-2"
-    },
-    {
-      "kana": "なまえ",
-      "kanji": "名前",
-      "romaji": "namae",
-      "english": "name",
-      "level": "A2-2"
-    },
-    {
-      "kana": "にほん／にっぽん",
-      "kanji": "日本",
-      "romaji": "Nihon/Nippon",
-      "english": "Japan",
-      "level": "A2-2"
-    },
-    {
-      "kana": "はじめまして",
-      "romaji": "hajimemashite",
-      "english": "How do you do?/Nice to meet you.",
-      "level": "A2-2"
-    },
-    {
-      "kana": "はたらきます",
-      "kanji": "働きます",
-      "romaji": "hatarakimasu",
-      "english": "to work",
-      "level": "A2-2"
-    },
-    {
       "kana": "ははは",
       "romaji": "hahaha",
       "english": "hahaha (laughter)",
-      "level": "A2-2"
-    },
-    {
-      "kana": "はる",
-      "kanji": "春",
-      "romaji": "haru",
-      "english": "spring",
       "level": "A2-2"
     },
     {
@@ -8789,13 +6899,6 @@
       "kanji": "東",
       "romaji": "higashi",
       "english": "east",
-      "level": "A2-2"
-    },
-    {
-      "kana": "ひと",
-      "kanji": "人",
-      "romaji": "hito",
-      "english": "person",
       "level": "A2-2"
     },
     {
@@ -8811,36 +6914,9 @@
       "level": "A2-2"
     },
     {
-      "kana": "ほんやく(します)",
-      "romaji": "hon'yaku",
-      "english": "translation, (to translate)",
-      "level": "A2-2"
-    },
-    {
       "kana": "まじめ(な)",
       "romaji": "majime(na)",
       "english": "serious/dependable",
-      "level": "A2-2"
-    },
-    {
-      "kana": "まち",
-      "kanji": "町",
-      "romaji": "machi",
-      "english": "town",
-      "level": "A2-2"
-    },
-    {
-      "kana": "みせ",
-      "kanji": "店",
-      "romaji": "mise",
-      "english": "store",
-      "level": "A2-2"
-    },
-    {
-      "kana": "みます",
-      "kanji": "見ます",
-      "romaji": "mimasu",
-      "english": "to see/to look at",
       "level": "A2-2"
     },
     {
@@ -8864,40 +6940,9 @@
       "level": "A2-2"
     },
     {
-      "kana": "もの",
-      "romaji": "mono",
-      "english": "thing(s)/goods",
-      "level": "A2-2"
-    },
-    {
-      "kana": "やさしい",
-      "romaji": "yasashii",
-      "english": "kind",
-      "level": "A2-2"
-    },
-    {
-      "kana": "やります",
-      "romaji": "yarimasu",
-      "english": "to run (a shop)",
-      "level": "A2-2"
-    },
-    {
-      "kana": "よく",
-      "romaji": "yoku",
-      "english": "often",
-      "level": "A2-2"
-    },
-    {
       "kana": "よびます",
       "romaji": "yobimasu",
       "english": "to call",
-      "level": "A2-2"
-    },
-    {
-      "kana": "よみます",
-      "kanji": "読みます",
-      "romaji": "yomimasu",
-      "english": "to read",
       "level": "A2-2"
     },
     {
@@ -8907,121 +6952,15 @@
       "level": "A2-2"
     },
     {
-      "kana": "わたし",
-      "kanji": "私",
-      "romaji": "watashi",
-      "english": "I/me",
-      "level": "A2-2"
-    },
-    {
-      "kana": "アニメ",
-      "romaji": "anime",
-      "english": "anime/animated cartoons",
-      "level": "A2-2"
-    },
-    {
-      "kana": "アメリカ",
-      "romaji": "Amerika",
-      "english": "America/U.S.A.",
-      "level": "A2-2"
-    },
-    {
       "kana": "インド",
       "romaji": "Indo",
       "english": "India",
       "level": "A2-2"
     },
     {
-      "kana": "クラス",
-      "romaji": "kurasu",
-      "english": "class",
-      "level": "A2-2"
-    },
-    {
-      "kana": "スキー",
-      "romaji": "sukii",
-      "english": "ski",
-      "level": "A2-2"
-    },
-    {
-      "kana": "ダンス",
-      "romaji": "dansu",
-      "english": "dance",
-      "level": "A2-2"
-    },
-    {
-      "kana": "テレビ",
-      "romaji": "terebi",
-      "english": "television",
-      "level": "A2-2"
-    },
-    {
-      "kana": "マンガ",
-      "romaji": "manga",
-      "english": "manga/comic books/comic strips",
-      "level": "A2-2"
-    },
-    {
       "kana": "ミュージカル",
       "romaji": "myuujikaru",
       "english": "musical",
-      "level": "A2-2"
-    },
-    {
-      "kana": "メキシコ",
-      "romaji": "Mekishiko",
-      "english": "Mexico",
-      "level": "A2-2"
-    },
-    {
-      "kana": "レストラン",
-      "romaji": "resutoran",
-      "english": "restaurant",
-      "level": "A2-2"
-    },
-    {
-      "kana": "ロシア",
-      "romaji": "Roshia",
-      "english": "Russia",
-      "level": "A2-2"
-    },
-    {
-      "kana": "～がつ",
-      "kanji": "～月",
-      "romaji": "～gatsu",
-      "english": "month",
-      "level": "A2-2"
-    },
-    {
-      "kana": "～さい",
-      "romaji": "～sai",
-      "english": "～years old",
-      "level": "A2-2"
-    },
-    {
-      "kana": "～さん",
-      "romaji": "～san",
-      "english": "Mr./Ms./Mrs.～",
-      "level": "A2-2"
-    },
-    {
-      "kana": "～に　きょうみが あります",
-      "romaji": "～ni kyoomi ga arimasu",
-      "english": "to be interested in～.",
-      "level": "A2-2"
-    },
-    {
-      "kana": "～にち",
-      "kanji": "～日",
-      "romaji": "～nichi",
-      "english": "day",
-      "level": "A2-2"
-    },
-    {
-      "kana": "～にん",
-      "kanji": "～人",
-      "romaji": "～nin",
-      "english": "(counter for people)",
       "level": "A2-2"
     },
     {
@@ -9032,49 +6971,10 @@
       "level": "A2-2"
     },
     {
-      "kana": "あかい",
-      "kanji": "赤い",
-      "romaji": "akai",
-      "english": "red",
-      "level": "A2-2"
-    },
-    {
-      "kana": "あそこ",
-      "romaji": "asoko",
-      "english": "over there",
-      "level": "A2-2"
-    },
-    {
-      "kana": "あたま",
-      "kanji": "頭",
-      "romaji": "atama",
-      "english": "head",
-      "level": "A2-2"
-    },
-    {
       "kana": "あたまが いい",
       "kanji": "頭が いい",
       "romaji": "atama ga ii",
       "english": "intelligent /smart",
-      "level": "A2-2"
-    },
-    {
-      "kana": "あなた",
-      "romaji": "anata",
-      "english": "you",
-      "level": "A2-2"
-    },
-    {
-      "kana": "あね",
-      "kanji": "姉",
-      "romaji": "ane",
-      "english": "(my) elder sister",
-      "level": "A2-2"
-    },
-    {
-      "kana": "あの",
-      "romaji": "ano",
-      "english": "that [Noun]",
       "level": "A2-2"
     },
     {
@@ -9087,18 +6987,6 @@
       "kana": "いいえ／いえ",
       "romaji": "iie/ie",
       "english": "No.",
-      "level": "A2-2"
-    },
-    {
-      "kana": "いっしょに",
-      "romaji": "issho ni",
-      "english": "together",
-      "level": "A2-2"
-    },
-    {
-      "kana": "おくさん",
-      "romaji": "okusan",
-      "english": "(someone else's) wife",
       "level": "A2-2"
     },
     {
@@ -9123,26 +7011,6 @@
       "level": "A2-2"
     },
     {
-      "kana": "おねえさん",
-      "kanji": "お姉さん",
-      "romaji": "oneesan",
-      "english": "(someone else's) elder sister",
-      "level": "A2-2"
-    },
-    {
-      "kana": "おもしろい",
-      "romaji": "omoshiroi",
-      "english": "funny/interesting",
-      "level": "A2-2"
-    },
-    {
-      "kana": "およぎます",
-      "kanji": "泳ぎます",
-      "romaji": "oyogimasu",
-      "english": "to swim",
-      "level": "A2-2"
-    },
-    {
       "kana": "おんなのひと",
       "kanji": "女の人",
       "romaji": "onna-no-hito",
@@ -9157,33 +7025,10 @@
       "level": "A2-2"
     },
     {
-      "kana": "かた",
-      "romaji": "kata",
-      "english": "person (formal form)",
-      "level": "A2-2"
-    },
-    {
-      "kana": "かっこいい",
-      "romaji": "kakkoii",
-      "english": "cool/good-looking",
-      "level": "A2-2"
-    },
-    {
       "kana": "かみ",
+      "kanji": "紙",
       "romaji": "kami",
-      "english": "hair",
-      "level": "A2-2"
-    },
-    {
-      "kana": "かれ",
-      "romaji": "kare",
-      "english": "he/him/boyfriend",
-      "level": "A2-2"
-    },
-    {
-      "kana": "かわいい",
-      "romaji": "kawaii",
-      "english": "cute",
+      "english": "paper",
       "level": "A2-2"
     },
     {
@@ -9199,64 +7044,6 @@
       "level": "A2-2"
     },
     {
-      "kana": "きます",
-      "kanji": "着ます",
-      "romaji": "kimasu",
-      "english": "to wear/to put on",
-      "level": "A2-2"
-    },
-    {
-      "kana": "きれい（な）",
-      "romaji": "kiree(na)",
-      "english": "beautiful",
-      "level": "A2-2"
-    },
-    {
-      "kana": "げんき(な)",
-      "kanji": "元気(な)",
-      "romaji": "genki(na)",
-      "english": "vigorous",
-      "level": "A2-2"
-    },
-    {
-      "kana": "この",
-      "romaji": "kono",
-      "english": "this～ [Noun]",
-      "level": "A2-2"
-    },
-    {
-      "kana": "こんど",
-      "romaji": "kondo",
-      "english": "next time",
-      "level": "A2-2"
-    },
-    {
-      "kana": "こんにちは",
-      "romaji": "konnichiwa",
-      "english": "Hello.",
-      "level": "A2-2"
-    },
-    {
-      "kana": "ごしゅじん",
-      "romaji": "goshujin",
-      "english": "(someone else's) husband",
-      "level": "A2-2"
-    },
-    {
-      "kana": "しゅっちょう",
-      "kanji": "出張",
-      "romaji": "shucchoo",
-      "english": "business trip",
-      "level": "A2-2"
-    },
-    {
-      "kana": "しろい",
-      "kanji": "白い",
-      "romaji": "shiroi",
-      "english": "white",
-      "level": "A2-2"
-    },
-    {
       "kana": "すわります",
       "romaji": "suwarimasu",
       "english": "to sit down",
@@ -9269,41 +7056,9 @@
       "level": "A2-2"
     },
     {
-      "kana": "ぜんぜん",
-      "romaji": "zenzen",
-      "english": "not at all",
-      "level": "A2-2"
-    },
-    {
-      "kana": "そう",
-      "romaji": "soo",
-      "english": "so",
-      "level": "A2-2"
-    },
-    {
-      "kana": "たかい",
-      "kanji": "高い",
-      "romaji": "takai",
-      "english": "high",
-      "level": "A2-2"
-    },
-    {
       "kana": "たちます",
       "romaji": "tachimasu",
       "english": "to stand",
-      "level": "A2-2"
-    },
-    {
-      "kana": "だいすき(な)",
-      "kanji": "大好き(な)",
-      "romaji": "daisuki(na)",
-      "english": "like very much",
-      "level": "A2-2"
-    },
-    {
-      "kana": "だれ",
-      "romaji": "dare",
-      "english": "who",
       "level": "A2-2"
     },
     {
@@ -9319,28 +7074,9 @@
       "level": "A2-2"
     },
     {
-      "kana": "ながい",
-      "kanji": "長い",
-      "romaji": "nagai",
-      "english": "long",
-      "level": "A2-2"
-    },
-    {
       "kana": "なきます",
       "romaji": "nakimasu",
       "english": "to cry",
-      "level": "A2-2"
-    },
-    {
-      "kana": "はい",
-      "romaji": "hai",
-      "english": "yes",
-      "level": "A2-2"
-    },
-    {
-      "kana": "はきます",
-      "romaji": "hakimasu",
-      "english": "to put on/to wear (on the feet)",
       "level": "A2-2"
     },
     {
@@ -9380,13 +7116,6 @@
       "level": "A2-2"
     },
     {
-      "kana": "もちます",
-      "kanji": "持ちます",
-      "romaji": "mochimasu",
-      "english": "to have/to carry",
-      "level": "A2-2"
-    },
-    {
       "kana": "わらいます",
       "romaji": "waraimasu",
       "english": "to laugh",
@@ -9399,39 +7128,9 @@
       "level": "A2-2"
     },
     {
-      "kana": "シャツ",
-      "romaji": "shatsu",
-      "english": "shirt",
-      "level": "A2-2"
-    },
-    {
-      "kana": "ジーンズ",
-      "romaji": "jiinzu",
-      "english": "jeans",
-      "level": "A2-2"
-    },
-    {
-      "kana": "スカート",
-      "romaji": "sukaato",
-      "english": "skirt",
-      "level": "A2-2"
-    },
-    {
       "kana": "ドレス",
       "romaji": "doresu",
       "english": "dress",
-      "level": "A2-2"
-    },
-    {
-      "kana": "ネクタイ",
-      "romaji": "nekutai",
-      "english": "necktie",
-      "level": "A2-2"
-    },
-    {
-      "kana": "バッグ",
-      "romaji": "baggu",
-      "english": "bag",
       "level": "A2-2"
     },
     {
@@ -9441,54 +7140,9 @@
       "level": "A2-2"
     },
     {
-      "kana": "あじ",
-      "kanji": "味",
-      "romaji": "aji",
-      "english": "taste/flavor",
-      "level": "A2-2"
-    },
-    {
-      "kana": "あたたかい",
-      "romaji": "atatakai",
-      "english": "warm",
-      "level": "A2-2"
-    },
-    {
-      "kana": "あと",
-      "kanji": "後",
-      "romaji": "ato",
-      "english": "after",
-      "level": "A2-2"
-    },
-    {
       "kana": "あの／あのう",
       "romaji": "ano/anoo",
       "english": "ah…/Excuse me/well…",
-      "level": "A2-2"
-    },
-    {
-      "kana": "あります",
-      "romaji": "arimasu",
-      "english": "there is/are/to have/(party, event, festival) to be held",
-      "level": "A2-2"
-    },
-    {
-      "kana": "いちばん",
-      "kanji": "一番",
-      "romaji": "ichiban",
-      "english": "the best/the most/number one",
-      "level": "A2-2"
-    },
-    {
-      "kana": "いつも",
-      "romaji": "itsumo",
-      "english": "always",
-      "level": "A2-2"
-    },
-    {
-      "kana": "いらっしゃいませ",
-      "romaji": "irasshaimase",
-      "english": "Welcome./May I help you?/What can do for you? (at a restaurant/a store)",
       "level": "A2-2"
     },
     {
@@ -9504,18 +7158,6 @@
       "level": "A2-2"
     },
     {
-      "kana": "えび",
-      "romaji": "ebi",
-      "english": "shrimp",
-      "level": "A2-2"
-    },
-    {
-      "kana": "おいしい",
-      "romaji": "oishii",
-      "english": "delicious/tasty",
-      "level": "A2-2"
-    },
-    {
       "kana": "おおきな",
       "kanji": "大きな",
       "romaji": "ookina",
@@ -9527,26 +7169,6 @@
       "kanji": "お魚",
       "romaji": "osakana",
       "english": "fish (polite expression)",
-      "level": "A2-2"
-    },
-    {
-      "kana": "おさけ／さけ",
-      "kanji": "お酒／酒",
-      "romaji": "osake/sake",
-      "english": "alcohol/sake (Japanese rice wine)",
-      "level": "A2-2"
-    },
-    {
-      "kana": "おすすめ",
-      "romaji": "osusume",
-      "english": "recommendation",
-      "level": "A2-2"
-    },
-    {
-      "kana": "おねがいします",
-      "kanji": "お願いします",
-      "romaji": "onegaishimasu",
-      "english": "Please./Please do.",
       "level": "A2-2"
     },
     {
@@ -9588,23 +7210,10 @@
       "level": "A2-2"
     },
     {
-      "kana": "からだ",
-      "kanji": "体",
-      "romaji": "karada",
-      "english": "body",
-      "level": "A2-2"
-    },
-    {
       "kana": "からだに いい",
       "kanji": "体に いい",
       "romaji": "karada ni ii",
       "english": "good for health",
-      "level": "A2-2"
-    },
-    {
-      "kana": "きせつ",
-      "romaji": "kisetsu",
-      "english": "season",
       "level": "A2-2"
     },
     {
@@ -9619,13 +7228,6 @@
       "kanji": "喫煙席",
       "romaji": "kitsuenseki",
       "english": "smoking seat",
-      "level": "A2-2"
-    },
-    {
-      "kana": "きます",
-      "kanji": "来ます",
-      "romaji": "kimasu",
-      "english": "to come",
       "level": "A2-2"
     },
     {
@@ -9657,25 +7259,6 @@
       "level": "A2-2"
     },
     {
-      "kana": "くるま",
-      "kanji": "車",
-      "romaji": "kuruma",
-      "english": "car",
-      "level": "A2-2"
-    },
-    {
-      "kana": "こちら",
-      "romaji": "kochira",
-      "english": "this way/this place (polite equivalent of ここ）",
-      "level": "A2-2"
-    },
-    {
-      "kana": "ことば",
-      "romaji": "kotoba",
-      "english": "language/word",
-      "level": "A2-2"
-    },
-    {
       "kana": "ごちゅうもん",
       "kanji": "ご注文",
       "romaji": "gochuumon",
@@ -9702,13 +7285,6 @@
       "level": "A2-2"
     },
     {
-      "kana": "さかな",
-      "kanji": "魚",
-      "romaji": "sakana",
-      "english": "fish",
-      "level": "A2-2"
-    },
-    {
       "kana": "さしみ",
       "romaji": "sashimi",
       "english": "sliced raw fish",
@@ -9724,13 +7300,6 @@
       "kana": "しゅうきょう",
       "romaji": "shuukyoo",
       "english": "religion",
-      "level": "A2-2"
-    },
-    {
-      "kana": "しょくじ",
-      "kanji": "食事",
-      "romaji": "shokuji",
-      "english": "meal",
       "level": "A2-2"
     },
     {
@@ -9758,12 +7327,6 @@
       "level": "A2-2"
     },
     {
-      "kana": "それ",
-      "romaji": "sore",
-      "english": "that",
-      "level": "A2-2"
-    },
-    {
       "kana": "それに します",
       "romaji": "sore ni shimasu",
       "english": "I’ll have that./I’ll do that.",
@@ -9777,25 +7340,6 @@
       "level": "A2-2"
     },
     {
-      "kana": "たべます",
-      "kanji": "食べます",
-      "romaji": "tabemasu",
-      "english": "to eat",
-      "level": "A2-2"
-    },
-    {
-      "kana": "ちかい",
-      "romaji": "chikai",
-      "english": "near",
-      "level": "A2-2"
-    },
-    {
-      "kana": "ちがいます",
-      "romaji": "chigaimasu",
-      "english": "wrong/(to be) different",
-      "level": "A2-2"
-    },
-    {
       "kana": "ちゅうもん(します)",
       "kanji": "注文(します)",
       "romaji": "chuumon（shimasu）",
@@ -9803,22 +7347,10 @@
       "level": "A2-2"
     },
     {
-      "kana": "ちょっと",
-      "romaji": "chotto",
-      "english": "a little/a few/a moment",
-      "level": "A2-2"
-    },
-    {
       "kana": "つめたい",
       "kanji": "冷たい",
       "romaji": "tsumetai",
       "english": "cold",
-      "level": "A2-2"
-    },
-    {
-      "kana": "てんぷら",
-      "romaji": "tenpura",
-      "english": "tempura",
       "level": "A2-2"
     },
     {
@@ -9841,19 +7373,6 @@
       "level": "A2-2"
     },
     {
-      "kana": "どうぞ",
-      "romaji": "doozo",
-      "english": "Please./Here you are.",
-      "level": "A2-2"
-    },
-    {
-      "kana": "なに",
-      "kanji": "何",
-      "romaji": "nani",
-      "english": "what",
-      "level": "A2-2"
-    },
-    {
       "kana": "なべ",
       "romaji": "nabe",
       "english": "hot pot",
@@ -9867,92 +7386,15 @@
       "level": "A2-2"
     },
     {
-      "kana": "にがて(な)",
-      "kanji": "苦手(な)",
-      "romaji": "nigate(na)",
-      "english": "to be poor at/dislike/to have trouble",
-      "level": "A2-2"
-    },
-    {
-      "kana": "にく",
-      "kanji": "肉",
-      "romaji": "niku",
-      "english": "meat",
-      "level": "A2-2"
-    },
-    {
-      "kana": "にほんしゅ",
-      "kanji": "日本酒",
-      "romaji": "nihonshu",
-      "english": "Japanese sake/rice wine",
-      "level": "A2-2"
-    },
-    {
-      "kana": "にんき",
-      "kanji": "人気",
-      "romaji": "ninki",
-      "english": "popularity",
-      "level": "A2-2"
-    },
-    {
-      "kana": "のみます",
-      "kanji": "飲みます",
-      "romaji": "nomimasu",
-      "english": "to drink",
-      "level": "A2-2"
-    },
-    {
       "kana": "はあ",
       "romaji": "haa",
       "english": "I see.",
       "level": "A2-2"
     },
     {
-      "kana": "はいります",
-      "kanji": "入ります",
-      "romaji": "hairimasu",
-      "english": "to enter/to get into",
-      "level": "A2-2"
-    },
-    {
-      "kana": "ひとつ",
-      "kanji": "１つ／一つ",
-      "romaji": "hitotsu",
-      "english": "one (for thing)",
-      "level": "A2-2"
-    },
-    {
-      "kana": "ふたつ",
-      "kanji": "２つ／二つ",
-      "romaji": "futatsu",
-      "english": "two (for things)",
-      "level": "A2-2"
-    },
-    {
-      "kana": "みっつ",
-      "kanji": "３つ／三つ",
-      "romaji": "mittsu",
-      "english": "three (for thing)",
-      "level": "A2-2"
-    },
-    {
-      "kana": "やさい",
-      "kanji": "野菜",
-      "romaji": "yasai",
-      "english": "vegetable",
-      "level": "A2-2"
-    },
-    {
       "kana": "やわらかい",
       "romaji": "yawarakai",
       "english": "soft",
-      "level": "A2-2"
-    },
-    {
-      "kana": "ゆうめい(な)",
-      "kanji": "有名(な)",
-      "romaji": "yuumee(na)",
-      "english": "famous",
       "level": "A2-2"
     },
     {
@@ -9972,13 +7414,6 @@
       "kana": "りゆう",
       "romaji": "riyuu",
       "english": "reason",
-      "level": "A2-2"
-    },
-    {
-      "kana": "りょうり",
-      "kanji": "料理",
-      "romaji": "ryoori",
-      "english": "dish/cooking",
       "level": "A2-2"
     },
     {
@@ -10002,45 +7437,9 @@
       "level": "A2-2"
     },
     {
-      "kana": "オレンジ",
-      "romaji": "orenji",
-      "english": "orange",
-      "level": "A2-2"
-    },
-    {
-      "kana": "オレンジジュース",
-      "romaji": "orenji-juusu",
-      "english": "orange juice",
-      "level": "A2-2"
-    },
-    {
       "kana": "カウンター",
       "romaji": "kauntaa",
       "english": "counter",
-      "level": "A2-2"
-    },
-    {
-      "kana": "コーヒー",
-      "romaji": "koohii",
-      "english": "coffee",
-      "level": "A2-2"
-    },
-    {
-      "kana": "コーラ",
-      "romaji": "koora",
-      "english": "cola",
-      "level": "A2-2"
-    },
-    {
-      "kana": "ジュース",
-      "romaji": "juusu",
-      "english": "juice",
-      "level": "A2-2"
-    },
-    {
-      "kana": "スープ",
-      "romaji": "suupu",
-      "english": "soup",
       "level": "A2-2"
     },
     {
@@ -10050,21 +7449,9 @@
       "level": "A2-2"
     },
     {
-      "kana": "テーブル",
-      "romaji": "teeburu",
-      "english": "table",
-      "level": "A2-2"
-    },
-    {
       "kana": "ドリンク",
       "romaji": "dorinku",
       "english": "drink",
-      "level": "A2-2"
-    },
-    {
-      "kana": "ビール",
-      "romaji": "biiru",
-      "english": "beer",
       "level": "A2-2"
     },
     {
@@ -10087,21 +7474,9 @@
       "level": "A2-2"
     },
     {
-      "kana": "～さま",
-      "romaji": "～sama",
-      "english": "Mr. ; Ms.(NAME+sama]…is a very polite expression to call someone, and used not only with person's name but with one's his/her post.)",
-      "level": "A2-2"
-    },
-    {
       "kana": "～じょう",
       "romaji": "～joo",
       "english": "due to～/based on～/for～(reasons, for example)",
-      "level": "A2-2"
-    },
-    {
-      "kana": "～に　します",
-      "romaji": "～ni shimasu",
-      "english": "(I) will choose～./(I) will decide on～.",
       "level": "A2-2"
     },
     {
@@ -10111,66 +7486,15 @@
       "level": "A2-2"
     },
     {
-      "kana": "あ",
-      "romaji": "a",
-      "english": "ah (exclamation)",
-      "level": "A2-2"
-    },
-    {
-      "kana": "あつい",
-      "kanji": "熱い",
-      "romaji": "atsui",
-      "english": "hot",
-      "level": "A2-2"
-    },
-    {
-      "kana": "あまい",
-      "romaji": "amai",
-      "english": "sweet",
-      "level": "A2-2"
-    },
-    {
-      "kana": "いただきます",
-      "romaji": "itadakimasu",
-      "english": "Thank you./I accept. (Said before starting to eat or drink /a polite way to say \"\"moraimasu\"\".)",
-      "level": "A2-2"
-    },
-    {
-      "kana": "いれます",
-      "kanji": "入れます",
-      "romaji": "iremasu",
-      "english": "to put in",
-      "level": "A2-2"
-    },
-    {
-      "kana": "いろ",
-      "kanji": "色",
-      "romaji": "iro",
-      "english": "colour",
-      "level": "A2-2"
-    },
-    {
       "kana": "うん",
       "romaji": "un",
       "english": "yeah/yup/okay/hmm (used as a casual expression for \"はい\" or when checking something for oneself)",
       "level": "A2-2"
     },
     {
-      "kana": "おなか",
-      "romaji": "onaka",
-      "english": "belly/stomach",
-      "level": "A2-2"
-    },
-    {
       "kana": "おなかが すきました",
       "romaji": "onaka ga sukimashita",
       "english": "I'm hungry.",
-      "level": "A2-2"
-    },
-    {
-      "kana": "からい",
-      "romaji": "karai",
-      "english": "hot/spicy/salty",
       "level": "A2-2"
     },
     {
@@ -10187,12 +7511,6 @@
       "level": "A2-2"
     },
     {
-      "kana": "かんぱい",
-      "romaji": "kanpai",
-      "english": "Cheers!",
-      "level": "A2-2"
-    },
-    {
       "kana": "かんぱい(します)",
       "romaji": "kanpai (shimasu)",
       "english": "toast/cheers! (to make/drink a toast)",
@@ -10202,25 +7520,6 @@
       "kana": "がまん",
       "romaji": "gaman",
       "english": "patience",
-      "level": "A2-2"
-    },
-    {
-      "kana": "ごはん",
-      "kanji": "ご飯",
-      "romaji": "gohan",
-      "english": "meal / rice",
-      "level": "A2-2"
-    },
-    {
-      "kana": "さいご",
-      "romaji": "saigo",
-      "english": "last",
-      "level": "A2-2"
-    },
-    {
-      "kana": "さら",
-      "romaji": "sara",
-      "english": "dish/plate",
       "level": "A2-2"
     },
     {
@@ -10240,38 +7539,6 @@
       "kana": "しょうゆを かけます",
       "romaji": "shooyu o kakemasu",
       "english": "to pour soy sauce",
-      "level": "A2-2"
-    },
-    {
-      "kana": "しょっぱい",
-      "romaji": "shoppai",
-      "english": "salty",
-      "level": "A2-2"
-    },
-    {
-      "kana": "じぶん",
-      "kanji": "自分",
-      "romaji": "jibun",
-      "english": "oneself",
-      "level": "A2-2"
-    },
-    {
-      "kana": "すきます",
-      "romaji": "sukimasu",
-      "english": "not full/not crowded",
-      "level": "A2-2"
-    },
-    {
-      "kana": "すこし",
-      "kanji": "少し",
-      "romaji": "sukoshi",
-      "english": "a little/a few",
-      "level": "A2-2"
-    },
-    {
-      "kana": "すっぱい",
-      "romaji": "suppai",
-      "english": "sour",
       "level": "A2-2"
     },
     {
@@ -10307,13 +7574,6 @@
       "level": "A2-2"
     },
     {
-      "kana": "たまご",
-      "kanji": "卵",
-      "romaji": "tamago",
-      "english": "egg",
-      "level": "A2-2"
-    },
-    {
       "kana": "たれ",
       "romaji": "tare",
       "english": "sauce",
@@ -10323,18 +7583,6 @@
       "kana": "たれを　つけます",
       "romaji": "tare o tsukemasu",
       "english": "dip/put sauce",
-      "level": "A2-2"
-    },
-    {
-      "kana": "だめ(な)",
-      "romaji": "dame(na)",
-      "english": "no good/not permitted/impossible",
-      "level": "A2-2"
-    },
-    {
-      "kana": "できます",
-      "romaji": "dekimasu",
-      "english": "be done, be ready",
       "level": "A2-2"
     },
     {
@@ -10356,28 +7604,9 @@
       "level": "A2-2"
     },
     {
-      "kana": "どうやって",
-      "romaji": "doo yatte",
-      "english": "how",
-      "level": "A2-2"
-    },
-    {
-      "kana": "なにも",
-      "kanji": "何も",
-      "romaji": "nani mo",
-      "english": "nothing",
-      "level": "A2-2"
-    },
-    {
       "kana": "におい",
       "romaji": "nioi",
       "english": "smell",
-      "level": "A2-2"
-    },
-    {
-      "kana": "にます",
-      "romaji": "nimasu",
-      "english": "to be similar",
       "level": "A2-2"
     },
     {
@@ -10390,13 +7619,6 @@
       "kana": "のどが かわきました",
       "romaji": "nodo ga kawakimashita",
       "english": "I'm thirsty.",
-      "level": "A2-2"
-    },
-    {
-      "kana": "のみもの",
-      "kanji": "飲み物",
-      "romaji": "nomimono",
-      "english": "drink",
       "level": "A2-2"
     },
     {
@@ -10415,43 +7637,6 @@
       "kana": "ふふふ",
       "romaji": "fufufu",
       "english": "hehehe (laughter)",
-      "level": "A2-2"
-    },
-    {
-      "kana": "まだ",
-      "romaji": "mada",
-      "english": "not yet",
-      "level": "A2-2"
-    },
-    {
-      "kana": "まちます",
-      "kanji": "待ちます",
-      "romaji": "machimasu",
-      "english": "to wait",
-      "level": "A2-2"
-    },
-    {
-      "kana": "みんな",
-      "romaji": "minna",
-      "english": "everyone",
-      "level": "A2-2"
-    },
-    {
-      "kana": "もう",
-      "romaji": "moo",
-      "english": "already",
-      "level": "A2-2"
-    },
-    {
-      "kana": "もう",
-      "romaji": "moo",
-      "english": "more",
-      "level": "A2-2"
-    },
-    {
-      "kana": "もっと",
-      "romaji": "motto",
-      "english": "more/-er",
       "level": "A2-2"
     },
     {
@@ -10486,13 +7671,6 @@
       "level": "A2-2"
     },
     {
-      "kana": "あつい",
-      "kanji": "暑い",
-      "romaji": "atsui",
-      "english": "hot",
-      "level": "A2-2"
-    },
-    {
       "kana": "いちねんじゅう",
       "kanji": "一年中",
       "romaji": "ichi-nen-juu",
@@ -10513,41 +7691,6 @@
       "level": "A2-2"
     },
     {
-      "kana": "おおい",
-      "kanji": "多い",
-      "romaji": "ooi",
-      "english": "lots of ～",
-      "level": "A2-2"
-    },
-    {
-      "kana": "おきなわ",
-      "kanji": "沖縄",
-      "romaji": "Okinawa",
-      "english": "Okinawa (name of a place/prefecture in Japan)",
-      "level": "A2-2"
-    },
-    {
-      "kana": "おもいます",
-      "kanji": "思います",
-      "romaji": "omoimasu",
-      "english": "to think",
-      "level": "A2-2"
-    },
-    {
-      "kana": "かえります",
-      "kanji": "帰ります",
-      "romaji": "kaerimasu",
-      "english": "to go home",
-      "level": "A2-2"
-    },
-    {
-      "kana": "かります",
-      "kanji": "借ります",
-      "romaji": "karimasu",
-      "english": "to  borrow",
-      "level": "A2-2"
-    },
-    {
       "kana": "かんこう(します)",
       "kanji": "観光(します)",
       "romaji": "kankoo (shimasu)",
@@ -10561,13 +7704,6 @@
       "level": "A2-2"
     },
     {
-      "kana": "くうこう",
-      "kanji": "空港",
-      "romaji": "kuukoo",
-      "english": "airport",
-      "level": "A2-2"
-    },
-    {
       "kana": "けしき",
       "romaji": "keshiki",
       "english": "view",
@@ -10577,13 +7713,6 @@
       "kana": "こみます",
       "romaji": "komimasu",
       "english": "to get crowded /to mix",
-      "level": "A2-2"
-    },
-    {
-      "kana": "さむい",
-      "kanji": "寒い",
-      "romaji": "samui",
-      "english": "cold",
       "level": "A2-2"
     },
     {
@@ -10614,53 +7743,9 @@
       "level": "A2-2"
     },
     {
-      "kana": "すばらしい",
-      "romaji": "subarashii",
-      "english": "amazing/wonderful",
-      "level": "A2-2"
-    },
-    {
-      "kana": "それから",
-      "romaji": "sorekara",
-      "english": "and then",
-      "level": "A2-2"
-    },
-    {
       "kana": "たいふう",
       "romaji": "taifuu",
       "english": "typhoon",
-      "level": "A2-2"
-    },
-    {
-      "kana": "たかい",
-      "kanji": "高い",
-      "romaji": "takai",
-      "english": "expensive",
-      "level": "A2-2"
-    },
-    {
-      "kana": "たべもの",
-      "kanji": "食べ物",
-      "romaji": "tabemono",
-      "english": "food",
-      "level": "A2-2"
-    },
-    {
-      "kana": "つかれます",
-      "romaji": "tsukaremasu",
-      "english": "to get tired",
-      "level": "A2-2"
-    },
-    {
-      "kana": "つきます",
-      "romaji": "tsukimasu",
-      "english": "to arrive",
-      "level": "A2-2"
-    },
-    {
-      "kana": "つゆ",
-      "romaji": "tsuyu",
-      "english": "rainy season",
       "level": "A2-2"
     },
     {
@@ -10670,27 +7755,9 @@
       "level": "A2-2"
     },
     {
-      "kana": "でも",
-      "romaji": "demo",
-      "english": "but",
-      "level": "A2-2"
-    },
-    {
       "kana": "で／それで",
       "romaji": "de/sorede",
       "english": "and then/so",
-      "level": "A2-2"
-    },
-    {
-      "kana": "とき",
-      "romaji": "toki",
-      "english": "time",
-      "level": "A2-2"
-    },
-    {
-      "kana": "どう",
-      "romaji": "doo",
-      "english": "how",
       "level": "A2-2"
     },
     {
@@ -10698,40 +7765,6 @@
       "kanji": "道具",
       "romaji": "doogu",
       "english": "tool",
-      "level": "A2-2"
-    },
-    {
-      "kana": "のります",
-      "kanji": "乗ります",
-      "romaji": "norimasu",
-      "english": "to get on/to ride",
-      "level": "A2-2"
-    },
-    {
-      "kana": "はやい",
-      "kanji": "早い",
-      "romaji": "hayai",
-      "english": "early",
-      "level": "A2-2"
-    },
-    {
-      "kana": "ひこうき",
-      "romaji": "hikooki",
-      "english": "plane",
-      "level": "A2-2"
-    },
-    {
-      "kana": "ひろい",
-      "kanji": "広い",
-      "romaji": "hiroi",
-      "english": "wide/spacious",
-      "level": "A2-2"
-    },
-    {
-      "kana": "ふね",
-      "kanji": "船",
-      "romaji": "fune",
-      "english": "ship",
       "level": "A2-2"
     },
     {
@@ -10760,13 +7793,6 @@
       "level": "A2-2"
     },
     {
-      "kana": "やすい",
-      "kanji": "安い",
-      "romaji": "yasui",
-      "english": "inexpensive/cheap",
-      "level": "A2-2"
-    },
-    {
       "kana": "ゆたか(な)",
       "romaji": "yutaka(na)",
       "english": "bountiful /rich",
@@ -10776,13 +7802,6 @@
       "kana": "ゆれます",
       "romaji": "yuremasu",
       "english": "to shake",
-      "level": "A2-2"
-    },
-    {
-      "kana": "よる",
-      "kanji": "夜",
-      "romaji": "yoru",
-      "english": "evening/night",
       "level": "A2-2"
     },
     {
@@ -10806,12 +7825,6 @@
       "level": "A2-2"
     },
     {
-      "kana": "コート",
-      "romaji": "kooto",
-      "english": "coat",
-      "level": "A2-2"
-    },
-    {
       "kana": "サングラス",
       "romaji": "sangurasu",
       "english": "sunglasses",
@@ -10821,18 +7834,6 @@
       "kana": "シーズン",
       "romaji": "shiizun",
       "english": "season",
-      "level": "A2-2"
-    },
-    {
-      "kana": "ジャケット",
-      "romaji": "jaketto",
-      "english": "jacket",
-      "level": "A2-2"
-    },
-    {
-      "kana": "タクシー",
-      "romaji": "takushii",
-      "english": "taxi",
       "level": "A2-2"
     },
     {
@@ -10848,40 +7849,9 @@
       "level": "A2-2"
     },
     {
-      "kana": "バス",
-      "romaji": "basu",
-      "english": "bus",
-      "level": "A2-2"
-    },
-    {
-      "kana": "ホテル",
-      "romaji": "hoteru",
-      "english": "hotel",
-      "level": "A2-2"
-    },
-    {
       "kana": "レンタル(します)",
       "romaji": "rentaru (shimasu)",
       "english": "rental (to rent)",
-      "level": "A2-2"
-    },
-    {
-      "kana": "～かい",
-      "kanji": "～回",
-      "romaji": "～kai",
-      "english": "times (frequency)",
-      "level": "A2-2"
-    },
-    {
-      "kana": "あまり",
-      "romaji": "amari",
-      "english": "not so (Adj); rarely/seldom (Verb)",
-      "level": "A2-2"
-    },
-    {
-      "kana": "ありがとうございました",
-      "romaji": "arigatoo gozaimashita",
-      "english": "Thank you.",
       "level": "A2-2"
     },
     {
@@ -10911,18 +7881,6 @@
       "level": "A2-2"
     },
     {
-      "kana": "ええ",
-      "romaji": "ee",
-      "english": "yes",
-      "level": "A2-2"
-    },
-    {
-      "kana": "おかし",
-      "romaji": "okashi",
-      "english": "sweets/confectionery",
-      "level": "A2-2"
-    },
-    {
       "kana": "おきなわガラス",
       "kanji": "沖縄ガラス",
       "romaji": "okinawa-garasu",
@@ -10937,12 +7895,6 @@
       "level": "A2-2"
     },
     {
-      "kana": "おどり",
-      "romaji": "odori",
-      "english": "dance",
-      "level": "A2-2"
-    },
-    {
       "kana": "おもいで",
       "kanji": "思い出",
       "romaji": "omoide",
@@ -10950,38 +7902,10 @@
       "level": "A2-2"
     },
     {
-      "kana": "おんがく",
-      "kanji": "音楽",
-      "romaji": "ongaku",
-      "english": "music",
-      "level": "A2-2"
-    },
-    {
-      "kana": "かきます",
-      "kanji": "書きます",
-      "romaji": "kakimasu",
-      "english": "to write",
-      "level": "A2-2"
-    },
-    {
       "kana": "かわ",
       "kanji": "川",
       "romaji": "kawa",
       "english": "river",
-      "level": "A2-2"
-    },
-    {
-      "kana": "ききます",
-      "kanji": "聞きます",
-      "romaji": "kikimasu",
-      "english": "to listen",
-      "level": "A2-2"
-    },
-    {
-      "kana": "きょう",
-      "kanji": "今日",
-      "romaji": "kyoo",
-      "english": "today",
       "level": "A2-2"
     },
     {
@@ -11013,35 +7937,10 @@
       "level": "A2-2"
     },
     {
-      "kana": "しつもん",
-      "romaji": "shitsumon",
-      "english": "question",
-      "level": "A2-2"
-    },
-    {
-      "kana": "じかん",
-      "kanji": "時間",
-      "romaji": "jikan",
-      "english": "time/hour",
-      "level": "A2-2"
-    },
-    {
       "kana": "じょせい",
       "kanji": "女性",
       "romaji": "josee",
       "english": "female",
-      "level": "A2-2"
-    },
-    {
-      "kana": "すいぞくかん",
-      "romaji": "suizokukan/suizokkan",
-      "english": "aquarium",
-      "level": "A2-2"
-    },
-    {
-      "kana": "すごい",
-      "romaji": "sugoi",
-      "english": "great/terrible",
       "level": "A2-2"
     },
     {
@@ -11055,13 +7954,6 @@
       "kana": "それなら",
       "romaji": "sorenara",
       "english": "in that case/if so",
-      "level": "A2-2"
-    },
-    {
-      "kana": "たのしい",
-      "kanji": "楽しい",
-      "romaji": "tanoshii",
-      "english": "fun/enjoyable",
       "level": "A2-2"
     },
     {
@@ -11081,26 +7973,6 @@
       "kana": "ちょうど いい",
       "romaji": "chooodoii",
       "english": "just right/perfect",
-      "level": "A2-2"
-    },
-    {
-      "kana": "つくります",
-      "kanji": "作ります",
-      "romaji": "tsukurimasu",
-      "english": "to make",
-      "level": "A2-2"
-    },
-    {
-      "kana": "とても",
-      "romaji": "totemo",
-      "english": "very",
-      "level": "A2-2"
-    },
-    {
-      "kana": "どうぶつ",
-      "kanji": "動物",
-      "romaji": "doobutsu",
-      "english": "animal",
       "level": "A2-2"
     },
     {
@@ -11129,22 +8001,9 @@
       "level": "A2-2"
     },
     {
-      "kana": "ぶんか",
-      "kanji": "文化",
-      "romaji": "bunka",
-      "english": "culture",
-      "level": "A2-2"
-    },
-    {
       "kana": "へえ",
       "romaji": "hee",
       "english": "aah…/Wow.",
-      "level": "A2-2"
-    },
-    {
-      "kana": "まあまあ(な)",
-      "romaji": "maamaa(na)",
-      "english": "so so",
       "level": "A2-2"
     },
     {
@@ -11155,28 +8014,10 @@
       "level": "A2-2"
     },
     {
-      "kana": "めずらしい",
-      "romaji": "mezurashii",
-      "english": "rare",
-      "level": "A2-2"
-    },
-    {
       "kana": "もり",
       "kanji": "森",
       "romaji": "mori",
       "english": "forest",
-      "level": "A2-2"
-    },
-    {
-      "kana": "アクセサリー",
-      "romaji": "akusesarii",
-      "english": "accessories",
-      "level": "A2-2"
-    },
-    {
-      "kana": "アンケート",
-      "romaji": "ankeeto",
-      "english": "questionnaire",
       "level": "A2-2"
     },
     {
@@ -11204,18 +8045,6 @@
       "level": "A2-2"
     },
     {
-      "kana": "コップ",
-      "romaji": "koppu",
-      "english": "glass/cup",
-      "level": "A2-2"
-    },
-    {
-      "kana": "ショー",
-      "romaji": "shoo",
-      "english": "show",
-      "level": "A2-2"
-    },
-    {
       "kana": "ツアー",
       "romaji": "tsuaa",
       "english": "tour",
@@ -11226,12 +8055,6 @@
       "kanji": "ツアー名",
       "romaji": "tuaamee",
       "english": "tour name",
-      "level": "A2-2"
-    },
-    {
-      "kana": "ネックレス",
-      "romaji": "nekkuresu",
-      "english": "necklace",
       "level": "A2-2"
     },
     {
@@ -11247,19 +8070,6 @@
       "level": "A2-2"
     },
     {
-      "kana": "あさ",
-      "kanji": "朝",
-      "romaji": "asa",
-      "english": "morning",
-      "level": "A2-2"
-    },
-    {
-      "kana": "あした",
-      "romaji": "ashita",
-      "english": "tomorrow",
-      "level": "A2-2"
-    },
-    {
       "kana": "あつまります",
       "kanji": "集まります",
       "romaji": "atsumarimasu",
@@ -11267,43 +8077,9 @@
       "level": "A2-2"
     },
     {
-      "kana": "あめ",
-      "kanji": "雨",
-      "romaji": "ame",
-      "english": "rain/rainy",
-      "level": "A2-2"
-    },
-    {
       "kana": "あんない(します)",
       "romaji": "annai (shimasu)",
       "english": "(to) guide /guidance",
-      "level": "A2-2"
-    },
-    {
-      "kana": "いす",
-      "romaji": "isu",
-      "english": "chair",
-      "level": "A2-2"
-    },
-    {
-      "kana": "いま",
-      "kanji": "今",
-      "romaji": "ima",
-      "english": "now",
-      "level": "A2-2"
-    },
-    {
-      "kana": "うけつけ",
-      "kanji": "受付",
-      "romaji": "uketsuke",
-      "english": "front desk/reception",
-      "level": "A2-2"
-    },
-    {
-      "kana": "おしえます",
-      "kanji": "教えます",
-      "romaji": "oshiemasu",
-      "english": "to tell / to teach",
       "level": "A2-2"
     },
     {
@@ -11320,13 +8096,6 @@
       "level": "A2-2"
     },
     {
-      "kana": "おわります",
-      "kanji": "終わります",
-      "romaji": "owarimasu",
-      "english": "to finish",
-      "level": "A2-2"
-    },
-    {
       "kana": "かいじょう",
       "kanji": "会場",
       "romaji": "kaijoo",
@@ -11334,41 +8103,9 @@
       "level": "A2-2"
     },
     {
-      "kana": "かきます",
-      "romaji": "kakimasu",
-      "english": "to draw",
-      "level": "A2-2"
-    },
-    {
       "kana": "かたづけ",
       "romaji": "katazuke",
       "english": "tidy up/clean up",
-      "level": "A2-2"
-    },
-    {
-      "kana": "ききます",
-      "kanji": "聞きます",
-      "romaji": "kikimasu",
-      "english": "to ask",
-      "level": "A2-2"
-    },
-    {
-      "kana": "きょうしつ",
-      "kanji": "教室",
-      "romaji": "kyooshitsu",
-      "english": "classroom",
-      "level": "A2-2"
-    },
-    {
-      "kana": "こたえます",
-      "romaji": "kotaemasu",
-      "english": "to answer",
-      "level": "A2-2"
-    },
-    {
-      "kana": "こちらこそ",
-      "romaji": "kochirakoso",
-      "english": "Same to you.",
       "level": "A2-2"
     },
     {
@@ -11396,13 +8133,6 @@
       "level": "A2-2"
     },
     {
-      "kana": "しります",
-      "kanji": "知ります",
-      "romaji": "shirimasu",
-      "english": "to know",
-      "level": "A2-2"
-    },
-    {
       "kana": "じしん",
       "romaji": "jishin",
       "english": "confidence",
@@ -11420,18 +8150,6 @@
       "kanji": "じゅんび（します）",
       "romaji": "junbi (shimasu)",
       "english": "preperation (to prepare)",
-      "level": "A2-2"
-    },
-    {
-      "kana": "その",
-      "romaji": "sono",
-      "english": "that [Noun]",
-      "level": "A2-2"
-    },
-    {
-      "kana": "たくさん",
-      "romaji": "takusan",
-      "english": "many/much",
       "level": "A2-2"
     },
     {
@@ -11455,19 +8173,6 @@
       "level": "A2-2"
     },
     {
-      "kana": "つうやく",
-      "romaji": "tsuuyaku",
-      "english": "interpreter",
-      "level": "A2-2"
-    },
-    {
-      "kana": "つかいます",
-      "kanji": "使います",
-      "romaji": "tsukaimasu",
-      "english": "to use",
-      "level": "A2-2"
-    },
-    {
       "kana": "つくえ",
       "romaji": "tsukue",
       "english": "desk",
@@ -11480,29 +8185,9 @@
       "level": "A2-2"
     },
     {
-      "kana": "できます",
-      "romaji": "dekimasu",
-      "english": "can do",
-      "level": "A2-2"
-    },
-    {
-      "kana": "でんわばんごう",
-      "kanji": "電話番号",
-      "romaji": "denwa-bangoo",
-      "english": "telephone number",
-      "level": "A2-2"
-    },
-    {
       "kana": "ならべます",
       "romaji": "narabemasu",
       "english": "to line up",
-      "level": "A2-2"
-    },
-    {
-      "kana": "にほんご",
-      "kanji": "日本語",
-      "romaji": "Nihongo",
-      "english": "Japanese language",
       "level": "A2-2"
     },
     {
@@ -11513,43 +8198,10 @@
       "level": "A2-2"
     },
     {
-      "kana": "はじめます",
-      "romaji": "hajimemasu",
-      "english": "to start/to begin",
-      "level": "A2-2"
-    },
-    {
-      "kana": "はなします",
-      "kanji": "話します",
-      "romaji": "hanashimasu",
-      "english": "to talk/to speak",
-      "level": "A2-2"
-    },
-    {
-      "kana": "ばしょ",
-      "kanji": "場所",
-      "romaji": "basho",
-      "english": "place/venue",
-      "level": "A2-2"
-    },
-    {
-      "kana": "ひ",
-      "kanji": "日",
-      "romaji": "hi",
-      "english": "day",
-      "level": "A2-2"
-    },
-    {
       "kana": "ひろば",
       "kanji": "広場",
       "romaji": "hiroba",
       "english": "square",
-      "level": "A2-2"
-    },
-    {
-      "kana": "ふります",
-      "romaji": "furimasu",
-      "english": "to rain/to snow",
       "level": "A2-2"
     },
     {
@@ -11580,13 +8232,6 @@
       "level": "A2-2"
     },
     {
-      "kana": "らいげつ",
-      "kanji": "来月",
-      "romaji": "raigetsu",
-      "english": "next month",
-      "level": "A2-2"
-    },
-    {
       "kana": "れんらく(します)",
       "romaji": "renraku (shimasu)",
       "english": "(to) contact",
@@ -11599,22 +8244,10 @@
       "level": "A2-2"
     },
     {
-      "kana": "わかります",
-      "romaji": "wakarimasu",
-      "english": "to understand",
-      "level": "A2-2"
-    },
-    {
       "kana": "わるい",
       "kanji": "悪い",
       "romaji": "warui",
       "english": "bad",
-      "level": "A2-2"
-    },
-    {
-      "kana": "イベント",
-      "romaji": "ibento",
-      "english": "event",
       "level": "A2-2"
     },
     {
@@ -11624,27 +8257,9 @@
       "level": "A2-2"
     },
     {
-      "kana": "カード",
-      "romaji": "kaado",
-      "english": "card",
-      "level": "A2-2"
-    },
-    {
       "kana": "コンテスト",
       "romaji": "kontesuto",
       "english": "contest",
-      "level": "A2-2"
-    },
-    {
-      "kana": "コンピューター",
-      "romaji": "konpyuutaa",
-      "english": "computer",
-      "level": "A2-2"
-    },
-    {
-      "kana": "スタッフ",
-      "romaji": "sutaffu",
-      "english": "staff",
       "level": "A2-2"
     },
     {
@@ -11657,12 +8272,6 @@
       "kana": "スピーチコンテスト",
       "romaji": "spiichi-kontesuto",
       "english": "speech contest",
-      "level": "A2-2"
-    },
-    {
-      "kana": "チキン",
-      "romaji": "chikin",
-      "english": "chicken",
       "level": "A2-2"
     },
     {
@@ -11702,31 +8311,10 @@
       "level": "A2-2"
     },
     {
-      "kana": "～ご",
-      "kanji": "～語",
-      "romaji": "～go",
-      "english": "～language",
-      "level": "A2-2"
-    },
-    {
-      "kana": "～じ",
-      "kanji": "～時",
-      "romaji": "～ji",
-      "english": "～o'clock",
-      "level": "A2-2"
-    },
-    {
       "kana": "～ちゅう",
       "kanji": "～中",
       "romaji": "～chuu",
       "english": "during 〜 /while 〜",
-      "level": "A2-2"
-    },
-    {
-      "kana": "～ふん／ぷん",
-      "kanji": "～分",
-      "romaji": "～fun/pun",
-      "english": "～minute(s)",
       "level": "A2-2"
     },
     {
@@ -11742,31 +8330,10 @@
       "level": "A2-2"
     },
     {
-      "kana": "いそがしい",
-      "kanji": "忙しい",
-      "romaji": "isogashii",
-      "english": "busy",
-      "level": "A2-2"
-    },
-    {
-      "kana": "いりぐち",
-      "kanji": "入り口",
-      "romaji": "iriguchi",
-      "english": "entrance",
-      "level": "A2-2"
-    },
-    {
       "kana": "いんしょく",
       "kanji": "飲食",
       "romaji": "inshoku",
       "english": "eating and drinking",
-      "level": "A2-2"
-    },
-    {
-      "kana": "うしろ",
-      "kanji": "後ろ",
-      "romaji": "ushiro",
-      "english": "back/behind",
       "level": "A2-2"
     },
     {
@@ -11793,14 +8360,7 @@
       "kana": "きん",
       "kanji": "金",
       "romaji": "kin",
-      "english": "Friday",
-      "level": "A2-2"
-    },
-    {
-      "kana": "ことし",
-      "kanji": "今年",
-      "romaji": "kotoshi",
-      "english": "this year",
+      "english": "gold",
       "level": "A2-2"
     },
     {
@@ -11811,37 +8371,10 @@
       "level": "A2-2"
     },
     {
-      "kana": "ごご",
-      "kanji": "午後",
-      "romaji": "gogo",
-      "english": "p.m./afternoon",
-      "level": "A2-2"
-    },
-    {
-      "kana": "ごぜん",
-      "kanji": "午前",
-      "romaji": "gozen",
-      "english": "a.m./morning",
-      "level": "A2-2"
-    },
-    {
       "kana": "さんかひ",
       "kanji": "参加ひ",
       "romaji": "sankahi",
       "english": "participation fee",
-      "level": "A2-2"
-    },
-    {
-      "kana": "しゃしん",
-      "kanji": "写真",
-      "romaji": "shashin",
-      "english": "photograph",
-      "level": "A2-2"
-    },
-    {
-      "kana": "じゅうどう",
-      "romaji": "juudoo",
-      "english": "judo",
       "level": "A2-2"
     },
     {
@@ -11851,21 +8384,9 @@
       "level": "A2-2"
     },
     {
-      "kana": "たいこ",
-      "romaji": "taiko",
-      "english": "taiko drumming",
-      "level": "A2-2"
-    },
-    {
       "kana": "たいこきょうしつ",
       "romaji": "taiko-kyooshitsu",
       "english": "taiko drumming class",
-      "level": "A2-2"
-    },
-    {
-      "kana": "だいじょうぶ(な)",
-      "romaji": "daijoobu(na)",
-      "english": "okay/all right",
       "level": "A2-2"
     },
     {
@@ -11879,19 +8400,6 @@
       "kana": "どうも",
       "romaji": "doomo",
       "english": "thanks",
-      "level": "A2-2"
-    },
-    {
-      "kana": "どこ",
-      "romaji": "doko",
-      "english": "where",
-      "level": "A2-2"
-    },
-    {
-      "kana": "なか",
-      "kanji": "中",
-      "romaji": "naka",
-      "english": "in/inside",
       "level": "A2-2"
     },
     {
@@ -11956,46 +8464,15 @@
       "level": "A2-2"
     },
     {
-      "kana": "みなさん",
-      "romaji": "minasan",
-      "english": "everyone",
-      "level": "A2-2"
-    },
-    {
-      "kana": "むりょう",
-      "kanji": "無料",
-      "romaji": "muryoo",
-      "english": "free of charge",
-      "level": "A2-2"
-    },
-    {
       "kana": "もうすぐ",
       "romaji": "moosugu",
       "english": "soon",
       "level": "A2-2"
     },
     {
-      "kana": "もらいます",
-      "romaji": "moraimasu",
-      "english": "to receive",
-      "level": "A2-2"
-    },
-    {
-      "kana": "カラオケ",
-      "romaji": "karaoke",
-      "english": "karaoke",
-      "level": "A2-2"
-    },
-    {
       "kana": "カラオケコンテスト",
       "romaji": "karaoke-kontesuto",
       "english": "karaoke contest",
-      "level": "A2-2"
-    },
-    {
-      "kana": "コンサート",
-      "romaji": "konsaato",
-      "english": "concert",
       "level": "A2-2"
     },
     {
@@ -12011,24 +8488,10 @@
       "level": "A2-2"
     },
     {
-      "kana": "Ｊポップ",
-      "kanji": "Jポップ",
-      "romaji": "J-poppu",
-      "english": "J-pop (Japanese pop music)",
-      "level": "A2-2"
-    },
-    {
       "kana": "Ｊポップコンサート",
       "kanji": "Jポップコンサート",
       "romaji": "J-poppu-consaato",
       "english": "J-pop concert",
-      "level": "A2-2"
-    },
-    {
-      "kana": "～はん",
-      "kanji": "～半",
-      "romaji": "～han",
-      "english": "half-past～/～thirty",
       "level": "A2-2"
     },
     {
@@ -12050,29 +8513,10 @@
       "level": "A2-2"
     },
     {
-      "kana": "あいます",
-      "kanji": "会います",
-      "romaji": "aimasu",
-      "english": "to meet",
-      "level": "A2-2"
-    },
-    {
       "kana": "あけまして おめでとう ございます",
       "kanji": "明けまして おめでとうございます",
       "romaji": "Akemashite omedetoo gozaimasu.",
       "english": "Happy New Year.",
-      "level": "A2-2"
-    },
-    {
-      "kana": "あげます",
-      "romaji": "agemasu",
-      "english": "to give",
-      "level": "A2-2"
-    },
-    {
-      "kana": "あそびます",
-      "romaji": "asobimasu",
-      "english": "to play",
       "level": "A2-2"
     },
     {
@@ -12083,43 +8527,9 @@
       "level": "A2-2"
     },
     {
-      "kana": "いえ",
-      "kanji": "家",
-      "romaji": "ie",
-      "english": "house",
-      "level": "A2-2"
-    },
-    {
       "kana": "いえじゅう",
       "romaji": "iejuu",
       "english": "whole house",
-      "level": "A2-2"
-    },
-    {
-      "kana": "います",
-      "romaji": "imasu",
-      "english": "to be (existence)",
-      "level": "A2-2"
-    },
-    {
-      "kana": "いもうと",
-      "kanji": "妹",
-      "romaji": "imooto",
-      "english": "(my) younger sister",
-      "level": "A2-2"
-    },
-    {
-      "kana": "いもうとさん",
-      "kanji": "妹さん",
-      "romaji": "imootosan",
-      "english": "(someone else's) younger sister",
-      "level": "A2-2"
-    },
-    {
-      "kana": "うち",
-      "kanji": "家",
-      "romaji": "uchi",
-      "english": "house/one's own house (home)",
       "level": "A2-2"
     },
     {
@@ -12133,13 +8543,6 @@
       "kana": "おおみそか",
       "romaji": "oomisoka",
       "english": "New Year's Eve",
-      "level": "A2-2"
-    },
-    {
-      "kana": "おかあさん",
-      "kanji": "お母さん",
-      "romaji": "okaasan",
-      "english": "(someone else's) mother",
       "level": "A2-2"
     },
     {
@@ -12157,31 +8560,10 @@
       "level": "A2-2"
     },
     {
-      "kana": "おせわに なりました",
-      "kanji": "お世話に　なりました",
-      "romaji": "osewa ni narimashita",
-      "english": "Thank you for everything.",
-      "level": "A2-2"
-    },
-    {
       "kana": "おせわ／せわ",
       "kanji": "お世話／世話",
       "romaji": "osewa / sewa",
       "english": "care/ help",
-      "level": "A2-2"
-    },
-    {
-      "kana": "おてら／てら",
-      "kanji": "お寺／寺",
-      "romaji": "otera/tera",
-      "english": "temple",
-      "level": "A2-2"
-    },
-    {
-      "kana": "おとうさん",
-      "kanji": "お父さん",
-      "romaji": "otoosan",
-      "english": "(someone else's) father",
       "level": "A2-2"
     },
     {
@@ -12201,12 +8583,6 @@
       "kana": "かざりつけ",
       "romaji": "kazaritsuke",
       "english": "decoration",
-      "level": "A2-2"
-    },
-    {
-      "kana": "かざります",
-      "romaji": "kazarimasu",
-      "english": "to decorate/to display",
       "level": "A2-2"
     },
     {
@@ -12244,13 +8620,6 @@
       "level": "A2-2"
     },
     {
-      "kana": "こども",
-      "kanji": "子ども",
-      "romaji": "kodomo",
-      "english": "child",
-      "level": "A2-2"
-    },
-    {
       "kana": "ごちそう",
       "romaji": "gochisoo",
       "english": "feast",
@@ -12263,34 +8632,9 @@
       "level": "A2-2"
     },
     {
-      "kana": "しんせき",
-      "romaji": "shinseki",
-      "english": "relative(s)",
-      "level": "A2-2"
-    },
-    {
-      "kana": "じんじゃ",
-      "kanji": "神社",
-      "romaji": "jinja",
-      "english": "shrine",
-      "level": "A2-2"
-    },
-    {
       "kana": "すごします",
       "romaji": "sugoshimasu",
       "english": "to spend time",
-      "level": "A2-2"
-    },
-    {
-      "kana": "ずっと",
-      "romaji": "zutto",
-      "english": "all the time",
-      "level": "A2-2"
-    },
-    {
-      "kana": "そうじ(します)",
-      "romaji": "sooji",
-      "english": "cleaning",
       "level": "A2-2"
     },
     {
@@ -12303,13 +8647,6 @@
       "kana": "だって",
       "romaji": "datte",
       "english": "because/but",
-      "level": "A2-2"
-    },
-    {
-      "kana": "つま",
-      "kanji": "妻",
-      "romaji": "tsuma",
-      "english": "(my) wife",
       "level": "A2-2"
     },
     {
@@ -12329,12 +8666,6 @@
       "kana": "どうしていましたか",
       "romaji": "dooshiteimashitaka",
       "english": "What did you do?",
-      "level": "A2-2"
-    },
-    {
-      "kana": "どのぐらい",
-      "romaji": "dono gurai",
-      "english": "how long",
       "level": "A2-2"
     },
     {
@@ -12376,29 +8707,10 @@
       "level": "A2-2"
     },
     {
-      "kana": "やすみ",
-      "kanji": "休み",
-      "romaji": "yasumi",
-      "english": "holiday/a break/a rest/day off",
-      "level": "A2-2"
-    },
-    {
       "kana": "よっか",
       "kanji": "４日／四日",
       "romaji": "yokka",
       "english": "the fourth day of the month",
-      "level": "A2-2"
-    },
-    {
-      "kana": "わあ",
-      "romaji": "waa",
-      "english": "Wao",
-      "level": "A2-2"
-    },
-    {
-      "kana": "フランス",
-      "romaji": "Furansu",
-      "english": "France",
       "level": "A2-2"
     },
     {
@@ -12422,45 +8734,6 @@
       "level": "A2-2"
     },
     {
-      "kana": "～ねん",
-      "kanji": "～年",
-      "romaji": "～nen",
-      "english": "(counter for year)",
-      "level": "A2-2"
-    },
-    {
-      "kana": "あきまつり",
-      "kanji": "秋まつり",
-      "romaji": "aki-matsuri",
-      "english": "autumn festival",
-      "level": "A2-2"
-    },
-    {
-      "kana": "あめ",
-      "romaji": "ame",
-      "english": "(hard) candy",
-      "level": "A2-2"
-    },
-    {
-      "kana": "あれ",
-      "romaji": "are",
-      "english": "That (far from both the speaker and the listener)",
-      "level": "A2-2"
-    },
-    {
-      "kana": "いつ",
-      "romaji": "itsu",
-      "english": "when",
-      "level": "A2-2"
-    },
-    {
-      "kana": "いつか",
-      "kanji": "５日／五日",
-      "romaji": "itsuka",
-      "english": "the fifth day of the month",
-      "level": "A2-2"
-    },
-    {
       "kana": "いのります",
       "romaji": "inorimasu",
       "english": "to pray",
@@ -12471,13 +8744,6 @@
       "kanji": "祝います",
       "romaji": "iwaimasu",
       "english": "to celebrate",
-      "level": "A2-2"
-    },
-    {
-      "kana": "うたいます",
-      "kanji": "歌います",
-      "romaji": "utaimasu",
-      "english": "to sing",
       "level": "A2-2"
     },
     {
@@ -12526,13 +8792,6 @@
       "level": "A2-2"
     },
     {
-      "kana": "きもの",
-      "kanji": "着物",
-      "romaji": "kimono",
-      "english": "kimono",
-      "level": "A2-2"
-    },
-    {
       "kana": "ぎょうじ",
       "romaji": "gyooji",
       "english": "event",
@@ -12552,12 +8811,6 @@
       "level": "A2-2"
     },
     {
-      "kana": "これ",
-      "romaji": "kore",
-      "english": "this",
-      "level": "A2-2"
-    },
-    {
       "kana": "さくらし",
       "kanji": "佐倉市",
       "romaji": "sakura-shi",
@@ -12569,13 +8822,6 @@
       "kanji": "幸せ",
       "romaji": "shiawase",
       "english": "happiness",
-      "level": "A2-2"
-    },
-    {
-      "kana": "しあわせ(な)",
-      "kanji": "幸せ(な)",
-      "romaji": "shiawase(na)",
-      "english": "happy",
       "level": "A2-2"
     },
     {
@@ -12599,13 +8845,6 @@
       "level": "A2-2"
     },
     {
-      "kana": "じょうず(な)",
-      "kanji": "上手(な)",
-      "romaji": "joozu(na)",
-      "english": "be good at",
-      "level": "A2-2"
-    },
-    {
       "kana": "せいちょう(します)",
       "kanji": "成長(します)",
       "romaji": "seechoo (shimasu)",
@@ -12616,12 +8855,6 @@
       "kana": "せつぶん",
       "romaji": "setsubun",
       "english": "Setsubun (day before spring begins in the traditional lunar calendar)",
-      "level": "A2-2"
-    },
-    {
-      "kana": "そして",
-      "romaji": "soshite",
-      "english": "and",
       "level": "A2-2"
     },
     {
@@ -12659,18 +8892,6 @@
       "kanji": "７日／七日",
       "romaji": "nanoka",
       "english": "the seventh day of the month",
-      "level": "A2-2"
-    },
-    {
-      "kana": "なります",
-      "romaji": "narimasu",
-      "english": "to be/to become",
-      "level": "A2-2"
-    },
-    {
-      "kana": "にんぎょう",
-      "romaji": "ningyoo",
-      "english": "doll",
       "level": "A2-2"
     },
     {
@@ -12750,12 +8971,6 @@
       "level": "A2-2"
     },
     {
-      "kana": "ピアノ",
-      "romaji": "piano",
-      "english": "piano",
-      "level": "A2-2"
-    },
-    {
       "kana": "～し",
       "kanji": "～市",
       "romaji": "～shi",
@@ -12791,9 +9006,9 @@
     },
     {
       "kana": "き",
-      "kanji": "気",
+      "kanji": "木",
       "romaji": "ki",
-      "english": "feeling/mood",
+      "english": "tree",
       "level": "A2-2"
     },
     {
@@ -12816,12 +9031,6 @@
       "level": "A2-2"
     },
     {
-      "kana": "こわれます",
-      "romaji": "kowaremasu",
-      "english": "to be broken",
-      "level": "A2-2"
-    },
-    {
       "kana": "しょうひん",
       "kanji": "商品",
       "romaji": "shoohin",
@@ -12841,13 +9050,6 @@
       "level": "A2-2"
     },
     {
-      "kana": "せんしゅう",
-      "kanji": "先週",
-      "romaji": "senshuu",
-      "english": "last week",
-      "level": "A2-2"
-    },
-    {
       "kana": "せんぷうき",
       "kanji": "せんぷう機",
       "romaji": "senpuuki",
@@ -12859,13 +9061,6 @@
       "kanji": "そうじ機",
       "romaji": "soojiki",
       "english": "vacuum cleaner",
-      "level": "A2-2"
-    },
-    {
-      "kana": "たいへん(な)",
-      "kanji": "たいへん（な）",
-      "romaji": "taihen(na)",
-      "english": "terrible/tough/hard work",
       "level": "A2-2"
     },
     {
@@ -12883,13 +9078,6 @@
       "level": "A2-2"
     },
     {
-      "kana": "でます",
-      "kanji": "出ます",
-      "romaji": "demasu",
-      "english": "to get out/to go out",
-      "level": "A2-2"
-    },
-    {
       "kana": "でんきせいひん",
       "kanji": "電気製品",
       "romaji": "denki-seehin",
@@ -12901,39 +9089,6 @@
       "kanji": "電子レンジ",
       "romaji": "denshirenji",
       "english": "microwave oven",
-      "level": "A2-2"
-    },
-    {
-      "kana": "ときどき",
-      "romaji": "tokidoki",
-      "english": "sometimes",
-      "level": "A2-2"
-    },
-    {
-      "kana": "なにか",
-      "kanji": "何か",
-      "romaji": "nani ka",
-      "english": "something",
-      "level": "A2-2"
-    },
-    {
-      "kana": "はなし",
-      "kanji": "話",
-      "romaji": "hanashi",
-      "english": "story",
-      "level": "A2-2"
-    },
-    {
-      "kana": "ほしい",
-      "romaji": "hoshii",
-      "english": "I want～",
-      "level": "A2-2"
-    },
-    {
-      "kana": "みず",
-      "kanji": "水",
-      "romaji": "mizu",
-      "english": "water",
       "level": "A2-2"
     },
     {
@@ -12955,21 +9110,9 @@
       "level": "A2-2"
     },
     {
-      "kana": "エアコン",
-      "romaji": "eakon",
-      "english": "air conditioner/air conditioning",
-      "level": "A2-2"
-    },
-    {
       "kana": "クレジットカード",
       "romaji": "kurejitto-kaado",
       "english": "credit card",
-      "level": "A2-2"
-    },
-    {
-      "kana": "サイト",
-      "romaji": "saito",
-      "english": "web site",
       "level": "A2-2"
     },
     {
@@ -13004,29 +9147,10 @@
       "level": "A2-2"
     },
     {
-      "kana": "ううん",
-      "romaji": "uun",
-      "english": "well…/hmm…",
-      "level": "A2-2"
-    },
-    {
-      "kana": "おおきい",
-      "kanji": "大きい",
-      "romaji": "ookii",
-      "english": "big",
-      "level": "A2-2"
-    },
-    {
       "kana": "おおきさ",
       "kanji": "大きさ",
       "romaji": "ookisa",
       "english": "size",
-      "level": "A2-2"
-    },
-    {
-      "kana": "おしゃれ(な)",
-      "romaji": "oshare(na)",
-      "english": "fashionable",
       "level": "A2-2"
     },
     {
@@ -13048,32 +9172,6 @@
       "kanji": "軽い",
       "romaji": "karui",
       "english": "light",
-      "level": "A2-2"
-    },
-    {
-      "kana": "かんたん(な)",
-      "romaji": "kantan(na)",
-      "english": "easy",
-      "level": "A2-2"
-    },
-    {
-      "kana": "きに いります",
-      "kanji": "気に　いります",
-      "romaji": "ki ni irimasu",
-      "english": "to like～.",
-      "level": "A2-2"
-    },
-    {
-      "kana": "きのう",
-      "kanji": "機能",
-      "romaji": "kinoo",
-      "english": "function",
-      "level": "A2-2"
-    },
-    {
-      "kana": "こっち",
-      "romaji": "kocchi",
-      "english": "this one",
       "level": "A2-2"
     },
     {
@@ -13123,19 +9221,6 @@
       "level": "A2-2"
     },
     {
-      "kana": "たぶん",
-      "romaji": "tabun",
-      "english": "perhaps/maybe/probably",
-      "level": "A2-2"
-    },
-    {
-      "kana": "ちいさい",
-      "kanji": "小さい",
-      "romaji": "chiisai",
-      "english": "small",
-      "level": "A2-2"
-    },
-    {
       "kana": "とどきます",
       "romaji": "todokimasu",
       "english": "to arrive",
@@ -13145,12 +9230,6 @@
       "kana": "どちら",
       "romaji": "dochira",
       "english": "which (out of two)",
-      "level": "A2-2"
-    },
-    {
-      "kana": "どっち",
-      "romaji": "docchi",
-      "english": "which (out of two, and casual style of speech)",
       "level": "A2-2"
     },
     {
@@ -13166,17 +9245,9 @@
       "level": "A2-2"
     },
     {
-      "kana": "べんり(な)",
-      "kanji": "便利(な)",
-      "romaji": "benri(na)",
-      "english": "convenient",
-      "level": "A2-2"
-    },
-    {
-      "kana": "ほう",
-      "kanji": "方",
+      "kana": "ほう／ほお",
       "romaji": "hoo",
-      "english": "side (indicates one side in a comparison, as more of something than the other)",
+      "english": "Wow",
       "level": "A2-2"
     },
     {
@@ -13194,13 +9265,6 @@
       "level": "A2-2"
     },
     {
-      "kana": "らく(な)",
-      "kanji": "らく（な）",
-      "romaji": "raku(na)",
-      "english": "easy",
-      "level": "A2-2"
-    },
-    {
       "kana": "エネルギー",
       "romaji": "enerugii",
       "english": "energy",
@@ -13213,21 +9277,9 @@
       "level": "A2-2"
     },
     {
-      "kana": "グレー",
-      "romaji": "guree",
-      "english": "grey",
-      "level": "A2-2"
-    },
-    {
       "kana": "コメント",
       "romaji": "komento",
       "english": "comment",
-      "level": "A2-2"
-    },
-    {
-      "kana": "サイズ",
-      "romaji": "saizu",
-      "english": "size",
       "level": "A2-2"
     },
     {
@@ -13274,26 +9326,6 @@
       "level": "A2-2"
     },
     {
-      "kana": "あき",
-      "kanji": "秋",
-      "romaji": "aki",
-      "english": "autumn",
-      "level": "A2-2"
-    },
-    {
-      "kana": "あたり",
-      "romaji": "atari",
-      "english": "around/in the neighborhood",
-      "level": "A2-2"
-    },
-    {
-      "kana": "あるきます",
-      "kanji": "歩きます",
-      "romaji": "arukimasu",
-      "english": "to walk",
-      "level": "A2-2"
-    },
-    {
       "kana": "いし",
       "romaji": "ishi",
       "english": "stone",
@@ -13306,35 +9338,15 @@
       "level": "A2-2"
     },
     {
-      "kana": "え",
-      "kanji": "絵",
-      "romaji": "e",
-      "english": "picture",
-      "level": "A2-2"
-    },
-    {
       "kana": "おおきに",
       "romaji": "ookini",
       "english": "Thank you (in Kyoto dialect)",
       "level": "A2-2"
     },
     {
-      "kana": "おおさか",
-      "kanji": "大阪",
-      "romaji": "Oosaka",
-      "english": "Osaka (name of a place/prefecture in Japan)",
-      "level": "A2-2"
-    },
-    {
       "kana": "おかしやさん",
       "romaji": "okashiyasan",
       "english": "confectionery shop",
-      "level": "A2-2"
-    },
-    {
-      "kana": "おきます",
-      "romaji": "okimasu",
-      "english": "to place/ to put",
       "level": "A2-2"
     },
     {
@@ -13351,20 +9363,6 @@
       "level": "A2-2"
     },
     {
-      "kana": "おちゃ",
-      "kanji": "お茶",
-      "romaji": "ocha",
-      "english": "tea ceremony",
-      "level": "A2-2"
-    },
-    {
-      "kana": "おっと",
-      "kanji": "夫",
-      "romaji": "otto",
-      "english": "(my) husband",
-      "level": "A2-2"
-    },
-    {
       "kana": "おにわ／にわ",
       "romaji": "oniwa/niwa",
       "english": "garden",
@@ -13378,28 +9376,9 @@
       "level": "A2-2"
     },
     {
-      "kana": "おはようございます",
-      "romaji": "ohayoo gozaimasu",
-      "english": "Good morning.",
-      "level": "A2-2"
-    },
-    {
-      "kana": "おみやげ",
-      "romaji": "omiyage",
-      "english": "souvenir",
-      "level": "A2-2"
-    },
-    {
       "kana": "おめでたい／めでたい",
       "romaji": "omedetai",
       "english": "auspicious",
-      "level": "A2-2"
-    },
-    {
-      "kana": "おわり",
-      "kanji": "終わり",
-      "romaji": "owari",
-      "english": "end/finish",
       "level": "A2-2"
     },
     {
@@ -13431,13 +9410,6 @@
       "level": "A2-2"
     },
     {
-      "kana": "き",
-      "kanji": "木",
-      "romaji": "ki",
-      "english": "tree",
-      "level": "A2-2"
-    },
-    {
       "kana": "きぞく",
       "romaji": "kizoku",
       "english": "aristocrat",
@@ -13451,31 +9423,10 @@
       "level": "A2-2"
     },
     {
-      "kana": "きもちが いいです",
-      "kanji": "気持ちが いいです",
-      "romaji": "kimochi ga ii desu",
-      "english": "I feel good./It feels good.",
-      "level": "A2-2"
-    },
-    {
       "kana": "きょうことば",
       "kanji": "京ことば",
       "romaji": "kyoo-kotoba",
       "english": "Kyoto dialect",
-      "level": "A2-2"
-    },
-    {
-      "kana": "きょうと",
-      "kanji": "京都",
-      "romaji": "Kyooto",
-      "english": "Kyoto (name of a place in Japan)",
-      "level": "A2-2"
-    },
-    {
-      "kana": "きょねん",
-      "kanji": "去年",
-      "romaji": "kyonen",
-      "english": "last year",
       "level": "A2-2"
     },
     {
@@ -13490,13 +9441,6 @@
       "kanji": "清水の ぶたい",
       "romaji": "Kiyomizu-no-butai",
       "english": "The stage of Kiyomizu",
-      "level": "A2-2"
-    },
-    {
-      "kana": "きん",
-      "kanji": "金",
-      "romaji": "kin",
-      "english": "gold",
       "level": "A2-2"
     },
     {
@@ -13521,12 +9465,6 @@
       "level": "A2-2"
     },
     {
-      "kana": "ここ",
-      "romaji": "koko",
-      "english": "here",
-      "level": "A2-2"
-    },
-    {
       "kana": "これから",
       "romaji": "korekara",
       "english": "after this/from now on",
@@ -13540,22 +9478,9 @@
       "level": "A2-2"
     },
     {
-      "kana": "さくら",
-      "romaji": "sakura",
-      "english": "cherry tree/cherry blossom",
-      "level": "A2-2"
-    },
-    {
       "kana": "さっき",
       "romaji": "sakki",
       "english": "before /just now",
-      "level": "A2-2"
-    },
-    {
-      "kana": "さどう",
-      "kanji": "茶道",
-      "romaji": "sadoo",
-      "english": "tea ceremony",
       "level": "A2-2"
     },
     {
@@ -13565,23 +9490,10 @@
       "level": "A2-2"
     },
     {
-      "kana": "ざっし",
-      "romaji": "zasshi",
-      "english": "magazine",
-      "level": "A2-2"
-    },
-    {
       "kana": "しじょうかわらまち",
       "kanji": "四条河原町",
       "romaji": "Shijoo kawaramachi",
       "english": "Shijoo kawaramachi(name of a place in Kyoto)",
-      "level": "A2-2"
-    },
-    {
-      "kana": "しずか(な)",
-      "kanji": "静か(な)",
-      "romaji": "shizuka(na)",
-      "english": "quiet",
       "level": "A2-2"
     },
     {
@@ -13618,28 +9530,9 @@
       "level": "A2-2"
     },
     {
-      "kana": "たくさん",
-      "romaji": "takusan",
-      "english": "many/much",
-      "level": "A2-2"
-    },
-    {
       "kana": "たてます",
       "romaji": "tatemasu",
       "english": "to build",
-      "level": "A2-2"
-    },
-    {
-      "kana": "たてもの",
-      "romaji": "tatemono",
-      "english": "building",
-      "level": "A2-2"
-    },
-    {
-      "kana": "たのしみ",
-      "kanji": "楽しみ",
-      "romaji": "tanoshimi",
-      "english": "pleasure/looking forward to something",
       "level": "A2-2"
     },
     {
@@ -13647,18 +9540,6 @@
       "kanji": "楽しみに します",
       "romaji": "tanoshimi ni shimasu",
       "english": "be looking forwad to～",
-      "level": "A2-2"
-    },
-    {
-      "kana": "つぎ",
-      "romaji": "tsugi",
-      "english": "next",
-      "level": "A2-2"
-    },
-    {
-      "kana": "つよい",
-      "romaji": "tsuyoi",
-      "english": "strong",
       "level": "A2-2"
     },
     {
@@ -13722,20 +9603,6 @@
       "level": "A2-2"
     },
     {
-      "kana": "はな",
-      "kanji": "花",
-      "romaji": "hana",
-      "english": "flower(s)",
-      "level": "A2-2"
-    },
-    {
-      "kana": "はなみ",
-      "kanji": "花見",
-      "romaji": "hanami",
-      "english": "cherry-blossom viewing",
-      "level": "A2-2"
-    },
-    {
       "kana": "ぶし",
       "romaji": "bushi",
       "english": "warrior",
@@ -13755,18 +9622,6 @@
       "level": "A2-2"
     },
     {
-      "kana": "へや",
-      "romaji": "heya",
-      "english": "room",
-      "level": "A2-2"
-    },
-    {
-      "kana": "ほう／ほお",
-      "romaji": "hoo",
-      "english": "Wow",
-      "level": "A2-2"
-    },
-    {
       "kana": "ほんもの",
       "romaji": "honmono",
       "english": "real",
@@ -13779,23 +9634,9 @@
       "level": "A2-2"
     },
     {
-      "kana": "まえ",
-      "kanji": "前",
-      "romaji": "mae",
-      "english": "before/ago",
-      "level": "A2-2"
-    },
-    {
       "kana": "まつ",
       "romaji": "matsu",
       "english": "pine tree",
-      "level": "A2-2"
-    },
-    {
-      "kana": "みえます",
-      "kanji": "見えます",
-      "romaji": "miemasu",
-      "english": "to be visible/can be seen",
       "level": "A2-2"
     },
     {
@@ -13806,33 +9647,9 @@
       "level": "A2-2"
     },
     {
-      "kana": "もみじ",
-      "romaji": "momiji",
-      "english": "maple leaves",
-      "level": "A2-2"
-    },
-    {
       "kana": "やく～",
       "romaji": "yaku～",
       "english": "about ～",
-      "level": "A2-2"
-    },
-    {
-      "kana": "ようこそ",
-      "romaji": "yookoso",
-      "english": "welcome.",
-      "level": "A2-2"
-    },
-    {
-      "kana": "よかったら",
-      "romaji": "yokattara",
-      "english": "If you'd like",
-      "level": "A2-2"
-    },
-    {
-      "kana": "よく",
-      "romaji": "yoku",
-      "english": "well",
       "level": "A2-2"
     },
     {
@@ -13846,13 +9663,6 @@
       "kanji": "龍安寺",
       "romaji": "ryooanji",
       "english": "Ryoanji temple",
-      "level": "A2-2"
-    },
-    {
-      "kana": "れきし",
-      "kanji": "歴史",
-      "romaji": "rekishi",
-      "english": "history",
       "level": "A2-2"
     },
     {
@@ -13875,27 +9685,9 @@
       "level": "A2-2"
     },
     {
-      "kana": "ステージ",
-      "romaji": "suteeji",
-      "english": "stage",
-      "level": "A2-2"
-    },
-    {
-      "kana": "ドイツ",
-      "romaji": "Doitsu",
-      "english": "Germany",
-      "level": "A2-2"
-    },
-    {
       "kana": "ミステリアス(な)",
       "romaji": "misuteriasu(na)",
       "english": "mysterious",
-      "level": "A2-2"
-    },
-    {
-      "kana": "メール",
-      "romaji": "meeru",
-      "english": "e-mail",
       "level": "A2-2"
     },
     {
@@ -13918,18 +9710,6 @@
       "level": "A2-2"
     },
     {
-      "kana": "～こ",
-      "romaji": "～ko",
-      "english": "(counter for small things)",
-      "level": "A2-2"
-    },
-    {
-      "kana": "～ごろ",
-      "romaji": "～goro",
-      "english": "about",
-      "level": "A2-2"
-    },
-    {
       "kana": "～せいき",
       "kanji": "～世紀",
       "romaji": "～seeki",
@@ -13941,19 +9721,6 @@
       "kanji": "～的",
       "romaji": "～teki",
       "english": "typical",
-      "level": "A2-2"
-    },
-    {
-      "kana": "～ほん／ぼん／ぽん",
-      "kanji": "～本",
-      "romaji": "～hon/pon/bon",
-      "english": "(counter for thin and long things)",
-      "level": "A2-2"
-    },
-    {
-      "kana": "～まい",
-      "romaji": "～mai",
-      "english": "(counter for a flat thing)",
       "level": "A2-2"
     },
     {
@@ -13991,13 +9758,6 @@
       "kana": "おりもの",
       "romaji": "orimono",
       "english": "textile",
-      "level": "A2-2"
-    },
-    {
-      "kana": "かぜ",
-      "kanji": "風",
-      "romaji": "kaze",
-      "english": "wind",
       "level": "A2-2"
     },
     {
@@ -14130,25 +9890,6 @@
       "level": "A2-2"
     },
     {
-      "kana": "どうして",
-      "romaji": "dooshite",
-      "english": "why",
-      "level": "A2-2"
-    },
-    {
-      "kana": "はくぶつかん",
-      "kanji": "博物館",
-      "romaji": "hakubutsukan",
-      "english": "museum",
-      "level": "A2-2"
-    },
-    {
-      "kana": "はこ",
-      "romaji": "hako",
-      "english": "box",
-      "level": "A2-2"
-    },
-    {
       "kana": "はこびます",
       "romaji": "hakobimasu",
       "english": "to carry",
@@ -14162,24 +9903,10 @@
       "level": "A2-2"
     },
     {
-      "kana": "ふく",
-      "kanji": "服",
-      "romaji": "fuku",
-      "english": "clothes",
-      "level": "A2-2"
-    },
-    {
       "kana": "ぶんかざい",
       "kanji": "文化ざい",
       "romaji": "bunkazai",
       "english": "cultural property",
-      "level": "A2-2"
-    },
-    {
-      "kana": "ほん",
-      "kanji": "本",
-      "romaji": "hon",
-      "english": "book",
       "level": "A2-2"
     },
     {
@@ -14226,33 +9953,9 @@
       "level": "A2-2"
     },
     {
-      "kana": "ヨーロッパ",
-      "romaji": "Yooroppa",
-      "english": "Europe",
-      "level": "A2-2"
-    },
-    {
-      "kana": "ワイン",
-      "romaji": "wain",
-      "english": "wine",
-      "level": "A2-2"
-    },
-    {
       "kana": "あきます",
       "romaji": "akimasu",
-      "english": "to open",
-      "level": "A2-2"
-    },
-    {
-      "kana": "あげます",
-      "romaji": "agemasu",
-      "english": "to raise",
-      "level": "A2-2"
-    },
-    {
-      "kana": "あびます",
-      "romaji": "abimasu",
-      "english": "to bathe in (water)/to pour (water) over oneself",
+      "english": "to lose interest",
       "level": "A2-2"
     },
     {
@@ -14270,13 +9973,6 @@
       "level": "A2-2"
     },
     {
-      "kana": "かいぎ",
-      "kanji": "会議",
-      "romaji": "kaigi",
-      "english": "meeting",
-      "level": "A2-2"
-    },
-    {
       "kana": "かいぎしつ",
       "kanji": "会議室",
       "romaji": "kaigishitsu",
@@ -14288,13 +9984,6 @@
       "kanji": "活動",
       "romaji": "katsudoo",
       "english": "activity",
-      "level": "A2-2"
-    },
-    {
-      "kana": "かみ",
-      "kanji": "紙",
-      "romaji": "kami",
-      "english": "paper",
       "level": "A2-2"
     },
     {
@@ -14360,53 +10049,15 @@
       "level": "A2-2"
     },
     {
-      "kana": "すぐ",
-      "romaji": "sugu",
-      "english": "soon/right away",
-      "level": "A2-2"
-    },
-    {
-      "kana": "すずしい",
-      "romaji": "suzushii",
-      "english": "cool (climate)",
-      "level": "A2-2"
-    },
-    {
-      "kana": "せいかつ",
-      "kanji": "生活",
-      "romaji": "seekatsu",
-      "english": "life",
-      "level": "A2-2"
-    },
-    {
       "kana": "たいせつ(な)",
       "romaji": "taisetsu(na)",
       "english": "important",
       "level": "A2-2"
     },
     {
-      "kana": "だいたい",
-      "romaji": "daitai",
-      "english": "generally/roughly",
-      "level": "A2-2"
-    },
-    {
-      "kana": "だいどころ",
-      "romaji": "daidokoro",
-      "english": "kitchen",
-      "level": "A2-2"
-    },
-    {
       "kana": "できるだけ",
       "romaji": "dekirudake",
       "english": "as much as possible",
-      "level": "A2-2"
-    },
-    {
-      "kana": "でんき",
-      "kanji": "電気",
-      "romaji": "denki",
-      "english": "light/electricity",
       "level": "A2-2"
     },
     {
@@ -14445,12 +10096,6 @@
       "kana": "まど",
       "romaji": "mado",
       "english": "window",
-      "level": "A2-2"
-    },
-    {
-      "kana": "むずかしい",
-      "romaji": "muzukashii",
-      "english": "difficult",
       "level": "A2-2"
     },
     {
@@ -14527,18 +10172,6 @@
       "level": "A2-2"
     },
     {
-      "kana": "コピー",
-      "romaji": "kopii",
-      "english": "copy",
-      "level": "A2-2"
-    },
-    {
-      "kana": "シャワー",
-      "romaji": "shawaa",
-      "english": "shower",
-      "level": "A2-2"
-    },
-    {
       "kana": "スーパー",
       "romaji": "suupaa",
       "english": "supermarket",
@@ -14548,12 +10181,6 @@
       "kana": "ドア",
       "romaji": "doa",
       "english": "door",
-      "level": "A2-2"
-    },
-    {
-      "kana": "ビン",
-      "romaji": "bin",
-      "english": "bottle",
       "level": "A2-2"
     },
     {
@@ -14569,91 +10196,15 @@
       "level": "A2-2"
     },
     {
-      "kana": "あかちゃん",
-      "romaji": "akachan",
-      "english": "baby",
-      "level": "A2-2"
-    },
-    {
-      "kana": "あきます",
-      "romaji": "akimasu",
-      "english": "to lose interest",
-      "level": "A2-2"
-    },
-    {
       "kana": "いります",
       "romaji": "irimasu",
       "english": "to need",
       "level": "A2-2"
     },
     {
-      "kana": "うります",
-      "kanji": "売ります",
-      "romaji": "urimasu",
-      "english": "to sell",
-      "level": "A2-2"
-    },
-    {
-      "kana": "おとうと",
-      "kanji": "弟",
-      "romaji": "otooto",
-      "english": "(my) younger brother",
-      "level": "A2-2"
-    },
-    {
-      "kana": "おもちゃ",
-      "romaji": "omocha",
-      "english": "toy",
-      "level": "A2-2"
-    },
-    {
-      "kana": "かさ",
-      "romaji": "kasa",
-      "english": "umbrella",
-      "level": "A2-2"
-    },
-    {
       "kana": "きんじょ",
       "romaji": "kinjo",
       "english": "neighborhood",
-      "level": "A2-2"
-    },
-    {
-      "kana": "くだもの",
-      "romaji": "kudamono",
-      "english": "fruit",
-      "level": "A2-2"
-    },
-    {
-      "kana": "くつ",
-      "romaji": "kutsu",
-      "english": "shoes",
-      "level": "A2-2"
-    },
-    {
-      "kana": "こうえん",
-      "romaji": "kooen",
-      "english": "park",
-      "level": "A2-2"
-    },
-    {
-      "kana": "すてき(な)",
-      "romaji": "suteki(na)",
-      "english": "lovely",
-      "level": "A2-2"
-    },
-    {
-      "kana": "ちかく",
-      "kanji": "近く",
-      "romaji": "chikaku",
-      "english": "nearby",
-      "level": "A2-2"
-    },
-    {
-      "kana": "ひつよう(な)",
-      "kanji": "必要(な)",
-      "romaji": "hitsuyoo(na)",
-      "english": "necessary",
       "level": "A2-2"
     },
     {
@@ -14666,26 +10217,6 @@
       "kana": "ふとん",
       "romaji": "futon",
       "english": "bedding",
-      "level": "A2-2"
-    },
-    {
-      "kana": "ふるい",
-      "kanji": "古い",
-      "romaji": "furui",
-      "english": "old",
-      "level": "A2-2"
-    },
-    {
-      "kana": "よろこびます",
-      "kanji": "喜びます",
-      "romaji": "yorokobimasu",
-      "english": "to be pleased",
-      "level": "A2-2"
-    },
-    {
-      "kana": "りんご",
-      "romaji": "ringo",
-      "english": "apple",
       "level": "A2-2"
     },
     {
@@ -14716,12 +10247,6 @@
       "kana": "フリーマーケット",
       "romaji": "furiimaaketto",
       "english": "flea market",
-      "level": "A2-2"
-    },
-    {
-      "kana": "プレゼント",
-      "romaji": "purezento",
-      "english": "present",
       "level": "A2-2"
     },
     {
@@ -14772,12 +10297,6 @@
       "level": "A2-2"
     },
     {
-      "kana": "おぼえます",
-      "romaji": "oboemasu",
-      "english": "to remember",
-      "level": "A2-2"
-    },
-    {
       "kana": "おんがくか",
       "kanji": "音楽家",
       "romaji": "ongakuka",
@@ -14803,13 +10322,6 @@
       "level": "A2-2"
     },
     {
-      "kana": "かします",
-      "kanji": "貸します",
-      "romaji": "kashimasu",
-      "english": "to lend",
-      "level": "A2-2"
-    },
-    {
       "kana": "かつやく(します)",
       "romaji": "katsuyaku (shimasu)",
       "english": "(to) be active",
@@ -14822,24 +10334,10 @@
       "level": "A2-2"
     },
     {
-      "kana": "がいこく",
-      "kanji": "外国",
-      "romaji": "gaikoku",
-      "english": "foreign country",
-      "level": "A2-2"
-    },
-    {
       "kana": "がか",
       "kanji": "画家",
       "romaji": "gaka",
       "english": "painter",
-      "level": "A2-2"
-    },
-    {
-      "kana": "がくせい",
-      "kanji": "学生",
-      "romaji": "gakusee",
-      "english": "student",
       "level": "A2-2"
     },
     {
@@ -14926,12 +10424,6 @@
       "level": "A2-2"
     },
     {
-      "kana": "しあい",
-      "romaji": "shiai",
-      "english": "game/match (sports)",
-      "level": "A2-2"
-    },
-    {
       "kana": "しかいしゃ",
       "romaji": "shikaisha",
       "english": "presenter /M.C.",
@@ -14942,18 +10434,6 @@
       "kanji": "七人の侍",
       "romaji": "Shichinin no samurai",
       "english": "The Seven Samurai (the movie)",
-      "level": "A2-2"
-    },
-    {
-      "kana": "しょう",
-      "romaji": "shoo",
-      "english": "award, prize",
-      "level": "A2-2"
-    },
-    {
-      "kana": "しょうせつ",
-      "romaji": "shoosetsu",
-      "english": "novel",
       "level": "A2-2"
     },
     {
@@ -14995,13 +10475,6 @@
       "level": "A2-2"
     },
     {
-      "kana": "せかい",
-      "kanji": "世界",
-      "romaji": "sekai",
-      "english": "world",
-      "level": "A2-2"
-    },
-    {
       "kana": "せかいじゅう",
       "kanji": "世界中",
       "romaji": "sekaijuu",
@@ -15013,13 +10486,6 @@
       "kanji": "選手",
       "romaji": "senshu",
       "english": "athlete",
-      "level": "A2-2"
-    },
-    {
-      "kana": "せんせい",
-      "kanji": "先生",
-      "romaji": "sensee",
-      "english": "teacher/instructor",
       "level": "A2-2"
     },
     {
@@ -15039,13 +10505,6 @@
       "kana": "たしか",
       "romaji": "tashika",
       "english": "as expected",
-      "level": "A2-2"
-    },
-    {
-      "kana": "だいがく",
-      "kanji": "大学",
-      "romaji": "daigaku",
-      "english": "university",
       "level": "A2-2"
     },
     {
@@ -15081,18 +10540,6 @@
       "level": "A2-2"
     },
     {
-      "kana": "ほか",
-      "romaji": "hoka",
-      "english": "other",
-      "level": "A2-2"
-    },
-    {
-      "kana": "もちろん",
-      "romaji": "mochiron",
-      "english": "of course",
-      "level": "A2-2"
-    },
-    {
       "kana": "やましたやすひろ",
       "kanji": "山下泰裕",
       "romaji": "Ymashita Yasuhiro",
@@ -15121,12 +10568,6 @@
       "level": "A2-2"
     },
     {
-      "kana": "イタリア",
-      "romaji": "Itaria",
-      "english": "Italy",
-      "level": "A2-2"
-    },
-    {
       "kana": "エキスポ",
       "romaji": "ekisupo",
       "english": "World's Expo",
@@ -15136,12 +10577,6 @@
       "kana": "オリンピック",
       "romaji": "orinpikku",
       "english": "Olympics",
-      "level": "A2-2"
-    },
-    {
-      "kana": "スポーツ",
-      "romaji": "supootsu",
-      "english": "sports",
       "level": "A2-2"
     },
     {
@@ -15213,13 +10648,6 @@
       "level": "A2-2"
     },
     {
-      "kana": "あに",
-      "kanji": "兄",
-      "romaji": "ani",
-      "english": "(my) elder brother",
-      "level": "A2-2"
-    },
-    {
       "kana": "あの ころ",
       "romaji": "anokoro",
       "english": "those days",
@@ -15229,19 +10657,6 @@
       "kana": "あまえます",
       "romaji": "amaemasu",
       "english": "to depend on",
-      "level": "A2-2"
-    },
-    {
-      "kana": "いいます",
-      "kanji": "言います",
-      "romaji": "iimasu",
-      "english": "to say/to tell",
-      "level": "A2-2"
-    },
-    {
-      "kana": "いちばん",
-      "romaji": "ichiban",
-      "english": "first (place)",
       "level": "A2-2"
     },
     {
@@ -15257,28 +10672,9 @@
       "level": "A2-2"
     },
     {
-      "kana": "うれしい",
-      "romaji": "ureshii",
-      "english": "happy/glad/delighted",
-      "level": "A2-2"
-    },
-    {
-      "kana": "おきます",
-      "kanji": "起きます",
-      "romaji": "okimasu",
-      "english": "to get up",
-      "level": "A2-2"
-    },
-    {
       "kana": "おしゃれします",
       "romaji": "oshareshimasu",
       "english": "to get dressed up",
-      "level": "A2-2"
-    },
-    {
-      "kana": "おそい",
-      "romaji": "osoi",
-      "english": "late/slow",
       "level": "A2-2"
     },
     {
@@ -15291,20 +10687,6 @@
       "kana": "かなしい",
       "romaji": "kanashii",
       "english": "sad",
-      "level": "A2-2"
-    },
-    {
-      "kana": "かんこく",
-      "kanji": "韓国",
-      "romaji": "Kankoku",
-      "english": "South Korea",
-      "level": "A2-2"
-    },
-    {
-      "kana": "かんこくご",
-      "kanji": "韓国語",
-      "romaji": "Kankokugo",
-      "english": "Korean language",
       "level": "A2-2"
     },
     {
@@ -15327,23 +10709,9 @@
       "level": "A2-2"
     },
     {
-      "kana": "こうこう",
-      "kanji": "高校",
-      "romaji": "kookoo",
-      "english": "high school",
-      "level": "A2-2"
-    },
-    {
       "kana": "ころ",
       "romaji": "koro",
       "english": "during",
-      "level": "A2-2"
-    },
-    {
-      "kana": "ごけっこん",
-      "kanji": "ご結婚",
-      "romaji": "gokekkon",
-      "english": "marriage (in polite way)",
       "level": "A2-2"
     },
     {
@@ -15379,29 +10747,10 @@
       "level": "A2-2"
     },
     {
-      "kana": "しゅうしょく(します)",
-      "romaji": "shuushoku",
-      "english": "getting a job",
-      "level": "A2-2"
-    },
-    {
       "kana": "しょうがくせい",
       "kanji": "小学生",
       "romaji": "shoogakusee",
       "english": "elementary school student",
-      "level": "A2-2"
-    },
-    {
-      "kana": "しょうがっこう",
-      "kanji": "小学校",
-      "romaji": "shoogakkoo",
-      "english": "elementary school",
-      "level": "A2-2"
-    },
-    {
-      "kana": "しんぶん",
-      "romaji": "shinbun",
-      "english": "newspaper",
       "level": "A2-2"
     },
     {
@@ -15424,37 +10773,9 @@
       "level": "A2-2"
     },
     {
-      "kana": "そつぎょう(します)",
-      "kanji": "卒業(します)",
-      "romaji": "sotsugyoo",
-      "english": "graduation (to graduate)",
-      "level": "A2-2"
-    },
-    {
-      "kana": "そと",
-      "kanji": "外",
-      "romaji": "soto",
-      "english": "out/outside/outdoors",
-      "level": "A2-2"
-    },
-    {
       "kana": "たいしょく(します)",
       "romaji": "taishoku (shimasu)",
       "english": "retirement (to retire)",
-      "level": "A2-2"
-    },
-    {
-      "kana": "ちち",
-      "kanji": "父",
-      "romaji": "chichi",
-      "english": "(my) father",
-      "level": "A2-2"
-    },
-    {
-      "kana": "ちゅうがっこう",
-      "kanji": "中学校",
-      "romaji": "chuugakkoo",
-      "english": "junior high school",
       "level": "A2-2"
     },
     {
@@ -15483,12 +10804,6 @@
       "level": "A2-2"
     },
     {
-      "kana": "ならいます",
-      "romaji": "naraimasu",
-      "english": "to learn",
-      "level": "A2-2"
-    },
-    {
       "kana": "なんとか",
       "romaji": "nantoka",
       "english": "somehow",
@@ -15508,30 +10823,9 @@
       "level": "A2-2"
     },
     {
-      "kana": "はは",
-      "kanji": "母",
-      "romaji": "haha",
-      "english": "(my) mother",
-      "level": "A2-2"
-    },
-    {
-      "kana": "ひとり",
-      "kanji": "１人／一人",
-      "romaji": "hitori",
-      "english": "one person",
-      "level": "A2-2"
-    },
-    {
       "kana": "ひどい",
       "romaji": "hidoi",
       "english": "terrible",
-      "level": "A2-2"
-    },
-    {
-      "kana": "ふたり",
-      "kanji": "２人／二人",
-      "romaji": "futari",
-      "english": "two people",
       "level": "A2-2"
     },
     {
@@ -15545,12 +10839,6 @@
       "kana": "ほめます",
       "romaji": "homemasu",
       "english": "to compliment",
-      "level": "A2-2"
-    },
-    {
-      "kana": "もじ",
-      "romaji": "moji",
-      "english": "letter/character",
       "level": "A2-2"
     },
     {
@@ -15572,13 +10860,6 @@
       "level": "A2-2"
     },
     {
-      "kana": "りょうしん",
-      "kanji": "両親",
-      "romaji": "ryooshin",
-      "english": "parents",
-      "level": "A2-2"
-    },
-    {
       "kana": "わざあり",
       "kanji": "わざあり",
       "romaji": "wazaari",
@@ -15589,12 +10870,6 @@
       "kana": "オイルショック",
       "romaji": "oirushokku",
       "english": "oil shock",
-      "level": "A2-2"
-    },
-    {
-      "kana": "カタカナ",
-      "romaji": "katakana",
-      "english": "KATAKANA (one of the Japanese scripts)",
       "level": "A2-2"
     },
     {
@@ -15610,23 +10885,10 @@
       "level": "A2-2"
     },
     {
-      "kana": "タイ",
-      "romaji": "Tai",
-      "english": "Thailand",
-      "level": "A2-2"
-    },
-    {
       "kana": "タイご",
       "kanji": "タイ語",
       "romaji": "Taigo",
       "english": "Thai language",
-      "level": "A2-2"
-    },
-    {
-      "kana": "タイじん",
-      "kanji": "タイ人",
-      "romaji": "Taijin",
-      "english": "Thai people",
       "level": "A2-2"
     },
     {
@@ -15648,25 +10910,6 @@
       "level": "A2-2"
     },
     {
-      "kana": "パーティー",
-      "romaji": "paathii",
-      "english": "party",
-      "level": "A2-2"
-    },
-    {
-      "kana": "フランスご",
-      "kanji": "フランス語",
-      "romaji": "Furansugo",
-      "english": "French language",
-      "level": "A2-2"
-    },
-    {
-      "kana": "ブラジル",
-      "romaji": "Burajiru",
-      "english": "Brazil",
-      "level": "A2-2"
-    },
-    {
       "kana": "ラグビー",
       "romaji": "ragubii",
       "english": "rugby",
@@ -15676,13 +10919,6 @@
       "kana": "ラグビーぶ",
       "romaji": "ragubiibu",
       "english": "rugby club",
-      "level": "A2-2"
-    },
-    {
-      "kana": "～じん",
-      "kanji": "～人",
-      "romaji": "～jin",
-      "english": "people of～ (country)",
       "level": "A2-2"
     },
     {
