@@ -7,7 +7,7 @@ export function WordEntryRow(
 ) {
   return (
     <div
-      class={`flex items-center justify-between p-4 bg-white rounded-lg shadow-lg ${
+      class={`flex items-center justify-between p-4 bg-white rounded-lg shadow-md ${
         extraClass ?? ""
       }`}
       style={`${show || "display: none"}`}
