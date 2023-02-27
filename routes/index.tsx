@@ -4,7 +4,7 @@ import words from "../static/words.json" assert { type: "json" };
 
 export default function Home() {
   return (
-    <>
+    <div class="bg-gray-50">
       <Head>
         <title>Marugoto Words</title>
       </Head>
@@ -18,6 +18,6 @@ export default function Home() {
           </>
         ))}
       </div>
-    </>
+    </div>
   );
 }
