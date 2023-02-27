@@ -1,7 +1,5 @@
 import { Head } from "$fresh/runtime.ts";
-import { WordEntryRow } from "../components/WordEntry.tsx";
-import SearchBar from "../islands/SearchBar.tsx";
-import words from "../static/words.json" assert { type: "json" };
+import SearchAndResult from "../islands/SearchAndResult.tsx";
 
 export default function Home() {
   return (
@@ -12,14 +10,7 @@ export default function Home() {
       <div class="p-4 mx-auto max-w-screen-md">
         <h1 class="text-4xl font-bold">Marugoto Words</h1>
         <br />
-        <SearchBar></SearchBar>
-        <br />
-        {words.data.map((w) => (
-          <>
-            <WordEntryRow word={w}></WordEntryRow>
-            <br />
-          </>
-        ))}
+        <SearchAndResult />
       </div>
     </div>
   );
