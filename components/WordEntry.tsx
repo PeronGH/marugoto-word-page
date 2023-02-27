@@ -1,6 +1,17 @@
-export function WordEntryRow({ word }: { word: MarugotoWord }) {
+export function WordEntryRow(
+  { word, show, extraClass }: {
+    word: MarugotoWord;
+    show: boolean;
+    extraClass?: string;
+  },
+) {
   return (
-    <div class="flex items-center justify-between p-4 bg-white rounded-lg shadow-lg">
+    <div
+      class={`flex items-center justify-between p-4 bg-white rounded-lg shadow-lg ${
+        extraClass ?? ""
+      }`}
+      style={`${show || "display: none"}`}
+    >
       <div class="flex flex-col mr-4 text-gray-900">
         <p class="text-xl font-bold leading-tight">{word.kanji ?? word.kana}</p>
         <p class="text-lg font-medium text-gray-500 leading-tight">
