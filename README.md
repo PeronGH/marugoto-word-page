@@ -1,4 +1,6 @@
-# fresh project
+# Marugoto Word Page
+
+[Deno Deploy Page](https://marugoto.deno.dev/)
 
 ### Usage
 
