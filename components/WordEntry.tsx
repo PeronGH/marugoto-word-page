@@ -1,10 +1,15 @@
-export default function WordEntry({ word }: { word: MarugotoWord }) {
+export function WordEntryRow({ word }: { word: MarugotoWord }) {
   return (
-    <div>
-      {word.kana}
-      <br />
-      {word.english}
-      <br />
+    <div class="flex items-center justify-between p-4 bg-white rounded-lg shadow-lg">
+      <div class="flex flex-col mr-4">
+        <p class="text-2xl font-bold leading-tight">{word.kana}</p>
+        <p class="text-lg font-medium text-gray-500 leading-tight">
+          {word.romaji}
+        </p>
+      </div>
+      <div class="text-lg font-medium text-gray-500 text-right">
+        <p>{word.english}</p>
+      </div>
     </div>
   );
 }
