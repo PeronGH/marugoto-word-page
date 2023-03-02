@@ -16,7 +16,7 @@ export default function SearchAndResult() {
   const fuse = new Fuse(data, {
     findAllMatches: true,
     keys: ["romaji", "english", "kana", "kanji"],
-    threshold: 0.15,
+    threshold: 0.2,
   });
 
   return (
