@@ -3,7 +3,7 @@ import SearchAndResult from "../islands/SearchAndResult.tsx";
 
 export default function Home() {
   return (
-    <div class="bg-gray-50">
+    <div class="bg-gray-50 min-h-screen">
       <Head>
         <title>Marugoto Words</title>
       </Head>

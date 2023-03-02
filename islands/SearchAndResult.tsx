@@ -38,13 +38,11 @@ export default function SearchAndResult() {
           ? (searchResults.map((r) => (
             <WordEntryRow word={r.item} extraClass="mb-4" />
           )))
-          : (isSearching
-            ? (
-              <p class="flex text-xl font-bold place-self-center">
-                No match found
-              </p>
-            )
-            : <></>)}
+          : (
+            <p class="flex text-xl font-bold text-gray-600 place-self-center">
+              {isSearching ? "No results found" : "Please search for a word"}
+            </p>
+          )}
       </div>
     </>
   );
