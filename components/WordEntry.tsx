@@ -30,5 +30,4 @@ export type MarugotoWord = {
   kanji?: string;
   romaji: string;
   english: string;
-  level: string;
 };
