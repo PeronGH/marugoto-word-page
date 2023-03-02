@@ -1,31 +1,51 @@
 import { useState } from "preact/hooks";
-import { WordEntryRow } from "../components/WordEntry.tsx";
+import { MarugotoWord, WordEntryRow } from "../components/WordEntry.tsx";
 import { SearchBar } from "../components/SearchBar.tsx";
 import words from "../static/words.json" assert { type: "json" };
+import Fuse from "fuse.js";
 
 export default function SearchAndResult() {
   const { data } = words;
-  const [search, setSearch] = useState("");
+
+  const [isSearching, setIsSearching] = useState(false);
+
+  const [searchResults, setSearchResults] = useState<
+    Fuse.FuseResult<MarugotoWord>[]
+  >([]);
+
+  const fuse = new Fuse(data, {
+    findAllMatches: true,
+    keys: ["romaji", "english", "kana", "kanji"],
+    threshold: 0.15,
+  });
 
   return (
     <>
       <SearchBar
-        onInput={(s) => {
-          setSearch(s);
+        onInput={(query) => {
+          if (query.length < 1) {
+            setIsSearching(false);
+            setSearchResults([]);
+          } else {
+            setIsSearching(true);
+            setSearchResults(fuse.search(query));
+          }
         }}
       />
       <br />
-      {data.map((w) => (
-        <>
-          <WordEntryRow
-            word={w}
-            show={w.romaji.toLowerCase().includes(search.toLowerCase()) ||
-              w.english.toLowerCase().includes(search.toLowerCase()) ||
-              w.kana.includes(search) || !!w.kanji?.includes(search)}
-            extraClass="mb-4"
-          />
-        </>
-      ))}
+      <div class="flex flex-col">
+        {searchResults.length > 0
+          ? (searchResults.map((r) => (
+            <WordEntryRow word={r.item} extraClass="mb-4" />
+          )))
+          : (isSearching
+            ? (
+              <p class="flex text-xl font-bold place-self-center">
+                No match found
+              </p>
+            )
+            : <></>)}
+      </div>
     </>
   );
 }

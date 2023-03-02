@@ -1,6 +1,7 @@
 {
   "version": "2",
   "remote": {
+    "https://cdn.jsdelivr.net/npm/fuse.js@6.6.2/dist/fuse.esm.js": "6827a36e51727ae8e4b741aa01f90b1324526808746557802b447342eea45c94",
     "https://deno.land/std@0.140.0/_util/assert.ts": "e94f2eb37cebd7f199952e242c77654e43333c1ac4c5c700e929ea3aa5489f74",
     "https://deno.land/std@0.140.0/_util/os.ts": "3b4c6e27febd119d36a416d7a97bd3b0251b77c88942c8f16ee5953ea13e2e49",
     "https://deno.land/std@0.140.0/fs/_util.ts": "0fb24eb4bfebc2c194fb1afdb42b9c3dda12e368f43e8f2321f84fc77d42cb0f",
@@ -103,6 +104,8 @@
     "https://deno.land/x/ts_morph@16.0.0/ts_morph.d.ts": "38668b0e3780282a56a805425494490b0045d1928bd040c47a94095749dab8c3",
     "https://deno.land/x/ts_morph@16.0.0/ts_morph.js": "9fc0f3d6a3997c2df023fabc4e529d2117d214ffd4fd04247ca2f56c4e9cd470",
     "https://esm.sh/*preact-render-to-string@5.2.4": "0d8fcf917e7e971446b28b632d039cbfefd69a7000fd4c677446440be5b2891a",
+    "https://esm.sh/fuse.js@6.6.2": "905f99ed57d6b1dec314d77c110729876a65d617548afbef63ead206b01276da",
+    "https://esm.sh/fuse.js@6.6.2/dist/fuse.esm.js": "e4e3b64c6328771e0183cd852180ff335fd2b7a0157100d6b09b2f11c916cba2",
     "https://esm.sh/preact@10.11.0": "e888b244446037c56f1881173fb51d1f5fa7aae5599e6c5154619346a6a5094e",
     "https://esm.sh/preact@10.11.0/hooks": "2b8ec155eb8b87501663f074acff1d55a9114fa7d88f0b39da06c940af1ff736",
     "https://esm.sh/preact@10.11.0/jsx-runtime": "5c123264f19799ab243211132dded45f6d42d594b5c78dd585f947d07bf20eae",
@@ -119,11 +122,25 @@
     "https://esm.sh/v108/preact@10.11.0/jsx-runtime/src/index.d.ts": "e153460ed2b3fe2ad8b93696ecd48fbf73cd628b0b0ea6692b71804a3af69dfd",
     "https://esm.sh/v108/preact@10.11.0/src/index.d.ts": "1a5c331227be54be6515b0c92a469d352834fa413963ae84a39a05a3177111f6",
     "https://esm.sh/v108/preact@10.11.0/src/jsx.d.ts": "c423715fd7992b2e1446fea11d2d04e8adbd66c1edca1ce5e85f90e0d26a2eb2",
+    "https://esm.sh/v110/fuse.js@6.6.2/deno/dist/fuse.esm.js": "45fe5426d2001a4ee4c5da5b5baf2c657babe40844925d3df7498fe99054499c",
+    "https://esm.sh/v110/fuse.js@6.6.2/deno/fuse.js": "9c1aee5dad0a469470ab975e7919ae33810ee22f7de8a9938b71da0b6f7d9c73",
+    "https://esm.sh/v110/fuse.js@6.6.2/dist/fuse.d.ts": "ebcc87729293bedddea27e5f4b859f2bd3b1b1aad6fff528d2096a04f5fe7be0",
     "https://esm.sh/v92/csstype@3.1.0/index.d.ts": "ba7617784f6b9aeac5e20c5eea869bbc3ef31b905f59c796b0fd401dae17c111",
     "https://esm.sh/v92/style-vendorizer@2.2.3/deno/style-vendorizer.js": "bacdb96f034bbdae11a8d90427a6d49270d28d5939f02dbf0e7d0e52491ff9e3",
     "https://esm.sh/v92/twind@0.16.17/deno/sheets.js": "f75586c3a778278f99ca9e6761e8c8a2089c66d6a503bb25e3bba38597fe1e30",
     "https://esm.sh/v92/twind@0.16.17/deno/twind.js": "daef061e4bfa2f6bcc0aec4e243b7092ef24e52957fbac25dd22240e751e932d",
     "https://esm.sh/v92/twind@0.16.17/sheets/sheets.d.ts": "0baec8d8f420518405893f6594519fddccb48342ea39145645b1795ce8cd7dd9",
     "https://esm.sh/v92/twind@0.16.17/twind.d.ts": "40b6ad57c6e2cd9c464e348a6351696922e987f2d83b82cf3eaa64b6078fd3a1"
+  },
+  "npm": {
+    "specifiers": {
+      "fuse.js": "fuse.js@6.6.2"
+    },
+    "packages": {
+      "fuse.js@6.6.2": {
+        "integrity": "sha512-cJaJkxCCxC8qIIcPBF9yGxY0W/tVZS3uEISDxhYIdtk8OL93pe+6Zj7LjCqVV4dzbqcriOZ+kQ/NE4RXZHsIGA==",
+        "dependencies": {}
+      }
+    }
   }
 }
